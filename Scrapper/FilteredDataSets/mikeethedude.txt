@@ -1,0 +1,855 @@
+I used to use a visual tool for Git in the past and there was always such a mystery to how Git actually worked Now I am using command line and it is still a mystery but I look like I know what I m doing at least webdev versioncontrol 
+I haven t pulled the trigger on releasing the hard copy of Ember in the Darkness It isn t that I don t think it is ready I m not sure what it is I will definitely get it out there this year I just have to let go a bit amwriting selfpublishing 
+This is my fave t co lR d ub nu 
+Yessssss My shirts from PopUpTee came and I m so excited notanad Idonthavethatmanyfollowers 
+xdebug when I need it No breakpoints Try again for no reason 
+ 
+xdebug when I don t need it I must stop on everything 
+webdev debugging t co vb O ulIlq 
+I m going to wait to play the new Kingdom Hearts game I don t have the time I did when the second game was released and I m not sure I m the target audience anymore Neat that it actually happened though 
+Sleepy writing goals 
+Finish first draft of time loop drama 
+Finish editing on book two of heart of fire 
+Remember how much you love writing despite how much anxiety the other two goals cause 
+amwriting amediting 
+I really do like reactjs better than some of the other options out there The only thing is that I m finding that I like most of the supporting tech a bit better than react itself I couldn t even webpack before I started this 
+Working in React for the first time Wow look how organized everything is 
+Working in React for the th time Why can t I find where this prop is coming from webdev 
+amazingrando Read Write Exefruit 
+Sara_Flower I like to call it free therapy There are many half written stories and ideas that mostly serve to clear our my mind xD 
+Sara_Flower It s a good thing I love writing 
+Is there a composer just kidding command I guess I ll just revert all of these changes and update the thing I wanted more specifically webdev 
+Finally unlocked all of the characters in Super Smash Bros Ultimate It doesn t feel like there are that many but what a selection 
+One on the way for the Goulding clan t co EviIWZkiOm 
+A hand picked mix of anime you can watch instantly on Crunchyroll This is also pretty much what I m watching lately t co DBxPyOb vV 
+hdevalence people say that linux doesnt have good games and yet git rebase exists 
+MadisonBrown t co U hB Nb ir 
+therealcliffyb Razer I need to come back to that game too More fun than I thought it d be for a phone mmo 
+I am pretty quick at typing humblebrag but as a developer what that really means is that I can hit the delete key faster than some webdev 
+It s easy to forget just how easy it is to add custom blocks and block types to drupal Now to get my head back into this stuff for the new year 
+There are basic years and then there are years with us Welcome to xboxyearinreview t co Tp FKgExRr xboxyearinreview 
+lolamby Symlinks t co QNDuSA yT 
+Everyone s year was different but this is how sounded to me Get yours Wrapped Spotify t co y UgOwfA 
+amazingrando FourKitchens t co AQfrv aybc 
+lukeherrington FourKitchens t co s cdO J A 
+Hey check it out I m a web chef So excited to be working fourkitchens t co r qX bpzQX 
+Good Turkey to you and yours Happy Thanksgiving Remember to be thankful all year long and not just when you cook up a meal fit for an army 
+Here is your reminder that PHP and are coming up on EOL You probably have already made the switch or are ready to but if this is the first you are hearing of it Good morning webdev t co PMhD bioR 
+Excelsior Thanks for everything Mr Lee t co wl uLLCES 
+I haven t been into a lot of recent Pok mon content but DetectivePikachu is looking like a fun movie Might have to take the kids to that one after all For the kids and definitely not me Definitely 
+Another in depth talk about cache handling in Drupal We have found that this topic isn t covered as completely as it should be We are hoping to correct that by sharing what we know t co TAVzCA cpK 
+AshdayInteract Happy Halloween Put some treats out to keep the errors away t co kxyvysMsNk 
+Happy Halloween yo t co tVmZs SfEX 
+Oh man the new ChevelleInc album Bloody Spies is amazing I am just going to have this on repeat for a while 
+Xbox for a chance to win this custom red version of the world s most powerful console Games play better on Xbox One X 
+NoPurchNec 
+Looking for a place to start in getting deeper with caching in drupal and Drupal Well this post is a good place to start Be on the lookout for more in depth discussions about caching in the near future t co cGh WAJXO 
+Got a brief chance to play Assassin s Creed Odyssey on ProjectStream by Google Very impressive Hoping to get more than minutes to really dive in 
+AshdayInteract Focus on building your business not running your business A robust software solution built upon a CMS may be the solu 
+NintendoAmerica I just saw the date for this I m soo excited for Super Dodge Ball That was one of my favorites 
+Hey Xbox how do I sign up to test ProjectxCloud because that is exactly my jam right now 
+Unpopular opinion I don t actually want Netflix or other streaming services on my Switch I already have like other devices that can do that within reach 
+AshdayInteract These tips will help you get more out of Drupal than ever before 
+ 
+starwars Never available in AZ 
+I know a storm trooper Does that count MyCrewGiveaway HanSolo 
+DamienMcKenna getpantheon We ended up using a hosted Solr solution for a similar reason We needed some of the new Date indexing that was only available in Solr There are some decent Solr hosts out there that do the job Not as convenient or free but works 
+AshdayInteract If you run a site that is in need of new or dynamic forms on at least a monthly basis then Drupal Webform is a li 
+TMNT RisePrize I m excited to show my kids the new TMNT And definitely watch with them 
+AshdayInteract Four tips and suggested modules for fine tuning SEO within Drupal 
+ 
+I know I ve already commented on this but new Luigi s Mansion new Animal Crossing and Katamari Reroll just made me so happy to be a Switch owner I didn t even get the whole picture about Nintendo online and I m so on board NintendoDirect 
+NintendoAmerica A whole host of legendary FINAL FANTASY titles are being released on NintendoSwitch over the coming months and into 
+New Animal Cross on Switch too is going to be a good year to have a Switch it seems NintendoDirect 
+AHHH Katamari on Switch NintendoDirect t co YPt D GUpU 
+Hey Arby s I have a cartoony avatar Want to MakeMySandwich 
+GameSpot Pretty much all of the Nintendo home consoles PS Xbox and Xbox One Faves included Chrono Trigger Kirby s Air Ride Phantasy Star Online amp Plus Perfect Dark Time Splitters and so many more 
+JackRyan 
+AshdayInteract Think your website may have been hacked Here are few things to look when self diagnosing your site 
+ 
+Do you remember when you joined Twitter I do MyTwitterAnniversary Dang I ve been on this for years t co B QUOQpkd 
+AshdayInteract Upgrading to Drupal Ask these questions first to avoid headaches down the road t co NDKaIhLtJB 
+CodeWisdom Every great developer you know got there by solving problems they were unqualified to solve until they actually did it 
+NintendoAmerica Going for TeamPikachu to get the maximum Pok mon Yellow nostalgia going 
+drupal_org Featured case study t co kJUwq R m Decoupled Drupal Rebuild t co xIpU o t 
+If you ever need to explain drupal to someone who isn t familiar send them to this article My coworker Brian did a fantastic job laying it out in an easy to understand way t co d BHjYlF 
+ChuckWendig It s okay to pronounce GIF with the soft g or hard g 
+ 
+Any snarky response HAR HAR IS IT PRONOUNCED JRAPHICS is complet 
+The kids were comparing their favorite superheroes to see which was the strongest Hulk Captain Marvel Spider man Batman and Wonder Woman It took everything in me to not weigh in Obviously Captain Marvel wins Just glad the kids were having fun with it nerddad 
+Hey becausescience I was just rewatching the first episode of the new Voltron and I have a question for you Wouldn t the whole team be dead passed out in that first little trip inside the blue lion That has to be a lot of g s t co txlzS bNa 
+d love As much as I love Dragon Ball and Smash I definitely don t want this It took me a while to be okay with Sonic and Snake in the roster as it was Also don t we have enough characters in ultimate 
+Say what you will about all of the new local dev setups but I still really love our ansible vagrant setup It has been the most stable and flexible environment for us since we ve made the switch to vm s 
+webdesign webdev t co m XnxPISOV 
+d love This is going to be my night now The nostalgia is strong 
+d love Wait what 
+If you use the GCPcloud you should check out the natural language services for smart tagging and more We put together a drupal module to allow you to take advantage of that easier t co lq dloCq 
+Using an auto prefixer with our task runner has changed the way I write scss css You should too webdev ThursdayThoughts 
+Curious why your website says not secure You should get an SSL The people of the internet have spoken t co NmjnsafU 
+drupalsecurity The core release today will be closer to pm Eastern PM UTC 
+So you know php and are EOL the end of this year right webdev Just saying you might want to make the move pretty soon here 
+I haven t even put the game in yet I m so over the moon about the Sonic Mania Plus presentation Excited to introduce the kids to sonic_hedgehog t co onJHTLYHvU 
+AshdayInteract Taxonomies in Drupal can be a pain With Straw we are hoping to change that a bit Tag content with the right terms wi 
+AshdayInteract Drupal has many out of the box tools that are an absolute must for the publishing industry Publishing websites like 
+AttackOnTitan let s see if season three is better than two 
+Not one to toot my own horn normally but our website looks pretty darn good on mobile t co dgo T VM webdev mobilefirst 
+chipmunkofpower This is fun Thanks 
+Explaining reactjs to someone who isn t technical is a tough task sometimes The same would go for any Javascript based anything really It wouldn t be worth the effort if it wasn t for how popular it has become as of late 
+KaiserNeko Holy cow yeah that looks good I wasn t into this when they announced Broly but I m sold now 
+holly So you can netflix while you netflix obviously t co slhnqMIBGu 
+AshdayInteract Drupal is a pretty big step forward from Drupal What exactly is an upgrade going to entail What do you need to co 
+channelfred NickAnimation Chuckie 
+Check out t co DA AaUDI L to see what I mean We put out good information for a variety of audiences If you are interested in webdev I think we have you covered More topics coming soon 
+I ve been really hitting the marketing end of things hard lately and I can tell you that nothing feels as good as getting good quality content out there I m really proud of our blog collection Does it have some good SEO Yes Even more important though is content quality 
+WatchVRV t co nKhrnRdsfb 
+Nothing like jumping into what was essentially a walk in freezer to beat the summer heat t co hBUesHd 
+AshdayInteract Drupal is great for third party integrations and our recent modules for OmedaDataDriven are a perfect example of that 
+AshdayInteract Coffee is a magical thing It gets you going clarifies your thoughts makes you feel all warm inside I don t know wha 
+Something something Javascript based framework 
+AshdayInteract Drupal has been available now for more than two years but if your site is up and running on Drupal or you may 
+WatchVRV FLASH CONTEST amp Follow WatchVRV for a chance to win your very own VRV T shirt t co BDY KqVK 
+JaxBladeFitness I know I clicked like on this but you also earned BOOO for that one 
+AshdayInteract It s usually the subtle little things that makes a good web design a great design It s also those same little things t 
+KaiserNeko How is SatAM not the runaway on this 
+Also Crunchyroll retweeted me lt 
+KannaHayabusa Crunchyroll This one is just a manga so far but you can get it on Crunchyroll s Manga app if you have premium I d recommend it for sure 
+Acsor_ Crunchyroll Sometimes you just need some generic shounen fun Fairy Tail was a good time It didn t break any ground but it was fun and that s all you need 
+I love that this tweet got so much traction with a typo Very excited to see where this manga goes 
+I don t know who to tell but Crunchyroll Eden s zero is so good I know it s just the first chapter but it s so scratches that fairy tail itch 
+AshdayInteract At Ashday we ve built many integrations between Drupal and other systems and although every integration is differen 
+Can someone make Rocky vs Rambo in space Please and thanks Come on TheSlyStallone you still got this 
+Dude bookingcom you sent me of the same Father s day email yesterday Tell your bots to calm down 
+I m so bad at Fortnite It isn t even funny I d like to think I m pretty good at other similar games and just games in general but I am flat terrible at this one Maybe I m just old now 
+I want to be this cool someday t co wprt ZUVd 
+Google thinks I keep up with the World Cup apparently Maybe I should start WorldCup 
+AshdayInteract Drupal s admin is very friendly to developers but unnecessarily verbose when it comes to editors Clint unpacks how we 
+We tried so hard to do a serious thoughtful pose for this I just couldn t do it xD t co F eRdiCn 
+I m so bad at fortnite 
+AshdayInteract Do you need a content management system for your business How do you choose WordPress and Drupal are great options 
+billingsley t co FotHMdlMb 
+We ve been working with React for a while now It s great to have our website using it too Points for decoupled drupal and reactjs for sure t co IOuZMAvmKr 
+Crunchyroll Kuranchir ru 
+AshdayInteract Do you want to use HelloSignAPI with Drupal Check out our blog post about the module that can help you do just that 
+Daft Punk in the WreckitRalph trailer was everything for me I m in Not like I wasn t going to watch it before but it helps 
+This is why I am still on twitter sonic_hedgehog elonmusk MoonPie t co I YJcATKcp 
+davatron The joke is on them I ve been writing all of my code in Access for years 
+BenBSinger Megas XLR was a fun show but Danny Phantom has a lot more material for the team to pull from Would be awesome to see 
+FUNimation BandaiNamcoUS The seismic boxer Mike Tecton 
+AshdayInteract The HelloSign Module for Drupal leverages Drupal s great new features to make using HelloSign with your site even 
+Alright I m kinda on board with the whole Pok mon Let s Go thing It isn t exactly what I wanted but I like the connection to the mobile game with a bit more substance It starts to feel like they are building something bigger 
+AshdayInteract WebDev collaboration is crucial to the success of a project One approach is to ensure that your team members have a s 
+If you ever need to format some code in a blog post with some syntax highlighting I recommend prismjs It is really cool and easy to implement I can t believe I was formatting that by hand before 
+AshdayInteract Trying to determine if Drupal is a good fit for your business Consider these four questions t co JRAEsYbwC 
+AshdayInteract Whether you are on Drupal or now is a better time than ever to upgrade to Drupal Here s why t co xmFLJ 
+AshdayInteract Upgrading to Drupal is no small feat but you should be able to convince your boss without having to resort to grovel 
+FrenchMontana ConcertAtTheCastle I could go for some pizza 
+What will probably my biggest tweet ever was about a show I liked from the mid late s coming back I feel like that sounds about right 
+Wait Wait wait wait Freakazoid is on WatchVRV I m so in I know what I m making the kids watch with me this weekend 
+shanselman HTTPS SSL doesn t mean trust this It means this is private You may be having a private conversation with Satan 
+nixcraft Intern sysadmin I don t know anything 
+ 
+Junior Sysadmin I know everything 
+ 
+Me I know nothing 
+AshdayInteract These two key practices will allow you to drive home your webdev projects in style with greater levels of client sati 
+Do you use the HelloSignAPI with drupal We put together a module for that and just a couple of months ago released a stable drupal version t co RCQcitgTFF Check it out 
+Ever open the wrong app like times in a row Pretty sure my brain isn t on yet this morning 
+AshdayInteract In the battle of Drupal vs Wordpress which Content Management System reigns supreme t co Iw k ASHVv 
+Curious if King s Hawaiian rolls make for good french toast Thanks to IHOP I can say for certain that they do not Blah 
+AshdayInteract Which of these current web design trends do you hope are here to stay t co acOKDC wYR 
+This is just amazing Also hard to resist playing with the style settings in browser t co FDSXKxOxDQ 
+Getting automated can be a bit daunting at first but if you can make it work it will save you a lot of time We love using circleci for our ContinuousIntegration and really as a vehicle for some automated testing t co h H Y BBAf 
+AshdayInteract Re reviewing client priorities regularly especially towards the end of an assignment can help keep your project from 
+Have I mentioned how happy I am that we use getpantheon for a lot of our sites We rolled out updates to a bunch of sites within an hour of release with zero headache notanad justahappycustomer 
+Please update your Drupal sites Pretty please 
+Kids are watching one of the Land Before Time movies and I m just sitting here thinking Hey that s yakkopinky as a vegetarian raptor Neat 
+Crell todo remember to add comments to this function 
+function non_obvious_function_title 
+arhourigan It blew minds when I showed some fellow web developers two different color picker results on the same computer with two monitors 
+simplyjxn Absolutely I had a very similar experience with it It was just crowded enough that you never felt isolated There was also something about the variety of jobs and such that I haven t found anywhere else 
+simplyjxn RO ruined MMO s for me I never found another one I liked as well after I stopped playing that one 
+awildamanda Those are definitely four of my faves Makes me want to shake up the four I posted Almost 
+I m so tempted to swap out Skyrim for Kirby super star or resident evil 
+Picking four games is no small task Here are the ones I landed on Probably not super surprising choices GameStruck t co SbNlOp LMF 
+AshdayInteract Fill a room with the smartest engineers plan a big project and by the end you ll still feel like you played an expen 
+React components and Drupal paragraphs make for a fun box of Legos to play with reactjs drupal webdev 
+Wow I figured the new reboot of Reboot would be kinda bad but that is painful to watch The nostalgia goggles aren t getting me through that one 
+I asked my coworker brian_ashday to bring me a couple stickers from DrupalCon He definitely delivered Now to resist covering the AshdayInteract office with them t co V epceQKHq 
+Hey drupal any room for another Drupal themed video series Something a little free form and focused on drupal Asking for a friend 
+We know making the leap to Drupal can be scary In the end it is a great investment in future stability and performance We are glad we did it and we can help you get there too t co SRJfDv NPo 
+Oh hey it s Friday and it s the th Neat t co OOMPiP ehh 
+AshdayInteract The next two locations for drupalconna have been announced Seattle for and Minneapolis for We are definite 
+drupalcon And the next DrupalCon in North America will be in Seattle April t co cexFppjqrf 
+Yay DrupalCon is going to be in Seattle I m so excited 
+AshdayInteract The Ashday crew is going strong as the second day of DrupalCon comes to a close Well most of them at least 
+I m really digging the new look that t co sC jmhmudu is rocking now It looks more inviting and I think it will be a great first impression for newcomers Yay drupal 
+merlinofchaos DamienMcKenna I do recall being able to do that exact thing as a kid I want to see this crazy DropPress repo t co uxWnJ Hdi 
+AshdayInteract The team is having a great time at DrupalCon If you find brian_ashday make sure you ask him plenty of questions 
+AshdayInteract Excited to be at drupalcon Where else can you find dries in a cowboy hat driesnote t co HkF qvYsXm 
+MatPatGT Help me settle a debate I m having with my wife 
+ 
+for peppermint Like for spearmint 
+WatchVRV I only accept one chosen sword t co Gh uLziKD 
+Here is our take on where Drupal and WordPress sit here in Both have things that they are better suited for but is one better than the other t co VABDox Vir 
+eojthebrave lullabot Sounds good 
+eojthebrave I won t be out there personally but I ve tasked the rest of the Ashday team with obtaining at least one of those for me 
+eojthebrave That s awesome I m going to have to find one out there 
+I like using my MacBook for development but I ll never be able to easily parse the symbols for some of the keys Press I means nothing to me still p 
+I want to get some sort of Google Home or Amazon Alexa type thing going in the house but I know it will only take a day for one of the kids to make me regret that Maybe I ll just have to wait until they can lock it down by voice 
+I was coding on the couch yesterday with my yr old and he asked if he could try to code I saved my work opened up a new file and told him to take a crack at it He proceeded to type a few characters and then facepalm frustratedly proudfather webdev 
+AshdayInteract is going to DrupalConNA Who else is going drupal 
+I m digging JesusChristSuperstar a bit more than I thought I would Great talent and a far cry better produced than previous live musical type shows on TV They just needed to figure out the mics a bit more 
+Cheat codes are now enabled for AshdayInteract s blog See it you can find them all t co DA AaUDI L webdev eastereggs 
+I found Waldo 
+That moment when you edit the and chapter twice I m not sure it needed it but it s super edited now amwriting amediting 
+sonic_hedgehog Sonic Mania Adventures Part t co x AzrEBnOB 
+ryanaslett Maybe it got more people to pay attention but I feel like it also got the wrong kind of attention 
+stevepurkiss I guess we shouldn t have to compared every security update to that one in order to get people to update Not sure what else to call it but something else or maybe nothing 
+Critical security update for Drupal gets announced and the community labels it Drupalgeddon I feel like that isn t the right way to promote the platform The security team did great at getting notice out and getting patches ready What more do you people want 
+Going into the weekend ready to go full in on writing Glad I have a three day weekend to get some work done on that sort of thing amwriting amediting amready 
+hkrys_ Pretty accurate for me too 
+Nearly done with drupal security updates The whole team has been working hard on this today Thanks getpantheon for the swift response in getting that update available t co TfvmR QkqA 
+WatchVRV Boom t co xzLgMfXssI 
+DamienMcKenna and the McDrupageddon was the misunderstood fast food marketing campaign 
+Who loves installing security updates t co RVrTopTPcK 
+greg_ _anderson D That depends on the next couple of hours 
+In case you are wondering why d o is down right now t co m FLvDrJye 
+AshdayInteract Accountability doesn t need to translate to a general culture of blame and shame This week Clint unpacks the culture 
+Server side rendering with reactjs is pretty cool A huge mental shift from what I ve been used to but really fun to work with 
+Going to write a blog post on inline editing with reactjs and Drupal It makes for such a slick and seamless editing experience 
+I always get caught up in personality tests and such I don t know how accurate any of them can be but I enjoy the thought experiment I m an infp t in case that matters 
+AshdayInteract The roles of popular CMS options are shifting Eventually Why Squarespace will Replace Wordpress Wordpress will Repl 
+Rainmaker The ultimate temperature conversion guide 
+ 
+FridayFunDay t co OMEZHwMrh 
+Whenever I can I like to sneak little easter eggs into the AshdayInteract blog See if you can find the latest one I think I ve made sure it s somewhat tough to find by reading the code this time t co DA AaUDI L webdev webdevfun 
+I think it s about time for me to get a Switch I ve been patient and didn t jump on it at launch but seems like is a great time to own one I mean for the kids of course 
+I m so ready for Deadpool t co TyowB LcQE 
+Concerned about your drupal site with the upcoming security update That site is only going to run into more security issues as it ages Now is the time to consider making the jump to drupal AshdayInteract are your Drupal experts 
+reactjs is pretty cool Putting it together with drupal seems like a great fit Just imagining how far we can take our apps with this combination 
+wizonesolutions Yeah I get that Extra pixels aren t worth injury 
+wizonesolutions But what about the extra screen real estate 
+BenBSinger Acnologia from Fairy Tail 
+Great place to work t co Fz zJcqeL 
+I know it isn t required to learn to be a webdev but I am so glad I learned Bash and Pearl first It comes in handy on so many occasions especially since I play devops every now and then 
+Pure CSS flyouts are just so nice 
+This is part of our awesome series on running a webdev project the right way Definitely check it out t co fVFV EyqPT 
+Discover which CMS is right for your project t co QB HyuHRrp drupal wordpress webdev 
+Is it still relevant to leave a Konami code easter egg in a website or is that kinda done at this point AskingForAFriend webdev 
+Hey Room of Swords by Toonimated is amazing If you like webcomics video games or awesome art I highly recommend it notanad awesome 
+ 
+Doing some switching between drupal and drupal has reminded me how much I like There is just so much drupal in the way in it feels like A while back I wrote this blog about it Still rings true t co yxLwga Iti 
+WatchVRV RWBY 
+Talkin Toons 
+Bravest Warriors 
+Fullmetal Alchemist brotherhood or og 
+Soul Eater 
+Ridd e Oh we re using our fake names I m Spider man then 
+That AvengersInfinityWar trailer was pretty cool I m hoping they can get this right 
+greg_ _anderson AshdayInteract That s the first I ve seen that one Looks interesting I ve been using betterSnapTool from the app store for a similar reason I like my vertical screen to have the bottom a snap area for my idea and such with the remaining third on top be for other things 
+It s a little messy but this is what I call the battle station Couldn t webdev or drupal without it anymore Thought I d share after greg_ _anderson shared his yesterday t co GnnPXdS oK 
+I really need to learn to proofread my tweets 
+Finally time to submit some patches I had set aside for a few drupal contrib modules Feels good to give back OpenSource 
+arhourigan Water is an important ingredient in pizza 
+greg_ _anderson Nice I have a similar setup except the middle one is horizontal Couldn t dev without it some days 
+AshdayInteract This week Clint unpacks communication tips that can help you avoid going over budget and over schedule on your next W 
+Pi day 
+Looking for beta testers from cms wordpress drupal webdev We put together a tool to help inform a decision between some popular platforms for a website Hoping to get some feedback t co AVZ Ma ty 
+VZWSupport My wife s Galaxy S had the same issue Let s move this to a DM before I give out zip codes 
+VZWSupport I just did a power cycle and that had three automatic timezone detection work correctly So will I have to remember to restart my phone every dst We don t do daylight savings in AZ so that is pretty annoying 
+VZWSupport Sure I ll play All location services are on and were prior to today 
+VZWSupport Yeah I corrected it manually This is something that happens every couple of years I ve had Verizon for a long time and dst is something I have to override on every device 
+VZWSupport It doesn t seem to matter between cellular and wifi but I was on cellular at the time I have a Moto Z Play Droid If I let the network decide my timezone it is always mountain daylight which is incorrect 
+Stupid dst My phone constantly thinks it is in mountain time despite being in AZ verizon shouldn t your network know better I can override it but I shouldn t have to 
+Expanding my skillset is one thing I love about being a webdev So many useful related technologies to get acquainted with 
+cvanduyn t co mujhIXBEyR 
+YAY smashbros 
+AshdayInteract Software concepts are complex and the key to solving complexity is to break the concept apart into components that can 
+AshdayInteract Does the drupal search module do enough for your site or do you need something more Mike covers this and compares it 
+AshdayInteract This week Clint delves deeper into best practices for WebDevelopment Learn the steps Ashday takes to dig deep into id 
+There is a drupal module for everything Even in drupal now this is pretty much true With that said I still find myself having to roll my own integration for most things 
+DamienMcKenna Note to all Drupal contributors we could use a load of quick help to get all contrib modules ready for PHP The m 
+When you write a great presentation on solr and Drupal search t co DaKkyFRlzF 
+Something refreshing about starting a new drupal site from the minimal profile Really lets you make sure you understand all of the modules in play 
+PainPoint Front End vs Back End t co JY aLso Hu 
+devops sysadmin days are always fun I mean like I writing code as much as the next guy but it s nice to get back into setting up and maintaining servers 
+AshdayInteract There are certain trends that pop up sometimes briefly but other times you ll consistently see them for years to com 
+arhourigan kitten_sighting We are on a two day streak in our house Hoping the little girl forgets about the movie for a little bit so we don t hate it 
+GR Juan Heck yeah it is I don t know what to do with myself D 
+I also like that my th tweet was me receiving my paper book in the mail from amazon Just perfect 
+Got my proof for my paperback Holy cow it s real amwriting t co ikJDWyBneN 
+Hey ToeiAnimation and SquareEnix I m sure someone has suggested this before but how about we have a Chrono Trigger anime ova something I know I d be down I bet it would be something fun between Super and other projects 
+Hey check out this article I wrote webdev s that have been around for a bit will remember flash how it was and not the disaster it has become today t co LPlD TYS 
+ElderScrolls You steal my briar heart valentine 
+ElderScrolls Speaking of red win your own custom NintendoSwitch by replying with a Valentine written to your Skyrim sweetheart 
+ 
+O 
+CommitStrip IT Project Estimates 
+t co RDfX kzmzD t co mE CO rEGk 
+iamdevloper Elon Musk I m putting people on Mars 
+Developers Fantastic more timezones to support 
+Getting to do some more testing with casperjs_org If you want to get started check out this blog I wrote on it t co AsAc hwOPo testing webdev 
+Formatting chapters and words for a paperback is not a small task amwriting amformatting amwritingfantasy 
+jpsmythe I ve mocked up some parabolas for The Rock s SKYSCRAPER jump Red is assuming he jumped up a bit first green assuming he ran 
+I m never surprised when something I just wrote doesn t work on the first try What freaks me out is when it does work and seems to be bug free webdev paranoid whatbug 
+I wrote a book a few years ago I never really got around to promoting it or seriously pursuing publishing but I think I m ready writer 
+Who wants to be my literaryagent I m a programmer so you know I write queries like mad webdev 
+TMNT Nickelodeon I m excited to share this with my kids Plus anything that yakkopinky is part of is going to be great cowabunga t co S GhGdHWkP 
+AshdayInteract Requirements gathering is an essential component in kicking off a Drupal project right This step can be a minefield o 
+WatchVRV Both Watch it twice Definitely worth it I m a little partial to the sub voices because that was how I first experienced the show 
+brian_hanson Obviously he is a robot and the three laws of robotics prevent him from doing so 
+Also we redid the AshdayInteract blog so have a look It s stuffed to the brim with drupal webdev and devops type content Really proud of that we have there 
+devops because someone has to keep this stuff running 
+Dries Ashday s candid Drupal upgrade analysis t co b JeqRe 
+ahaywood Upgrading to Drupal Lessons learned from making the move t co luIcrrezc webdev t co cmkJ dqz L 
+I ve finally gotten my twitter profile close to what I want it to be I think This doesn t matter but that s what in my head 
+Curious about upgrading to drupal It can seem like an impossible task at first but it can be done Check out AshdayInteract s take on this t co dhV T QEA 
+arhourigan Do eeeet 
+A quick take on what those rich search results mean for your website Curious what you think webdev seo t co crnqsG xzL 
+SariCuster As long as that means I get pies in June 
+Wait why isn t NationalPieDay on the same day as NationalPiDay 
+Dan typos 
+WTF who wrote this awful spaghetti Oh git says it was me Stupid past Mike webdev 
+Writing an article on how to choose a cms and it is a doozy Doing all I can as a drupal developer to not come across biased Weird that I have picked up a new love for joomla in the process though 
+When was the last time you stopped and checked the performance of your website Jay wrote a great piece on running some tests to find out 
+ 
+Anxious to see if my session gets selected for DrupalConNA I think there is still time to submit sessions if you haven t yet If I m brave enough to do this after nearly years of drupal then you can too 
+portlandia IFC gofoojihelp Where is the Phoenix love 
+Portlandia 
+I can t remember the last time I had to sftp something for a website Been using git for so long it feels weird webdev 
+CorporateLunch 
+AshdayInteract A closer look at a specialized tool that we use at Ashday to figure out the best ways to make our sites run lightning f 
+Drupal is made for integrations We use it because it can do whatever we want what about you t co diGrBKloX 
+gamespot I don t know why I m so excited right now 
+If at first you don t succeed FATAL ERROR PHP webdev t co dfdrffjqF 
+aniplexUSA netflix Normally I don t rewatch anything but this is always an exception Still so so so good 
+AshdayInteract This week Jay begins taking a look at some of the site analysis tools that we ve used at Ashday to bring our websites 
+xkcd is the best t co L y ExiKi 
+My favorite part of working with drupal and more specifically drupal is how easy it is to integrate it with so many things t co diGrBKloX 
+Upgrading to Drupal can seem like an impossible task We ve done it before and it can be done t co dhV Tos a 
+circleci Copy paste this email to convince your boss you need CI CD t co Jn ip lWsW 
+Twig templates and timezones Just fun stuff to work on when you can t sleep webdev drupal insomnia 
+Crunchyroll Crunchyroll Holiday Entertainment Bundle Sweepstakes 
+for a chance to win this entertainment system amp anime 
+frionel I m sure I m not the first to put this but why not both t co P UJdl r 
+I m so happy auto prefixers work so well these days As a webdev it sure makes life easier when I don t have to keep track of css browser prefixes t co rgSSTROWzL 
+I m loving our new blog avatars at AshdayInteract It s fun and a whole heck of a lot easier than getting developers to take a fancy headshot Check it out at t co Rk Ur dZIo 
+I m still on the fence about Hello Neighbor I ve played through quite a bit of it but I m not sure I would recommend it to anyone It s somewhere between a fumblecore game and a stealthy platformer The problem is that it isn t too great at any of those things 
+It seems like anyone working on drupal knows this but your team should be developing in a virtualized environment if possible It can really reduce oddities during the workflow t co EhrqmUFud 
+KaiserNeko t co XWWIb YVNh 
+t_wolfing arhourigan I m willing to accept that 
+t_wolfing arhourigan Yeah Unless something in and around that temple looking area where the shrine ends up is causing electrical disturbance it doesn t totally add up 
+arhourigan This was so well done Kudos for sure I was hoping you would have mentioned something about the Thundra Plateau in the video since that area is always raining with intense lightning storms Thoughts 
+I m surprised I haven t installed a letsencrypt cert until just now 
+Dang timezone handling If you don t handle it you will have to eventually webdev 
+WatchVRV FLASH CONTEST Follow amp for a chance to win this SIGNED MY HERO ACADEMIA POSTER t co B p myGlV 
+Whether it is drupal or something else you should be cautious before you go and buy a prepackaged solution for your web software needs In some cases it can save you a ton of development time but when something goes wrong it can be a lot of pain t co BU vqS q 
+Sometimes I forget how powerful the render element stuff is in DRUPAL I ve been making a point to make better use of that and it sure has been paying off 
+Do people eat saltines when they aren t recovering from the stomach flu The packaging suggests people do but I don t think I ve ever seen it 
+Nothing like using Imagick to turn a PDF into an image Just another fun adventure in webdev land 
+I m a little biased but I really think you can t beat hiring a specialized team to make your website web application t co BKBOmtY B 
+MatPatGT Today is the ONLY day you can this 
+ 
+The NetNeutrality vote is TOMORROW 
+Make your voice heard NOW or risk paying extra 
+AshdayInteract Although Drupal isn t perfectly able to do everything on its own what system can the ease with which it can be inte 
+Semantic markup is simultaneously awesome and a pain in the butt Accessibility is important though so gotta do it webdev html 
+The testing part of automated testing is tough to get into sometimes I m glad we ve gotten into it now but it can be tough t co AsAc hwOPo drupal webdev 
+JoshuaRystedt Sweet I m hoping to have this ready for beta testing later this week I ll shoot you a DM 
+Posting this again to get more attention on a Monday We are putting together a tool to help folks decide between different CMS Primarily this will be drupal vs wordpress If you want to beta test it and give feedback let me know 
+Umm animalcrossing what s the story on this one Is Hopkins an inflatable bunny t co pyRKHSRPiS 
+animalcrossing I have a fun idea Let s all retweet this tweet If we can get to K retweets worldwide we ll give everyone Leaf 
+We re putting together a tool to help folks choose which cms they should use Primarily looking between drupal and wordpress Would anyone want to help beta test it when it is ready 
+AshdayInteract Using eSignatures can be a great time and paper saver compared to conventional document signing Learn how HelloSign c 
+starwars I wasn t in the right area to take advantage of that Cool promotion though 
+Hey I m pretty excited for the new star wars Maybe more than episode VII gofooji TheLastJedi ReyDay 
+AshdayInteract This week we take a look at of the biggest benefits of hiring a DevelopmentCompany t co RIyEXcPl J 
+Going to submit session for DrupalConNA No clue if it will get picked but if so it would be my first time speaking at any DrupalCon I m feeling like I m ready to do this finally 
+C mon pocketcamp No more server issues 
+I m a little late to the party but trackmania turbo is actually super fun GamesWithGold 
+Also please don t put stuffing inside the turkey That s gross 
+Happy Thanksgiving t co MDsoh nIXs 
+AshdayInteract Should you hire programmers or outsource To answer that consider these prerequisite questions t co Kn mJw 
+gamespot this post amp Follow GameSpot PDPGaming for a chance to win this Limited Edition Gears of War Prop Replica Customized Go 
+Friend id for PocketCamp 
+ 
+Jimjmasterson NintendoAmerica Yes it is Yahoo 
+dreadpiraterose Seems the underestimated how many people would jump on 
+NintendoAmerica I just wanna try out PocketCamp t co XWxLVZfwpi 
+Is PocketCamp down 
+The Turing test on Xbox one is a lot more fun than I thought it would be The puzzles are clever and there is enough variety to keep me interested 
+Well This is fun t co nVDF qljCt 
+Check out this blog out I wrote on automated testing with casperjs_org webdev Combine casper with some CI tools and bam awesome t co iYkXrtJ V 
+When you just want to load a js module and nothing wants to work Oye 
+THENervousNick Reading this in my head as voiced by yakkopinky 
+Xbox for a chance to win a galaxy of Xbox prizes NoPurchNec Ends XboxSweepstakes rules t co ISjFq t pU Play 
+Check out this blog post I wrote on how drupal makes it easier to do more with less Drupal t co VZY hEshsI 
+We don t usually manage servers but I sure do love it when we do My inner sysadmin needs to scratch that itch every so often 
+I don t know what the big deal is about characters I don t even use most of the time 
+Writing up a blog about drupal vs wordpress It s fun doing the research to really give these platforms a fair shake 
+I entered a giveaway for a chance to win iDGLAX iDG B LCD LED Video Multimedia Mini Por by iDGLAX t co enyetg hB giveaway 
+JuniTaisen Smells like a prequel season sorta thing to me 
+Nothing like finally getting a chance to tune up your own site Usually last on the list for a devteam drupal drupal webdev 
+BlackClover_EN What is the longest amount of time Asta has gone without yelling 
+Crunchyroll BlackClover_EN Oh it totally does Fun 
+Crunchyroll BlackClover_EN Is it delivered in all caps when it comes from Asta I won t accept it otherwise 
+WatchVRV Flash Contest amp Follow for a chance to win one of THREE HarmonQuest Season Posters t co T w g KiIW 
+My coworker Jay just posted a great article on upgrades in a world after drupal t co E u ANRyVT 
+arhourigan notsponsored 
+arhourigan I was surprised too The Ultra series is my favorite even though most zero calories things kill me 
+ToeiAnimation Do you prefer Krillin with hair or no hair 
+for hair Like for no hair 
+ 
+DragonBall Vote Decisions t co 
+Xbox for a chance to win plus save on select controllers NoPurchNec Ends XboxSweepstakes Rules t co agKh 
+For contrast Here is another take When Is drupal a Bad Fit t co WVpuYLkRqZ 
+My coworker just posted a new drupal blog post Check it out When Drupal Is a Good Fit t co aUBYa ItWz 
+KaiserNeko I really want to like it The first couple episodes have been painful though 
+Jeff_like_Feff ProJared Someone needs to bring Jeff some Wendys 
+InfernoOmni When Nintendo announces another highly addictive mobile game but you re already spending of your free time playing Fir 
+Oh AnimalCrossing 
+Crunchyroll I m surprised but my favorite so far has been Juni Taisen I really thought I d like Black Clover better too 
+I feel like if the answer is to put a giant blob of JSON in a data attribute then you need a new answer webdev drupal 
+Check out my passporttojapan Watch Fall s top shows on crunchyroll for a chance to win a trip to Japan t co TcCxoin cN 
+arhourigan Tale as old as time 
+SamsungSupport That service request form is still using and so I m pretty sure it won t work for any modern browser No good t co GNZsHVqk s 
+Do people actually like candy corn I don t get it Even on a once a year basis I just can t 
+SamsungUS And I m pretty sure it s because you have mixed content on that page and non 
+Hey SamsungUS your service request form doesn t seem to work At least in Chrome No way to continue or save the details 
+stahscream The driver that delivered it said the tip was covered so it was a pretty nice deal all in all 
+Thanks AmazonVideo and gofooji Definitely gonna be a fun night of unlimitedscreaming t co JlrUVpTmA 
+Ready for pizza and a scary movie with AmazonVideo UnlimitedScreaming via gofooji 
+I feel like some sort of sports thing just happened Maybe I should try keeping up with baseball again Nah 
+I m surprised but I m actually still on the fence about the Nintendo Switch I think it s great but I don t feel like I need it yet 
+GR Juan First avocado toast and now fun Being rich sounds pretty lame to me 
+gameinformer Inspired by the Joycon from the switch maybe 
+The GiantRobotDuel was something Came in not expecting much but it was pretty fun 
+Unpopular opinion Drupal isn t always the ideal solution for every site 
+ 
+AshdayInteract Responsive Web Design vs Mobile Apps Discover the difference and explore which option best suits your needs t 
+When you are using PHP special operators like make sure your VM is on PHP Weird I know webdev devproblems 
+Trying to play Tales of Rays by BandaiNamcoUS and it is crashing left and right Just tried to get back to the main menu this time t co KfXOHpoVuP 
+WhiteHouse In America we worship or don t in whatever manner we please right I m pretty sure that s written down somewhere 
+How did I miss RWBY before now Thanks Twitch for giving me an excuse to check it out Gonna catch up on the whole thing now RoosterTeeth 
+G ffThew He never even got to play it We ll never know for sure but between the character and title it sure looks like an hl reference 
+gameinformer KINGDOMHEA S t co onZpCUXBa 
+arhourigan I was wondering the same thing a month ago or so I guess they are still doing stuff Hard to imagine a youtube channel that can go dark tho 
+MatPatGT Don t need characters for that Squeenix and Disney characters fall in and out of love in an odd slice of life shounen anime 
+PFTompkins This very stupid argument keeps happening Yes murders will still happen The idea is to make mass murder as difficult as 
+Dangit America This isn t going away until gun sales and use get more regulated No civilian needs automatic weapons Period Let s fix it 
+Got a chance to try drupal rc against one of our bigger sites and it worked great Always nice when things work out 
+Just realized my Power Rangers pin from lootcrate has been missing for a while Such a sad day 
+Excited to be getting into some visual regression testing soon here I ve wanted to introduce that into our drupal sites for a while 
+Crunchyroll Wait there is another season of Blood Blockade Battlefront Awesome 
+conkface So it s promising but ultimately disappointing 
+Automated testing that spans the entirety of a hub and spokes type site setup is pretty awesome Circle and casper for the win man 
+BandaiNamcoUS BandaiAmerica t co aO SvHU b 
+I know it s a bit clich to hate Mondays but yeah I m not feeling it today Doesn t help that I m working on something I started last week 
+G ffThew Definitely enjoyed this one quite a bit Very well done 
+gamasutra The state of the VR industry devs weigh in 
+ 
+Dragonball FighterZ is pretty good Only been able to get in a couple of trial matches so far but it s impressive 
+WatchVRV your test notification worked 
+xboxuk Neat I ve always wanted to try this one Not sure how I missed it t co W rNakdO 
+Neat My avatar in PokemonGoApp is some sort of shadow monster I ll take it PokemonGo bugshappen t co OJmblXLIj 
+Hey nerdist how many do I need to get to spend a day hanging out with DanCasey and Sci_Phile Kinda sounds amazing 
+arhourigan Yeah it s pretty cool Also last week tonight is great right 
+yakkopinky Mr Paulsen you are the best I ll have to run a couple of those by the kids but I love God and Dammit that s hilarious 
+Just got the kids two desert tortoises and need help naming them yakkopinky help 
+joshicsin Collecting repeating fields in a paragraph so it can be a slide show type grid is hairy but not too bad 
+I think I ve gone too deep Field collection in a paragraph and trying to override twig templates for both drupal drupal 
+jenlampton Similar to other answers Config shared across multiple sites needing to avoid full config sync on a deployment and such Not a fan tho 
+Apparently I ve been on Twitter for years now Huh Neat I guess MyTwitterAnniversary 
+Day of the fidget spinner in my house and my daughter now hates it because I tried to explain gyroscopic effects with it dadlife 
+I m finally catching up on Assassin s Creed Getting through Unity and Syndicate I ll come back for Rogue later Excited for Origins 
+Run rd k Registration for is NOW OPEN Come join us on Saturday April th and save money by t co Ql i I 
+Aaand there s a fidget spinner in my house now Well I tried dadlife 
+Today s xkcd is my one and only battle with my phone The struggle is real xkcd t co AzjJljxcVe 
+I wonder who fails more Captcha tests humans or robots webdev probablyhumans 
+I was able to add an easter egg in t co dgo T VM in the latest build I wonder how long before someone finds it webdev drupal 
+jakerawr That will probably keep you busy for a while Snipperclips is a fun one 
+When everyone started using the term GOAT I thought they were making a fallout reference 
+NintendoAmerica Pick a Choose Your Legends Hero at am PT and this tweet until pm on for a reward of up to Orbs 
+PeanutButterGmr brentalfloss Do Chrono trigger and then classic Secret of Mana Worth playing at least once 
+jasonenter t co XGMzPLZOeT 
+I want moresummerplease Tell gofooji how you feel about foojibacktoschool for a chance to win an amazon card t co jCGu lt c 
+Gizmodo He seems like the kinda guy that would stare at the sun often so this was an average Monday I m guessing 
+Also your pets are smarter than you and won t be looking at the sun so don t worry about them Eclipse 
+You shouldn t look at the eclipse without eye protection for the same reason you shouldn t look at the sun directly Eclipse FYI 
+chastity_v Slime rancher 
+I was at a DJ gig and a kid asked why I DJ I said I did it because it makes people happy The kid smiled and called me a nerd dj kids 
+I don t think I d wear this but it did make me laugh a bit webdeveloper css devhumor t co Ff LnoSIPg 
+Great project to do with the kids sarionscience 
+Eclipse Build Your Own Pinhole Viewer FREE t co nSiOzX PQ via YouTube 
+Explaining Things t co b mo G YfH 
+swin Neo nazis purge the soil of filth Hitler is not bad 
+ 
+BLM the state should kill fewer black people 
+ 
+Idiot pundit mah gawd th 
+technerdteitzel getpantheon I m going to have to demand getpantheon brings that one to DrupalConNA That s awesome stuff right there Totally jealous man 
+technerdteitzel getpantheon Wait wait I want that one at the bottom right corner Which con year is that from 
+SheivaYazdani gamespot chastity_v t co ePrUMoqWii 
+Sold t co ak h joLXJ 
+I keep rewatching the opening for SonicMania The animation style feels so much like the sonic_hedgehog I remember Great work 
+HTML email is the worst Can someone tell my way this is the part of the web that has stayed years behind everything else webdev 
+ScrewAttackChad JackBox knowingyouraudience 
+MatPatFT Now that you have pull with DisneyXD How about a tailspin reboot too 
+My game backlog is building but the kids and I have crushed some older Lego games Win Yeah dadlife 
+That moment when you realize you only skimmed the docs and you have been lucky to get any data webdev drupal testing 
+FFDP Spotify White Knuckles and Way of the Fist are fun to program to so those are in rotation still for sure 
+jeannes_jargon Facebook Essential oils 
+Snapchat I m a bunny 
+Instagram I ate a hamburger 
+Twitter THIS COUNTRY IS BURNING TO THE 
+NintendoAmerica Feh was nervous but she hopes you enjoyed all the FEHeroes info If you missed the broadcast watch it here 
+NintendoAmerica Starting am PT Leo Xander Corrin amp Elise are putting on swimsuits paralogue amp special quests added FEHeroes h 
+shenanigansen This comic is posted as a reply thread 
+Keep reading in the replies t co K Q u k 
+Just when I think I got this composer stuff under control it starts throwing git submodules at me Killin me webdev git composer 
+SonosSupport Yeah we don t have one but we got it figured out Thanks 
+SonosSupport We got it working We had to switch it to a different subnet We have a funky setup Thanks 
+SonosSupport No dice I think our network setup at the office may be the deal 
+SonosSupport Hey I ve tried everything to get our new office sonos connected and nothing is working Halp 
+greggles Me every time I want version numbers 
+apache version 
+ 
+apache v 
+ 
+git v 
+ 
+git version 
+ 
+OhNoSheTwitnt Possible Spicer replacements 
+Kellyanne 
+Littlefinger 
+An actual pair of pants on fire 
+Starting the day recloning repositories because you goofed the git so bad you can t go back Friday p webdev drupal git FridayFeeling 
+adamconover I guess having plenty of resources and no one to tell you no will cause that Further proof that he is secretly a comic villain come to life 
+Definitely going to miss Chester Bennington Linkin Park s music always gives me strength in hard times 
+Too close to the office for comfort I hope they find this guy t co wV OwXViO 
+OriginalFunko for a chance to win a copy of Tekken AND a set of Tekken Pop s 
+We re streaming the game now Come watch 
+I haven t had to touch our vagrant implementation in nearly a year It feels weird I guess the switch to ansible was the right choice 
+We solved erroneous redirection by talking advantage of the event subscriber system to change the router and with dependency injection we 
+By using terminus to start drush as outlined in yaml instructing the CI service to compile sass and vendor libraries we automate 
+When you are talking drupal and devops with people unfamiliar Might as well be the retro encabulator t co FPfGapBNvC 
+gofooji happy worldemojiday to celebrate we want to hook lucky foojians up with a fooji filled kit retweet this for a chance to w 
+MasterWuggles I want to believe I really do but I gave up on kh a while ago now 
+geoffkeighley in this universe or in like some alternate timeline where hl is out too t co UTsPfScgHC 
+nxthompson What 
+if 
+the 
+Internet 
+was 
+so 
+slow 
+it 
+loaded 
+one 
+word 
+at 
+a 
+time 
+ 
+except 
+on 
+sites 
+that 
+paid 
+off 
+your 
+ISP 
+netneutral 
+teamfourstar Definitely got me back into Dragonball after a long time I don t know if I d be following Super as closely otherwise 
+Hot dang that June power bill Living in AZ isn t usually expensive but that one always sneaks up on you arizonaheat desert ouch 
+No matter how many times I run through this the logic checks out Go figure dadlife blessed 
+Getting sick sucks 
+Kids make you sick 
+Therefore 
+Having kids is a tough but worthwhile thing to do sick dadlife 
+This is me I think I ve faked my way through most sports conversations I ve ever had 
+ 
+Having two year olds I m the house leads to asking important questions like What is that and where are your pants dadlife twoyrolds 
+We also added notifications for our chat service in circleci so we are really digging into the fun of automated testing 
+It s amazing to have the whole team engaged in developing more automated testing for our apps drupal webdev automated 
+nerdist yakkopinky Love the Talkin Toons show Can t wait for more 
+Kirbopher AlanLeeHD The lineup seems pretty great Not sure I neeeed Starfox but I ll play it It s gonna be tough to find though Oye 
+Casperjs is so great for running headless browser tests I think we need to do more types of tests but we got into testing webdev 
+I love the Super Nintendo I may have to get this For my kids Definitely for the kids t co ngqrY BUXQ 
+Feeling like I m getting the hang of some deep drupal stuff Queue and batch API makes sense and I can use them well webdev 
+XboxSupport I had to unplug the console for a bit before it would see any wireless network but all seems good now Thanks 
+XboxSupport Did an update roll out recently My Xbox one s can t find the router that it s been wirelessly using for months 
+BenBSinger Plastic Man 
+GrandAcademia In D modelling theres different kinds of shading Flat shading Smooth shading Gouraud shading and Perfect Cell shadin 
+E In case you were wondering horses confirmed for assassinscreed origins E t co kBdJryDZSd 
+I love Skyrim I really do I just find it odd that it was present in all of the big three s presentations at e 
+That kirby game I need that now NintendoAmerica e kirby 
+Well I said I wanted Skyrim on the switch before That sure hasn t changed Dang it BethesdaStudios this is my fourth time buying the game 
+So The Silver Guardian on Crunchyroll is great right Just ran through episodes last night and I dig it 
+Always fun going from working on one big app to another The mind shift leads to fun things like mistyping the same word repeatedly webdev 
+Successfully implemented CI for multiple sites on a getpantheon custom upstream Gonna make our workflow even better drupal DevOps 
+So who is the Xbox streaming service really for Maybe the games aren t doing it for me this first round but I don t get it 
+Fallout Almost to million followers We re giving away another signed Pip Box Follow to enter Fallout OneMillion t co 
+I do love a good pizza party Let me in on this FoojiPizzaParty 
+CollegeHumor Russia had no involvement here wordspeech 
+KaiserNeko I think The Oatmeal may be one of the most well written comics on the internet Re The Backfire Effect t co T NQT 
+DrupalCon day is always such a busy and useful day Big thanks to all of the great speakers today for your hard work and time 
+goals I m going to get my act together so I can present at DrupalCon on playing dev and devops in a small team Maybe a camp first 
+Technical difficulties starting a session must be murder for nerves DrupalCon These speakers are pretty great for rolling with it 
+Great session on getting auto updates on Drupal with visual regression I know what I m working on next week DrupalCon populist thanks 
+I m going to get into continuous integration this year So powerful DrupalCon devops 
+The drop looks a little sad for the start of the con Maybe it needs coffee DrupalConNA t co Cbod Tiqoj 
+Excited for another DrupalConNA drupalcon 
+KaiserNeko t co cVyyWFdXI 
+Tell me this wasn t on purpose and I ll tell you this isn t why I bought this one t co AVMzRdLpX 
+merlinofchaos outlandishjosh I saw that article come up in my news feed an sighed out loud I m pretty sure the community wasn t looking to show up on that site 
+Can t deny a man some nuggs t co ha upxWDhl 
+So excited to have some fun with Run rd k tomorrow 
+mortendk I prefer drush mostly out of habit but the rest of our team enjoys drupal console quite a bit 
+Just beat BreathOfTheWild Such a fun game You know it s good when I immediately want to jump back in and explore more 
+mortendk Yeah I really don t think Dries will address it openly any time soon Gonna be a little weird in Baltimore 
+AppleSupport My wife just received the worst customer support and was told her issue could not be resolved Might be time for a change 
+My poor Xbox One Freshly purchased and ignored thanks to BreathoftheWild coming out I don t know when I ll be coming back to it 
+MasakoX Hey I really liked your latest discussion on kami and piccolo Totally the kind of thing I was hoping the XenoVerse series would do 
+I just entered the free wildflower seeds giveaway from Cheerios Join me to help t co hLnBAs vF BringBackTheBees 
+The Zora s domain in BreathoftheWild is so dang pretty Even better is the fact that I was able to stumble upon it organically 
+Big thanks to all the hard working women in my life who have helped shape me into who I am today internationalwomensday RespectWomen 
+Wait I have to catch my boomerang and no more auto jump BreathoftheWild is letting me take control and it feels great NintendoAmerica 
+Been a while since I went into a game this blind Feels good BreathoftheWild 
+therealcliffyb Software development in general amirite 
+Downloading breathofthewild on my WiiU So excited Can t wait to play NintendoAmerica 
+mmschocolate do you need any volunteers to try the new flavor coming out this summer Because I m so in 
+Woo foojifriday bigbangtheory is pretty awesome 
+Always nice as a dev to get to that point in a solution where you discover you don t need as much code as you thought webdev drupal 
+DavidStrauss getpantheon For sure Pantheon is rocking as usual This one s a bit out of your hands 
+So aws s issues No big Just a big site we have with getpantheon is pretty much down 
+You forget just how powerful Majin Buu is and how lucky the Z fighters got until you see him go all out in DragonBallSuper 
+Is that Season of sevendeadlysins on netflix Woo kindnessbyfooji 
+Thanks for the awesome terminus stickers getpantheon I ll post some pics once we pick where to stick em 
+TheMindyProject MindyOnHulu gofooji is making today easier on me I think 
+beourguest BeOurGuest gofooji 
+Crunchyroll Thanks I m so excited D 
+I want to share a free pizza with Crunchyroll this Valentine s Day CRmillion via gofooji Wanted it so bad I tweeted twice x 
+Crunchyroll CRMillon 
+I forget sometimes that before things were plug and play I used to have to install things to use new hardware The future is okay ish 
+No matter how long I ve been using drupal I still seem to look up the same API pages every time Maybe it s just muscle memory 
+NintendoAmerica All FEHeroes players will receive Hero Feathers if we reach global s Ends PM PT cc FE_Hero 
+Love the new DragonBallSuper opening Excited for the new arc too Keep it up ToeiAnimation 
+Starting a new video channel In Mike s Head Check it out did tech games and science First episode drops next Wednesday 
+Nothing like that feeling near the end of a sprint where you see the bug list webdev drupal justdevthings 
+MatPatGT Hey Long time viewer like years I m thinking about starting a youtube channel of my own Any advice 
+NOAAClimate ICYMI Scientists link toxic algal blooms along U S West Coast to warm waters in the Pacific t co oKmR Dn J htt 
+into not info 
+Also great work on terminus getpantheon I m getting the latest info our local dev tools I don t know what we would do without it 
+That feeling when you find a bug in something you wrote while recording a demo for a client dev webdev drupal 
+Very excited about a new side project I have coming up More info to come next week as this solidifies a bit more action 
+Beside myself and just don t know how to act Many think all of these executive orders are great I don t resist ScienceNotSilence 
+GoldenGateNPS was the hottest year on record for the rd year in a row Check out this NASA amp NOAA report t co rLJUC 
+AltNatParkSer America is a beautiful country Please don t let it be ruined by corporate greed and science denial Resist Climate ht 
+ScienceNotSilence t co fkEcFsWiyM 
+AltNatParkSer Mr Trump you may have taken us down officially But with scientific evidence amp the Internet our message will get out 
+keithboykin If your faith allows you to believe that Donald Trump is a God fearing Christian and Barack Obama wasn t your faith is wh 
+AstroKatie If someone s political stance requires preventing scientists from informing you about your own planet that s not politics 
+NASAClimate Dec s avg global temp was rd highest on record Global avg atmospheric CO concentration was ppm t co 
+Keep the science alive Climate change is a real problem ScienceNotSilence t co ipoWtuh r 
+Couple days late but azizansari did the best SNL monologue in a while Perfect timing and a great message 
+Ah man DragonBallSuper has me with this Great Saiyaman stuff So much fun and that preview for the next episode I m a teen again 
+Lanipator VoiceOfVegeta the line between the parody and the source material begins to blur Also Vegeta is the best in super by far 
+drupal is more platform than CMS and I think I m a better developer for using it I write less and do more drupal webdev 
+NewellGodwin as long as the backing stays for more than the launch window The Wii and Wii u had a lot of devs hyped the first year too 
+CraigSkitz Give them time I smell a special edition 
+Jeff_like_Feff PeanutButterGmr I ll just keep playing twilight princess HD while this all gets sorted out 
+Wait what s with all the political stuff in my feed again More video game news please distractme us nintendoswitch 
+PeanutButterGmr YouTube this is like Mario levels of exciting 
+JKCompletesIt plus he broke the translator for a bit 
+Wait BandaiNamcoUS was that XenoVerse in the NintendoSwitchPresentation Please NintendoAmerica 
+My wife had to endure my excitement when I saw skyrim announced for the nintendoswitch Buying a th time bethesda NintendoAmerica 
+NintendoSwitchPresentation was awesome Answered so many questions and introduced done things I wasn t expecting Way to go Nintendo 
+Sci_Phile I m sadder than I thought I d be that we re losing a president that cites confirmation bias as a threat to our country 
+Thanks President Obama Gonna miss you and Vice president Biden I know you aren t done making change ObamaFarewell stillhopeful 
+Excited to see the dub of DragonBallSuper Watching the sub had been great Very curious to see how this goes 
+joshgad Just think about this If Obama or any other President tweeted anything similar to Trump we would think they were clinically 
+Lingotek I d check that link 
+I d be pretty happy with this t co SgbYCfcr 
+NintendoAmerica Retweet for a chance to win a SuperMarioRun drawing signed by Mr Miyamoto NintendoSweepstakes t co icHzgS 
+okay ipage where did you move the create ticket button 
+Find out what I really want in my XboxWishList Create yours for a chance to win it sweepstakes Xbox t co OhteCICtU 
+I just like a simple controller t co mg Xnh Cdj XboxDesignLab Sweepstakes 
+Can we all agree Baby it s cold outside is the creepiest song of the season Christmas cringe nomeansno DayAfterThanksgiving 
+Huh I guess America is still pretty big on racism and sexism after all this time Time to step the fight I need a better world for my kids 
+blairherter I will wake up tomorrow and proudly love and support and respect minorities and women and immigrants and no one can take t 
+Hey Moto_USA can we get some gaming MotoMods Like a gamepad or something like that Free idea if that wasn t in the hopper yet motoZ 
+That was a great game Hard fought on both sides Happy to see the Cubbies pull it off gocubsgo 
+If Hillary wins can Bill please use the FLOTUS Twitter account That s all I really want He s cool enough I don t think he d mind Right 
+Woohoo Dragonball super on Crunchyroll So happy 
+Thank you to all the amazing voice talent that brings my favorite characters to life performancematters gamesneedvoice 
+Running the new guy through Drupal s routing a bit Wow that s really complicated I responded with Should have seen it before web 
+Skyrim and Zelda and awesome portability Okay I m on board NintendoNX nintendoswitch 
+EA Hey thanks 
+EA Yeah Action RPG I ve had an idea rolling around since then It s matured as I ve grown Someday I ll make it Hopefully soon 
+EA I ve wanted to get into game development since I was I may return to that dream someday Glad I made the step to get into programming 
+Woohoo t co JHxNgbL iU 
+ 
+Hey therealcliffyb self taught vs classic trained devs Looking into some game dev tools to widen my skillset Do self taught dev make it 
+I m so glad we use ansible as our provisioner for vagrant Making changes to our local development setup is a breeze webdev devops 
+That was fast Imagine if you guys teamed up engadget arstechnica t co VIZzZLen a 
+DetectiveX As long as you avoid doctors 
+Dear GetFacer Notifications that start with omg omg omg should be reserved for lame apps Your buddy Mike loveyourapptho cmon 
+When you come back to a project from months ago to make a minor change At least it is in drupal drupal devproblems didievenwritethat t co L QVtbvxIE 
+Dang it all I want that Pixel MadeByGoogle Maybe my current phone will be able to hang in there a little longer Android batterywoes 
+ThePracticalDev Maslow s hierarchy of dev needs t co pEXqRNn zM 
+Nothing like when somebody first gets into drupal Big thanks to buildamodule for helping us bring new Drupalers up to speed training 
+Alright Solr Let s be friends 
+And now to use Drupal custom block types in a way they were probably never intended for Should be awesome when done drupal devteam 
+Great work kalaboxme on Kalabox It is going to save me so much work doing ongoing maintenance of our teams local vms 
+Spent time researching a drupal hook I thought I needed only to discover I didn t developerproblems drupal yayobjectoriented 
+CallMeElie Being attacked by everyone in town because I killed a chicken SkyrimMemories 
+That moment when you learned to leave a Giant alone It was also the first time I saw the sheer size of the game SkyrimMemories 
+iamdevloper Make it go away 
+Do you know drupal Ashday is looking for developers t co fVZU qku webdev JobSeekersWednesday 
+I can t stop watching Re Zero Way better than I expected Thanks Crunchyroll for making it easier Now maybe just one more episode 
+LindseyStirling rocked it on the ConanOBrien show tonight Super cool performance as always 
+I want to win the new Moto Z Droid with Moto Mods to transform my world InASnap woot 
+ 
+FaveGames 
+Skyrim 
+Red Dead Redemption 
+Fallout New Vegas 
+PSO I amp II plus 
+Sonc Adventure Battle 
+Super Mario RPG 
+Chrono Trigger 
+first jobs 
+sign installer 
+science guy 
+technical support 
+technical support manager 
+software engineer 
+I guess I don t have seven yet 
+Dang it DragonBallSuper I want to like you but this Trunks arc is gonna kill me Predictable so far plus nerfed Gohan 
+Always a good day when you can get an easter egg into a site drupal webdevelopment 
+Just figured out that module weight is in the config as my_module lt weight gt so all those zeros are weights drupal whoknew 
+If you haven t already Please do so t co S GGlqVhpm 
+Seeing this screen a bit too much but I m glad this is popular pokemongo Pokemon t co g GfuoPF 
+Oh no PokemonGO is out Must Maintain Productivity iwannabetheverybest 
+chris_shattuck D O in general is always a great resource User groups can be great for specific pain points 
+Inline template might be my favorite render element in Drupal I promise I won t use it too much 
+After working on several Drupal sites I m finally creating a custom service Stoked drupal ilovemyjob 
+Oh hey php is nearly EOL ICYMI DevOps Don t forget to update soon if you already haven t done so Looking at you drupal devs 
+Skyrim may be the game I ve played the longest and come back to the most Even without mods Picked it back up again and still hooked 
+Words I ve taught my son dude poopoo bottom awesome sauce Drupal Pretty sure BESTDADDYEVER drupal newdad 
+MarkRuffalo NO WAY After Orlando Congress hasn t done anything and now they re going on vacation I say NoBillNoBreak t co 
+A thousand times this gt t co O og jMrzg 
+This will probably be followed by some sort of frustrating fail on my part Still fun though 
+I love connecting drupal with external services Getting some custom S functionality in there now for one of our current projects Devs 
+StutteringCraig Give your dad a hug and kiss today amp tomorrow amp every day after that Whether you realize it or not he made you t 
+I ve used Drupal so much that working with again takes me a minute to switch back Definitely a big fan of the new functionality drupal 
+TheJWittz Top secret hangouts are allowed when you get them to give us specifics like that July can t come soon enough 
+TheJWittz Dude So cool to see you on stage there We expect a full report afterwards 
+NintendoAmerica Oh man I want the new Zelda game today That looks like a blast Couldn t be more excited NintendoE 
+MatPatGT Wait is there another way to bring groceries in other than all at once 
+This has quickly become my new favorite station I have thumbed some interesting music Pandora t co iFpaa K N 
+NintendoAmerica I m ready for some new Zelda Keep the good stuff coming Miitomo_Zelda_ 
+NintendoAmerica The Legend of Zelda Retweet event begins Miitomo in app gifts for s t co UFrnvGjLth Miitomo_Zelda_ h 
+A couple highlights from DrupalConNA written by a colleague of mine t co BzmY WFxpT Check it out DrupalCon drupal Drupal 
+DrupalCon Always excited about testing I think I ll actually get into Behat now Just have to convince the rest of the team D 
+DriesNote DrupalCon Loving the proposed initiatives We have spent a lot of time in house trying to solve these same problems 
+Drupalcon Let s go 
+Flying to DrupalCon Gonna be awesome 
+CaptainAmerica I stand with TeamCap TweetMe 
+ 
+Switching to ansible from chef sure made these vagrant builds a lot easier to tweak Now if only the team would go for hip hop php DevOps 
+Swaddling swing is like an infant bedtime finishing move justdadthings 
+Miitomo Miifoto t co eqfAMBg XD How you feel when you figure out some new in drupal t co I YFOMThko 
+Download Miitomo and come have fun It is surprisingly fun Need to get more people on here though 
+ 
+Miitomo is a lot more fun than I thought Now a few more people I know need to join up 
+Mike vs Drupal So far I think I m winning Gonna have to turn some of my sweet notes into some documentation to share Yay drupal 
+My wife loves watching Long Island Medium Maybe I don t mind watching too p limlive contest 
+It must be Friday google just sent me a time to Home notification and it s only lunch time thanksgoogle android 
+teamfourstar Whoa has YouTube gotten this taken care of yet This is nuts You guys are the best WTFU YouTube 
+DubuqueDanny TribecaBinge it s like a tv show of the movie airplane can t miss with me Two thumbs up AngieTribeca 
+AngieTribeca is probably my ideal show on TV Wife can t handle seconds of it Too embarrassed So funny 
+Turns out I was using Features wrong on drupal Now to manage changes in code without the headache ConfigManagement devops 
+Woo just got our first site update to Drupal on getpantheon 
+ 
+Learning so much configuration management at BADCamp DevOps summit drupal is a little less confusing already 
+Having fun building a new Drupal module for the HelloSignAPI The docs made it super easy 
+Super proud of this site we ve been working on t co cA TIYrKar Check it out customtshirts eSports 
+So sad He will be missed ThankYouIwata t co XSpEeuJev 
+Chilis Why doesn t your rewards registration form give a better error than Whoops something went wrong Try again Not really helpful 
+Love the games in the rare collection but will my nostalgia filter save these n era games from showing their age too much E XboxE 
+This is why I haven t upgraded to an Xbox one yet Now I may have a reason with backwards compatibility and more fallout E XboxE 
+True DOSbox will have to do for now Unless someone finds some spare time for a jazz hd re release Just sayin t co CoegZQkMkK 
+therealcliffyb Aw now I need to find a way to play jazz jackrabbit again 
+Google calendar drupal fullcalendar js restful Super awesome interactive calendar Spent too much time on the one 
+DisneylandAP Our four yr old foster daughter is a frozen fanatic duh Are any of the frozen characters around the park during the day 
+DisneylandToday We are so excited to be bringing our foster kids to Disneyland for the first time Should be amazing for us and them 
+Building a calendar app is not as fun as one would imagine Yes that means negative fun 
+Definitely didn t ditch the last session of DrupalConLA final session for an evening at the beach t co M nwnJrok 
+RochenHost RochenPenguin This penguin is unaffected by drupalgeddon t co tISE Oyjcw 
+drupalradio How about some draft punk Human after all or some thing 
+Great session on automation and testing at DrupalConLA Giving TravisCI another shot to help us out Thanks outlandishjosh and lz 
+Ready for the keynote driesnote at DrupalConLA t co G pWEqrDL 
+Heading to DrupalConLA with the team Super excited 
+That moment when you are programming with headphones on and your coworkers catch you mumbling to yourself maybetoofocused 
+Excited for Drupal module development Let s see how much I already know SANDcamp SANDcamp 
+Making some connections and learning some cool stuff Phpunit testing in d is a little less scary now SANDcamp drupal SANDcamp 
+Excited to get some Drupal on at SANDcamp 
+pandora_radio theglitchmob Actually I m pretty sure Our Demons Hive Remix is my favorite on the album Though I liked them all 
+pandora_radio theglitchmob Hard to pick yet I really liked I Need My Memory Back Boom Bip Remix Definitely a great album 
+Listening to the new theglitchmob album on pandora_radio Super cool to listen to the album before it comes out Pre ordering 
+Advised that singing or humming a tune at bed time helps baby fall asleep So I chose Zelda s lullaby gamerdad 
+Just got done with some prep for developing with Drupal Super stoked Thanks buildamodule chris_shattuck for making those videos 
+Super excited to have Ember in the Darkness a kindle exclusive and now free to read with Amazon kindle unlimited 
+ChildCrisis Looking for something scary to do this weekend Head to the House On Camino Mesa s premier haunted garage attraction 
+Local dev for the masses fun with vagrant and kalabox at drupalcon t co iIPzd FBx 
+Day at drupalcon Ready to learn how to plan for performance Devops track has been fantastic this year 
+Finished a great day at drupalcon Got some awesome performance advice from akucharski Excited to ramp up performance when we return 
+drupalcon caching deep dive lab is going awesome Makes me want to review our current practices for caching APC memcache and varnish 
+drupalcon day Really excited for viewception starting right now 
+Drupal time DrupalconAustin 
+Learning more than I expected about Google analytics Thanks kennethgranger wcphx 
+Learning how to improve user experience on WordPress Great stuff wcphx 
+Raspberry Ketone is all the new craze t co VTHJh Uj 
+sareallthat_ I love seeing Rugrats and All That but when will we see some Ahh Real Monsters 
+Ever wonder where video game characters keep all the stuff they pick up My theory is wormholes in their pockets 
+More than episodes of Technically Able are online Technically able com webcomics technicallyable 
+Technically Able is cruising along well Tuesday will be episode and I m getting in a good groove of making them D 
+Gotta check out the website inspirationalquotes terriblepeople com Its a good site iqftpblog 
+Have you sampled emberinthedarkness It s available on smashwords and kindle Gouldingcreations com 
+www gouldingcreations com Check out my new site Follow the links to find updates on Ember in the Darkness 
+Toute votre base sont appartiennent nous 
+Also I just discovered the wonders of iGoogle 
+Come on End of the day and I get my first frustrating issue at work Not cool P 
+kpereira Excellent speech by President Obama I hope we as a nation find that sense of unity he spoke about and that it isn t squa 
+The system is down The system is down p Yay 
+The book is almost formatted for ebook consumption Cover looks good too I m ready smashwords com 
+I m an e published author Check out Ember in the Darkness on Amazon Kindle 
+Price request fallout xbox 
+Deadrising xbox 
+I just entered the Cheap Ass Gamer GameStop gift cards giveaway videogamedeals ow ly JPrB 
+Reliving the past Nintendo Entertainment System exm nr bmFbO 
+Looking skyward exm nr aQXx j Check out my newest Article on the examiner 
+New article should be up and ready by tomorrow Topic is Zelda 
+Two new articles Look for Phoenix clasic video game examiner 
+Feels terrible Hope this is just hunger 
+Nothing like a paw to the face to start the morning 
+Just got home from work at the arizonasciencecenter Long day but fun as always 
+Could have benefitted from knowing assembly language today Whoever thought that would happen P 
+I wish I would have learned assembly language 
+Dogs woke me up early Guess they decided I didn t need sleep 
+Metroid Other M A good addition to the series but hurt by controls 
+I applied for a job working for Twitter Let s hope that works out D Would be sweet 
+Gonna check the game stats post PAX I ll tweet the latest 
+Tried my hand at tearing down a traveling exhibit today Exhibit tech stuff is fun 
+Stayed up late playing Smash Bros with Rob Maybe I ll recover before work 
+The AMA s don t impress me Why does rock get ignored Green day sucks 
+I am so not feeling well Great 
+I m so bored at work No one is coming to the science center today Why 
+Finally A slightly less busy day Only working the regular job today D 
+Working at the science center all daaayy Come on downtown and visit D 
+Even though it rained like crazy last night the only evidence this morning is my spotted truck and the humidity P 
+The A C sorta works 
+Math homework for the win D 

@@ -1,0 +1,1616 @@
+GitLab: speed up versioncontrol reposyncs maybe 100⨉
+GitLab: update API integration library
+Make RestWS XML endpoint accessible https://t.co/vRbxZ6A4xo
+Purge security RSS feeds when SAs are updated https://t.co/zhtij9i3DG
+Clean
+Allow security risk to be optional, features export https://t.co/vL7ncZpQar
+Allow security risk to be optional https://t.co/vL7ncZpQar
+https://t.co/xxz0fO1RKk Make it easier to identify and discover ecosystem modules
+GitLab: allow syncing to run less-attended
+https://t.co/BMhBRcqe8G People appear to get credit for commenting on fixed issues
+Merged in sectext (pull request #8)
+
+Create a security.txt
+Fix C
+Create a security.txt
+https://t.co/h8PQbkDSce was committed upstream
+Move from opt in to opt out for contribution attribution https://t.co/VIqlYv2eHf
+GitLab: set default branch on first branch push
+Also reserve project namespace names
+Remove mention of D6
+Drupal 7.63
+GitLab: project syncing improvements
+Drupal 7.62
+GitLab: fix over-encoded URLs, make project maintainers syncing more-smooth
+GitLab: make syncing commands easier to automate
+Drupal 7.61
+GitLab: fix SSH key syncing
+GitLab: do not sync user pictures that are too large
+GitLab: include SSH key sync with general user sync
+GitLab: export permissions
+GitLab: improve user syncing reliability
+Always show project owner’s administer releases checkbox as checked
+GitLab: explicitly set project path instead of letting GitLab choose one
+GitLab: tigten Git username constraints
+Remove google_admanager module
+Remove google_admanager-related code
+Text update for checkbox
+Wrangled a wild dpm
+Opt in checkbox added to submission form
+GitLab: add a drush command to delete projects by GitLab project ID
+Add missing text to /documentation books pane
+Move book covers on /documentation
+GitLab: avoid cached user data being saved, making Git agreement and username selection more reliable
+Update the “Create Issue” help text https://t.co/lMnL32rP7e
+GitLab: enable catching up recently promoted projects, avoid OOMs
+GitLab: improve import commands
+https://t.co/gL1fwn6dHb was committed upstream
+GitLab: implement managment for maintainer syncing
+GitLab: keep track of project promotions
+GitLab: add drush commands for catching up defualt branch syncing
+GitLab: add a Drush command to catch up user imports
+GitLab: Move imports into drush commands, start keeping track of things to catch up
+GitLab: Static deprioritization
+GitLab: integrity check for orphaned versioncontrol_git_repository rows, better way of querying for existing projects
+GitLab: configurable Guzzle config, import only project with unknown import state
+GitLab: project import improvements
+Rename the robot
+GitLab: Move reserved project names out of site-specific configuration, queue repository import at a lower priority
+Lock down standard versioncontrol_gitlab-related configuration
+Make diffs available for section content revisions
+GitLab: improve edge cases around SSH key
+Revert 1304a7f Do not use Beanstalkd for gitlab_user queue, yet
+GitLab: allow repository imports without affecting legacy Git operation
+GitLab: add a UI for managing tags https://t.co/dxCxa6lPyy
+Refresh project usage graphs, replace flot with d3 https://t.co/soDHOcs9LI
+Get CSS
+Fix overzealous refactoring
+GitLab: add API to make tag deltion possible, do not queue impossible syncing during migration
+Do not use Beanstalkd for gitlab_user queue, yet
+https://t.co/cTgsAra1wP will retain outdated files for 24 hours instead of 30 minutes. Instead of 2 years
+Use Beanstalkd for GitLab queue
+Update d3_sparkline library
+Improve ability for GitLab module to be enabled during migration https://t.co/YWmgiHB3B5
+Improve circular parent handling
+Improve GitLab exception handling
+Update versioncontrol_gitlab module, move to a tagged version of m4tthumphrey/php-gitlab-api
+Update MailChimp module, and reduce API calls
+composer.json cleanup
+Redirect some duplicate URLs
+Update versioncontrol_gitlab module
+Add usage numbers to project RestWS endpoint https://t.co/tna0qb73l2
+Verification for https://www URL
+Use soft purges on commit cache clearing
+Allow group maintainers pane on section pages
+Update sshkey module
+Update sshkey module
+Add GitLab dependencies
+Update sshkey module
+Improve key SSH whitespace cleaning
+Allow viewing hosting listing revisions, GitLab preparation, more accordion refinement
+Accordion improvements, fix field group regressions https://t.co/Oe9JgRuoCv
+Update sponsor redirects
+Clean up spam detection notice, accordion
+Fix notice, accordian styles https://t.co/6N0Jj6N1aY
+Hide field display that is unnecessary with Panels
+Show “Detected as spam” on unpublished content that Akismet thinks is spam
+Add GitLab awareness
+Parse tag and branch names which contain slashes completely https://t.co/gL1fwn6dHb
+Drupal 7.60
+Various small drupalorg module changes
+Add issue links to commit feeds
+Move GDPR prompt configuration into version control 🇪🇺
+Standardize documentation section links https://t.co/hixbYOJL6v
+Add location and primary language fields to use profile https://t.co/usW3cB8QPT
+Wrong draft link on change record https://t.co/arEUi27Exg, clean up user’s Git configuration advice, clea...
+Improve SSH key cleaning
+Standardize D8 docs menu
+Adjust Country field weight on user profile edit
+User profile edit organization
+Roll back optimization because hook_node_load(…, $types) is unreliable https://t.co/DeKVZmyQp1
+asciidoc_display patches were committed upstream
+Fix last commit, neglected to export a field group
+Remove Gender field https://t.co/oQ2ktn7lRF, more integrity checking, more user edit cleanups
+Minor user profile improvements
+Initial deployment adding a field for a user’s pronouns https://t.co/usW3cB8QPT
+Minor improvements to user profile page
+Update multiple_email module
+Reserve GitLab reserved project names
+Do not strip h2s in official docs import https://t.co/L1IUG4b239
+Improve AsciiDoc parsing https://t.co/TIkDgsRVN7
+Export to match production
+Set up feeds to import Official Docs https://t.co/zl6AHZOS0p
+Remove more /download page support code
+Replace /download page https://t.co/ugaLphtpiU
+Style improvements for documentation landing pages https://t.co/21fy2aqwLR
+Add Releases without projects integrity check
+Revert unintended change
+https://t.co/q3iUkgNdvA was committed upstream
+Refactor repository creation
+Restore moderation callback to properly moderate issue comments
+More options for landing pages https://t.co/ugaLphtpiU
+Add users’ Drupal Association partner program status to information that can by synced to subsites
+Move “Related projects” block on documentation guides https://t.co/Glu3xNrvm9
+Clean up anti-spam measures https://t.co/kPZIFcPj4D
+Make users with capital letters referencable in case studies
+Maybe this will consistently download this archive
+Update honeypot module
+Add documentation search box to /documentation https://t.co/Umnnhee1FO
+Add more ids to panel panes https://t.co/dbmtSBnWxJ
+Revert last commit
+List two levels of guide content in documentation guides https://t.co/OoBngwbnJF
+More work on https://t.co/1ipXXkHFYd
+GitHub… why did this directory name change?
+Make lonely, orphaned issues accessible https://t.co/1ipXXkHFYd
+Add tip note style https://t.co/ktrWuT30Bb
+Features cleanup, more-strict integrity checking
+Add note template to WYSIWYG https://t.co/ktrWuT30Bb
+Create a path that will always download latest recommended Drupal zip or tar.gz https://t.co/ddvl3Ld8XM
+Add arbitrary monitoring
+Home page accessibility updates
+Do not allow shared organization accounts to post comments
+Add follower count to advanced issue searches https://t.co/Y00gq7jsZZ
+Add follower count to issues index in preparation for https://t.co/Y00gq7jsZZ
+Update flag_tracker in preparation for https://t.co/Y00gq7jsZZ
+Versioncontrol* plumbing - allow more-flexible auth handlers, less-flexible code execution
+Do not allow shared organization accounts to update
+Move code that should be in versioncontrol_project into versioncontrol_project
+Improve previous release suggestions for marking as insecure as a security release is published
+Correct Git remote URLs for sandboxes which snuck in a machine name https://t.co/FH9ZDRQMLS
+Close a sandbox project naming loophole https://t.co/4Kx6sG5se5
+Adds the php7.3.x HEAD container
+More keeping up with field_collection
+Fix cannot update ‘work’ profile information https://t.co/t39IsIC4aG
+Update field_group module
+Add SA ID to API https://t.co/sFjRzNRMGz
+Configuration for the last commit
+Show RTBC count on project home page https://t.co/0mmIstGZwz
+Update versioncontrol_git module
+Update ctools module
+Restrictions for organization accounts, only creating certain node types, not contributing via Git https://t.co/TuqaBVfQpa...
+Alias sandbox Git remotes to a more-portable format
+More-straightforward OG permissions fixing
+Better handle missing project or repo for issues
+Remove now-unused module
+Fix typo
+Do not rely on shell expansion in reInit() https://t.co/WPB9bn6ewt
+Remove administrator permission to edit all SSH keys
+Update SSH Key module, remove ability to edit keys
+Update versioncontrol module
+Adds mysql 5.6 container
+adds a mysql 8 container to test with
+Remove user geolocation field
+Fixes Typo in environment label
+Enables more testing environments for drupalci
+Use core's drupalci.yml file
+Update sshkey module
+PIFT will save core's drupalci.yml
+Update job_scheduler module
+Add DrupalCons Seattle and Minneapolis to events on profiles https://t.co/GWk9I7ol6D
+Adds a mechanism to preserve the timestamp of updated jobs
+Drupalci dispatcher artifact/job retention policy implemented
+Update sshkey module
+Update tfa_basic module
+Let any Git user create community projects
+Add CVE field to security advisory content type
+Add RSS feed link to /news, send a welcome email when creating an organization page
+Updates composer facade to handle obscure version constraints
+Improve Git username validation https://t.co/4K4FJPvEHM
+Display project page screenshots in a lightbox(y) way https://t.co/B2spjLwq83
+Update libraries module
+Display project page screenshots in a lightbox(y) way https://t.co/B2spjLwq83
+Correct link to all issue credits https://t.co/CbNjuqpYb5
+Improve formatting of users’ issue credits and do not show all SAs on /news page
+Add SAs to news page and feed
+Allow “maintain issues” maintainers to grant credit
+Membership page and various syncing improvements
+Clean up MailChimp syncing and Git auth data alterations
+More membership syncing improvement
+Membership syncing improvements
+Add member emails signup block
+Add additional Git username constraints
+Add filter on security advisory policy coverage https://t.co/zRDgoHXQKh
+Allow more edits to top-level guides https://t.co/ZBRSd2sRW5
+Add supported projects to API https://t.co/3oVIlbN96V
+Improve home page accessibility
+Add Customer Supporting Partner program
+Redirect legacy drupal-services/… URLs
+Display words instead of (future) country codes https://t.co/UOnlgDHPmx
+Do not show unprocessed weeks in project usage https://t.co/Fa55Bwz0w7
+On the user profile edit for “work” should show if an organization has a page
+Membership subscription syncing and configuration
+Nicer view of all an organization’s issue credits
+Prep for new membership list in MailChimp
+Update https://t.co/0TY66UOyow → Community project strings
+Make “https://t.co/kVBVJjrsOQ project” type more clear
+Switch to Akismet full project
+Prevent post-dated posts from staying at the top of aggregated feeds https://t.co/JqGZTiBpFv
+Allow iframe for YouTube embeds https://t.co/IYwUvbFlPA
+Prep for Akismet on issues, and improve links on landing pages
+Add link to reorder documentation pages https://t.co/Hsy6Owd7VC
+Add cookie consent capability
+Repairs phantomjs in some circumstances
+Limit requeuing of daily tests, do not allow renegging on Git agreement
+Features export for the last commit
+Add field to identify organization accounts https://t.co/fMAx9hnvU4
+Update field_collection module
+Fix time calculation https://t.co/FgPAiOaqmB
+Reverses the order of drupalci environment and codebase stages
+More permissions for section maintainers
+Fixes D7 core testing
+Various issue credit history refinements
+Improve interest group hiding
+Update for features re-export (perms and content types)
+Remove no-longer-needed patch
+Update hosting page for new email list
+Updates for section maintainers to manage landing pages
+MailChimp-related updates
+Cleanups around DrupalCI requeue logic
+Fix node spam fighting View regressions
+Views updates for spam handling
+Various Features exports
+Add Akismet patches https://t.co/Yz5SQ2Z15F
+Add akismet module
+One more mentor autocomplete fix, add Entity reference patch
+Finish up mentor autocomplete improvements https://t.co/woD9W1Lnba
+Add View for mentor autocomplete https://t.co/woD9W1Lnba
+Update Views Bulk Operations module
+Update MailChimp merge fields
+Update tokens for most recent gift amount
+Update to tagged version of VBO
+Add signature level to https://t.co/GFkUAUgqzk, thanks technology supporters!
+Make the mentor autocomplete field match on starts with instead of contains https://t.co/woD9W1Lnba
+Do not index logo content
+More logo details for promote Drupal
+Further logo display improvements
+Extend the JSON API to show comment attachments https://t.co/yRfa5LwS1l
+Features exports for MailChimp sync
+Make logo display more flexible
+Allow date-ish fields to be rendered as dates, for membership date syncing
+More-flexible logo displays
+PIFT passes the exact php version to DrupalCI for composers' sake
+Add another logo type
+Chargify integration cleanups https://t.co/Hi9zRCcTCV
+z-index tidying https://t.co/GZYiwwMJUh
+Drupal 7.59
+Clear the time-based cache for /security* when an SA node is updated
+Remove unnecessary Views relationship
+Reduce the number of items in SA feeds from 50 to 20
+Code cleanup
+Reduce motion when the client prefers reduced motion https://t.co/acRUY3KJhQ
+Remove Mollom code
+Fix typo
+Update CKeditor
+Pauses composer download counts for impending security update
+Remove a couple JOINs causing temporary tables
+Various Features exports
+Possible DoS via email revalidation link
+Remove dependency on Mollom
+Donation form improvements
+Theme improvements
+New home page design capabilities
+Panels upgrade followups
+Upgrade Panels
+Update feeds module
+Actually show project Git instructions for missing repositories regardless of time
+Project Git instructions for missing repositories disappeared after a day of not existing
+Send referring page to Chargify https://t.co/Hi9zRCcTCV
+Fix OG-related edge case and Do not add extra blank line to the bottom of packaged .info files https://t.co/AnZ2B7Vqrl...
+Changes pift keys to match DCI cleanups
+Re-enables composer download counts now that we have an index
+Drupal 7.58
+Various performance improvements
+Update drupal services listing to be filterable by types of location
+Add locations served field to organizations
+Copy changes for organization location field and better handling of bad page parameters
+Also allows for DrupalCI builds without tests.
+Allows for DrupalCI builds without tests
+Cache the interests instead of throwing PHP warnings
+Updates PIFT to re-enable d7 core testing
+Composer instructions on releases should take namespace map into account https://t.co/AWk6h4lm6X
+Add Drupal Europe 2018 to profile https://t.co/Zus78kFMiq
+Add top-level guide title to documentation page titles https://t.co/nDTh9vJkfd
+Increase size attribute for "Module categories" https://t.co/kbDzt6N8OD
+Upgrade advagg module https://t.co/kjVRtEKPbH
+Notification when added as a maintainer https://t.co/LS5UXINSv5
+Ignore unneeded files
+Remove sample code
+Update .gitignore
+Enables patching of drupalci.yml files
+Adds support for drupalci.yml testing configuration files
+Remove now-unnecessary pushctl API
+Fix EntityMetadataWrapperException on https://t.co/R2gOxkJtnX
+Add follow/unfollow link to documentation discussion page https://t.co/5zSHhD2GTe
+Adds a repository inspection step, and properly purges sandbox urls from fastly cache
+Fix version comparison logic for https://t.co/rc4QTgbQ3m
+Fixes a bug that didnt get deployed
+Enables various types of testing, and cleans up api/interface to drupalci
+Adds a utility function to project_composer so we can easily access the namespace elsewhere in the infra
+Make exension tests explicit
+Untested failures in drupalci being fixed
+Jenkins still needs one env var to work
+Drupalci will now receive build.yml files instead of environment variables from pift
+Store issue files in per-day directories https://t.co/RL6Sy6m2NW
+Add author name to node API https://t.co/7vE8tdBh6j
+Link to releases in the same series on release pages, https://t.co/lPVGZgMluJ
+Export permission for https://t.co/rc4QTgbQ3m
+Start reporting specific releases as insecure in update status XMLhttps://www.drupal.org/project/drupalorg/issues/2942591
+Allow new EUR memberships with Chargify https://t.co/Hi9zRCcTCV
+Add special offers from hosting providers to https://t.co/CQMSeDO0F7
+Upgrade honeypot module
+Dashboard column heights not always correct https://t.co/xHgCRoxpkd
+Improve accessibility for issue comment attribution bubbles https://t.co/T18tC3Cwdy
+Upgrade advagg module https://t.co/kjVRtEKPbH
+Do not allow uploading zip/tgz/gz files directly to project pages
+Update Chargify base URLs
+Followup from MailChimp module upgrade, hide redundant checkbox
+Update MailChimp module
+Add Aggregator Item Length module https://t.co/n5BWgQ32MH
+Drupal 7.57
+https://t.co/cTgsAra1wP is now less eager to announce unpublished projects
+Add email list description
+API additions for Security Advisories, https://t.co/XgkL1Gq210
+Upgrade comment_fragment module
+Issue status update email links to comments do not work for multiple page issues https://t.co/9EdsspxSiu...
+Upgrade entity module
+Copyediting fix
+Update issue credit organization ranking to not include recently commented on issues https://t.co/TnyolHTDXl...
+"Last 3 months" credit now sorts by last issue status update https://t.co/HsWDc5POr1
+“Security issues …” message should be a warning https://t.co/C6Mp06AvbK
+Adds logging for invalid licences in composer.json of projects
+Updates license in https://t.co/cTgsAra1wP to reflect new label for GPL-2.0-or-later
+Update project git instructions module so it does not log many PHP notices
+Collect Big 8/Big 10 representation information on sign up https://t.co/hu2GJhnCMi
+Remove the gender field from the welcome page
+Add role for Association staff
+Improve admin restrictions for membership and donation systems
+Features export noise
+Hide spam flags from https://t.co/0TY66UOyow’s API
+Adds surrogate key purging in preparation for cgit-&gt;https://t.co/7bEmQaeDBt
+Cannot serialize a closure
+Another 3 foot putt, missed by a wide margin.
+Some variables claimed to be unfamiliar with each other, so I introduced them.
+Introduces guzzle for jenkins api consumption
+Fix donation component for EUR
+Move to Chargify for donations
+On the individual members page, add a count of the number of members
+Use a more-direct cgit URL
+Upgrade to a tagged version of fasttoggle
+Move new hosting listings to production URL
+Updates pift result retrieval timeout
+removes 5.6.x-dev as a php environment. No tests used this
+Improve logic for updating DrupalCI jobs
+New filter listings should filter down instead of showing all matching hosts
+Prevent JS from being attached twice when Dreditor is running
+Replace managed/enterprise hosting type key
+Even more hosting listings fine tuning
+Allow hosting listings to not show on the landing page
+Hosting listings improvements
+Add hosting listings
+Add Signature Technology Supporter level, thanks PerimeterX!
+Link to CiviCRM for EUR donation was a bit too hacky, make it work for individual membership too
+Remove access checking for now-removed field
+Remove configuration for an unused field
+Speed up security advisory blocks on dashboard pages by skipping counting all the advisories
+Fix last commit’s backwards logic
+Improve value checking for Git servers
+We don’t need token processing for link fields, disable it
+Remove an unused field from rendering on organization pages
+The case of the missing field instance
+Updating drupalorg_marketing feature
+Adding new FPP CTA style for 2-col to promote video on the front page
+Add another service to audience extension
+Keep better track of when a maintainer last commented, so credit is not mistakenly assigned https://t.co/Lf7pVl4Dr4...
+Upgrade homebox module
+Fix a bug where mismatched references would turn user pages into server errors
+Proper Features export for the last commit https://t.co/NavkrleXq6
+Label titles as titles instead of summaries on issue listing pages https://t.co/NavkrleXq6
+Features export for issue tag descriptions https://t.co/6mVCCunFrP
+Fix last commit
+Undo potential performance improvement that’s a potential data loss regression
+Issue tags are better when you can quickly see their meaning https://t.co/6mVCCunFrP
+Make “All security advisories and announcements” block actually have all security advisories, specifically the new ones https://www.drupa...
+https://t.co/Q9M5pYG8Ke has a lot of menu items that are never exported to Features. Prevent Features from attempting to export them.
+Remember amount when you need to log in to donate
+Export new permission
+Features export, hide unrendered fields
+Fix last commit
+Add initial Chargify configuration
+Only allow ASCII characters in project machine names
+Do not scan “… created an issue.” comments to Akismet for scanning
+Fix notice on node preview
+Performance improvement on issue pages
+Add filtering by organizations with Drupal Association membership to /organizations https://t.co/xK8eyRoWKW
+Add a page to find and edit issue tags, including descriptions https://t.co/Qc1Pbgpz4m
+Update Git access agreement to match Git policy changes https://t.co/32xFv1M9FW
+Extend audience extension
+Revert 48e7f47 Disables php 7.2 environments for contrib until core passes
+Update Google Analytics module
+Disables php 7.2 environments for contrib until core passes
+Add Nashville 2018 DrupalCon to events on user profile https://t.co/qsS5SciO6a
+Update project_dependency, compute dependencies for themes https://t.co/c12YPWKVpZ
+Updates pift defaults to add new php 7.2 container
+Remove Varnish module
+Remove another dependency on Varnish
+Remove dependency on Varnish
+Query parameters dropped when redirected from /node to /node.json https://t.co/sbfEAs6oz6
+Provide a callback URL for DrupalCI’s dispatcher to push updates to
+Use parent section instead of OG for section paths
+Temporarily removing a broken alias path pattern.
+Finish up pathauto patterns for sections
+Typo fix and alias pattern for section page added
+Moving some aliasing out of features.
+Add areas of expertise search to new individual membership directory https://t.co/xK8eyRoWKW
+Autocomplete aliased issue URLs, and return those faster https://t.co/OCHqr49RH0
+Restore special characters eaten by editing online, again
+An update to the pathauto pattern for issues.  More here: https://t.co/uFahYNcsqF
+Issue edit/comment form should not eat URL aliases https://t.co/saZHYnCn88
+Restore special characters eaten by editing online
+Pathauto aliases for project issues.  More info here: https://t.co/saZHYnCn88
+Add another shortcut to get to issue pages, https://t.co/4Bdfis8nDP{nid}
+Fix the last commit
+Searching for a node id will now redirect to that node https://t.co/qxMR2pWVr4
+Update project module
+Upgrade advagg module
+Add Google Analytics source tracking to thank you pages
+Fix a bug with multiple test results being recieved in the same minute hiding dev releases on project pages https://t.co/QIXVCoJUQb...
+Fixes composer provider file errors during packaging
+Fix an issue with credit being granted for coordinating SAs
+More filters for the new Individual member listing https://t.co/eTRlPSYp3x
+Add a helpful note about Composer to release pages https://t.co/Gcl28APyOw
+Improve RTBC retesting logic
+Project testing page fixes https://t.co/maXkpVzrT4
+Fix notice in token generation
+Include security advisories in issue credit views https://t.co/LqRWFg9HYZ
+Enable CKEditor for forums https://t.co/ZS6Gg70hd2
+Finish core release page cleanup https://t.co/GBDOYKhwo4
+Update security announcement field order https://t.co/LqRWFg9HYZ
+Update release page content for core releases https://t.co/GBDOYKhwo4
+Add smarter “What’s next” CTools content type https://t.co/GBDOYKhwo4
+Fixes coder versioning for drupalCI.
+Add Path auto pattern for security advisories
+… also sort by join date https://t.co/eTRlPSGObZ
+Add “Member for …” to new membership listing https://t.co/eTRlPSGObZ
+HTML entities prevalent on git log pages https://t.co/4bl82oMbmR
+Fix another a notice in PIFT daily testing
+Fix notice in PIFT
+Automated credit for committers can make you look like you’re quite vain https://t.co/j8C1B5lkjA
+Grammar improvement
+Fix typo
+Merged in pathauto_pathupdates (pull request #7)
+
+Pathauto patterns for forums
+Use numeric month
+Fix special characters
+Requeue DrupalCI jobs that went missing
+Merged in b_blaine/path-auto-pattern-updates-for-production-1507309273187 (pull request #6)
+
+Path auto pattern updates for production
+Path auto pattern updates for production
+Clean up last commit
+Update versioncontrol module
+Provide coding standards delta checks https://t.co/Fl4J4RcYZA
+Fix HTML within &lt;?php tags https://t.co/jSIAOmIbCQ
+Add core pre-releases https://t.co/fRkD5YE859
+Organizations’ user page cleanup and individual member view
+Various cleanups for project pages, distribution packaging, and membership
+Add organization membership status field
+Improve grace period handling
+Fix typos
+Project downloads improvements https://t.co/FAZqPIBHys
+Add status changed column to “Advanced search” issue queue pages https://t.co/IVkH3xSUqy
+Features export for https://t.co/IVkH3xSUqy
+Field formatter for last issue status change https://t.co/IVkH3xSUqy
+Add last issue status change field https://t.co/IVkH3xSUqy
+SA content teaser configuration https://t.co/LqRWFg9HYZ
+Improve filtering options on /organizations page
+Security announcement content type improvements https://t.co/LqRWFg9HYZ
+Update captcha module
+Keep up with Views API for organization issue credit
+Export SearchAPI configuration with last issue status change https://t.co/IVkH3xSUqy
+Add Last issue status change Search API field https://t.co/IVkH3xSUqy
+PIFT core branch labels cleanups
+Add scaffolding for download page ad
+Followup for last deployment
+Add way of creating change notice from issue page https://t.co/rCZl4kuQsC
+Expose pre-release core branch label for project testing
+Remove now-unncessary config
+Replace pift_retest_versions configuration with following branch labels https://t.co/oAzA958ZdF
+Features export
+Update Views module
+Make project status tags more useful
+Less update status XML caching for distro packaging https://t.co/4ZIY1uKsgX
+Update feeds module
+Update Views
+Add more information to downloads https://t.co/fiKCuwHGRf
+Show commits not matched to users https://t.co/IqNXzdxRlZ
+Update versioncontrol module
+Add last-minute credit for commit made after form load https://t.co/72smtgJ1f1
+Use PDO::FETCH_ASSOC in VersioncontrolGitEventController::attachExtendedEventData() https://t.co/89sKOgPWpS
+Do not notify self of self-credit https://t.co/72smtgJ1f1
+Add fieldable case_study permissions
+Clean up shields on project pages
+Add more testing information to downloads on project pages https://t.co/0C2Uqef76g
+Improve downloads on project pages https://t.co/0C2Uqef76g
+composer facade now has security coverage in the extra field
+Crediting UI improvements, https://t.co/FB2qWTx6Wg
+Add help for release short description field https://t.co/cEUeEJPRV9
+Make automated testing results more prominent on project pages https://t.co/0C2Uqef76g
+Export new permissions
+Create Security announcement content type https://t.co/LqRWFg9HYZ
+Updates the pift_retest_versions array to retest new 8.5.x issues
+Do not use a fieldset for hidden issue files
+Improve Extended file field JS
+Features export
+Better handle duplicates in issue/commit mapping https://t.co/cAfBlSpECM
+Turn on VersioncontrolEventProcessorGitIssueMapper https://t.co/cAfBlSpECM
+Syncronize the VersioncontrolEventProcessor* classes
+Fix last commit
+Fix event loading instead of working around it
+Keep up with versioncontrol changes
+Update versioncontrol module
+Allow unmaintained documentation guides to be claimed https://t.co/9NzX2ZIsyL and improve deleted content handling
+Recaptcha permissions and fixing a bug in node deletion
+Check for configurations seen per-release instead of per-project, to get core testing happening properly on commit
+Add captcha
+Grant “administer all documentation guides” to webmasters
+Add “administer all documentation guides” permission https://t.co/emDPjd1N6m
+Revert last commit, this version of diff module shows comments on the diff view
+Update diff module
+Store deleted nodes for spam forensics
+Make PIFT core branch label matching actually work
+Features export
+Update entityreference_prepopulate module
+Bluecheese refactoring
+Revert a bad commit
+Clean up add guide/page links https://t.co/emDPjcKceO
+Update https://t.co/0TY66UOyow’s drush make for distro packaging to Drush 8 https://t.co/PPFL9QneKm
+Update metatag module
+Fix some edge-case redirects in bakery https://t.co/vmvHoedNmb
+Make 8/download a non-manually-maintained redirect
+Hide editing release files
+Mostly Features updates
+Features exports
+Improved spam views and case study cards
+Add additional fields for case studies
+Fix PIFt
+Refresh case study pages
+Update comment_fragment module
+Features cleanups
+Update advagg module https://t.co/AEGRUpPtxD
+Add stable and supported core labels for testing https://t.co/fsVHY4EU0D
+Do not offer to test outdated core versions https://t.co/fsVHY4EU0D
+Update version of asciidoc_display https://t.co/C0O5E7YZAQ
+User guide pages not being updated for changed images https://t.co/Aod0qSa3Fx
+7.56, and one less core hack!
+Fix regression in add test links
+Replace "explain your changes" label on discuss tab for docs pages https://t.co/6upXMHaHIR
+Add more file extensions to uploads allowed list
+Keep up with upstream changes in versioncontrol
+Update versioncontrol module
+Do not notify initial push of release branches https://t.co/bc6Ln30uav
+Remove cache resetting from extended_file_field
+Improve spammer View
+Allow not-previously-tested files to be tested https://t.co/KvXJCv9NYy
+Promote TLD workaround to settings.common.php
+More-consistently show trigger for testing with default branch
+Fix last commit
+Show all core branches being tested in project testing UI
+Remove or replace profile_full_name https://t.co/0OCwb0GoBO
+PIFT - Do not overwrite primary job results
+Link failing test result in System Message comment for failed patches https://t.co/yXU06XZ2YF
+Update drupalorg to keep up with MailChimp module
+Update MailChimp module
+Expose phpcs patches to comment stream https://t.co/6KdaTWij1F
+Update drupalorg module - update 3rd-party URL
+Followups for https://t.co/kcHGVH2SJI
+Features export
+Store only diff of results with branch for issue tests https://t.co/kcHGVH2SJI
+Link coding standards messages to code on branch results https://t.co/awogx9Cwze
+More-flexible API for linking to cgit
+Fix duplicate companies in "current roles" and "companies worked for" https://t.co/5Rau8ywG2Z
+(Re-)remove ability to subscribe to all issues on all projects https://t.co/E2WTgv1I7d
+Fix “Waiting for branch to pass” regression https://t.co/WFYk0hXqgh
+Keep up with commit that was reverted
+Speed up the issue queue
+Various [project] search improvements including:
+
+- Replace code which does nothing with factoring project usage into relevancy scoring h...
+Projects not being marked with security shield immediately after opt-in https://t.co/bRJjCZII9D
+Stop sending email notifications for comment updates https://t.co/ZSwmpNDJ2Y
+Remove now-unused module
+Finish converting to entity references
+Migrate last node reference field
+Use new organization issue fields
+Add replacement entity reference fields
+Update View to match case study field changes
+Add replacement case study reference fields
+Move to new case study organizations field
+Various Features exports
+RTBC retesting should only run one test per file https://t.co/0sQrKjNuUK
+More space for reasons
+Add a filter on project browsing pages for has a stable release https://t.co/qz556GM6Ub
+Project browsing page refactoring and bug fixes, including https://t.co/GqUrEDvOV1 and https://t.co/eXdrcOyAk2
+Add a filter on project browsing pages for release status https://t.co/qz556GM6Ub, part 1
+Improve last commit https://t.co/8Eq0R9p0PA
+CI errors should not mark patches NW https://t.co/8Eq0R9p0PA
+Clean up starred projects page https://t.co/5HzTNhsLPF
+Features export
+Allow people to “star” projects https://t.co/5HzTNhsLPF
+Improve ordering of menus for prev/next links in Guide https://t.co/jNs0VXemqf
+Update project issue module, various small cleanups
+Block security advisory opt-in if there is an open security issue in the public queue of a module https://t.co/Hbz67bSNRx
+Use a well recognized, international standard for date/time formats https://t.co/bbGoT4UI2r
+Improve look of navigation for User Guide https://t.co/I2z53AUQcy
+Update Panelizer language support patch for https://t.co/I2z53AUQcy
+Remove stale verification
+Lock down “has project releases” to stay enabled for full projects https://t.co/g1WOqCpnjs
+Update users’ field_organization_reference when organization nodes are saved https://t.co/jrelkoyRgN
+Updating some sponsor links, thanks for the support
+Remind maintainers what a full release is when creating one https://t.co/c5eWZkjJAq
+Disable option to make security releases for project that have not opted into advisories https://t.co/3sdVXlYUtG
+Redirect the Report a security vulnerability on projects that have not opted in https://t.co/YxpbyOKwkz
+The abstraction doesn’t help, bypass it https://t.co/jrfiwAVLHB
+Capitalize all of RC in update status
+Clean stale coding standards results you probably don’t think about (https://t.co/7D8GyXgdmA) and make some logos bigger
+Fix last commit
+Show external documentation when there are no guides
+Revert
+Update Panelizer for better l10n support https://t.co/KSytiJvcRQ
+Core update
+Fix notice in asciidoc_display
+Allow any vetted maintainer, not just project owner, to opt into security coverage https://t.co/8sF7hekiyq
+Make the “not covered” security warning more visible on project pages https://t.co/QggfChovnA
+Improve display of documentation on user profile pages
+Position documentation guides on user profile
+Add guides to user profile page
+PIFT - Make “Waiting for branch to pass” into a real status
+Add documentation guides to project pages.
+Additional defense for composer facade file competitions
+Project applications - allow all Git users to create full projects https://t.co/9RZhzLekVJ
+Gathers coding standards from failed builds
+Various small cleanups
+Update RestWS module
+Make approving project applications easier https://t.co/Jzirc6gLvA
+Update project_composer to error out less during packaging
+Display checkstyle results https://t.co/MoQfG1mjHU
+Moves composer error state higher up the chain
+Handle missing commits in the DB when deciding to package
+Splits d8 Contrib between branch and patch testing for separate priorities
+Updates RTBC retesting branches
+Adds new job url for contrib patch priority bump
+Update Views module
+Fix last commit
+Fix public:// urls occasionally showing up https://t.co/qXcTWa9KhZ
+Improve last commit
+Add security advisory coverage to update status XML https://t.co/rJNdoyjXp8
+Update status XML generation refactoring
+Features exports and https://t.co/MbK3QvyEDX
+Update project module
+New dev releases update the facade
+Add security advisory coverage field to projects https://t.co/Lk0ECCgZu5, part 3
+Update flag_tracker for https://t.co/7Fj49TZtLq
+Add security advisory coverage field to projects https://t.co/Lk0ECBZoCx, part 2
+Add security advisory coverage field to projects https://t.co/Lk0ECBZoCx
+Caches--
+Fix for industry partner form
+Update metatag module
+Whitespace cleanup
+Changes for spam protection on industry partner form
+Merged in editorial-tools: Switched to using an external submit handler function for the partner form so we can validate and protect with...
+Re-arranges the line
+Saturday Deployment Part III: Return of the Dispatcher Results Link
+Verbose Error Messages for drupalci
+Issue #2851679: actually does the queueing
+Adds drush requeue utility to pift
+Fixing partner form field order
+Updating partner form for industry pages per pre-launch feedback
+Fix last commit
+Clean up last commit
+Update Supporters Views
+Update drupalorg module
+Use Association’s logo in Association’s section
+Update Token module
+Update security announcement blocks https://t.co/OGYr5hOvee
+Update drupalorg module, general bug fixes
+Fix last commit
+Add comment ids of files added to RestWS API https://t.co/jCTLp8ntbx
+Limit the time a test can wait for branch to pass https://t.co/BcH9XaioRZ
+Features export
+Allow CTA link to be optional
+Add a lead capture block and sending the bakery account creation time
+Industry page changes
+Unable to create contrib module guide in the new documentation system https://t.co/Jt3aP7MTMz
+Gives d7 tests their own endpoint
+Adds a separate endpoint for d7 testing
+d7 drupalci job names were too big
+Updates drupalci to use new jobs
+Attribution to organization with comma causes JS to break https://t.co/paRUQAhf78
+Moves pgsql to recommended for d7, enables php5.6.x branch
+DCI_Jobtype should be set by the api version, not configured in the environment settings https://t.co/Yih1NDTRkS
+Update URL
+Minor link and country fixes
+Forces project_composer versioncontrol arrival processing to take place after project dependency has already done its work
+Fixes race condition in composer facade
+Features export
+Updated patch for https://t.co/MvYCV5ehRe
+Limit mass documentation migration
+Upgrade metatag module
+Updates drupalci to have new 5.3.29 and 5.4.45 containers
+Updates composer facade to process dev releases on versioncontrol arrival to facilitate branch testing
+Updating documentation migration messaging
+Update drupalorg module - more strict admin organizations access
+Update drupalorg module
+Didnt intend to leave 5.6 pgsql as a d7 default option
+Updates php7 to use 7.0, and updates 5.6 to use new containers. Adds 5.6 sqlite and 5.6 pgsql
+Updates php5.5 to use new containers, adds new 7.1 and 7.1.x environments
+Update distil module
+Features export
+Add option to remove tagged releases from the version selector https://t.co/iLZSoGB2su
+Update message subscribe module
+Add debugging
+Update drupalorg module
+Update advagg module
+Improve Organization filtering to include Type https://t.co/XhAubzpnng
+Add default value for https://t.co/SMuvZgWbO2
+Make regexps not sent to Mollom configurable https://t.co/9FKFNfXFRb
+Only allow releases with security coverage to be recommended https://t.co/F1k3VaRnJ8
+Fix setting defaults for cores
+Facade broken dependencies provide error messages, instead of total failure
+Collect https://t.co/0TY66UOyow-specific CSS in bluecheese
+Followup for last commit
+Allow project maintainers to easily create documentation guides for their projects https://t.co/4NrsPwKhKN
+Add recirects for a sponsor
+Duplicate ZID's are no longer allowed
+Work around CTools bug
+Improve users’ references to organizations https://t.co/kabBoHQixf
+Updates ZID/IID blocking to be more I hate you spammers
+Prevents drupal/drupal and drupal/core from being in require-dev in composer facade
+Update drupalorg module
+Update PIFT module
+Fixes issue with certain branch names in requirements
+Sibling modules in a project need to have their dependencies loaded for drupalci. Thus they should be require-dev and not suggests
+Reverts change to dev branch format in the facade
+Testing Dependencies are now represented as require-dev in the composer façade
+Update PIFT module
+PIFT updates
+Update flag module
+Update TFA module
+Update Git instructions https://t.co/TmBnD7VHiL
+Improve OG menu interaction and add an option for landing page panes
+Update og_menu module
+Do not comment on (or update status of) closed issues https://t.co/fQo4dKCTFx
+Mostly Features exports
+Update Panels module
+Update ctools module
+Update PIFT module
+Drupal 7.53
+Update drupalorg for improved new user messaging and date format changes
+Remove unused module
+Patch committed upstream
+Only allow migrating to guides you maintain
+Update entity
+Merged in hestenet/update-metatag (pull request #5)
+
+Update meta tag to latest stable 1.18
+Update meta tag to latest stable 1.18
+Various documentation migration improvements
+Update project module
+Add ability to factor more types of contributions into marketplace ranking https://t.co/2a8f372uTP
+Update admin/people/organizations View
+Update drupalorg module
+Update asciidoc_display module https://t.co/SJWkN1664N
+First phase of Add ability to factor more types of contributions into marketplace ranking
+Updating d3 library
+Add a sponsorship opportunity for industry landing pages
+Add 'Your guides' tab to the user profile https://t.co/YwTwq7obA0
+Export Feature to match production
+Revert last commit
+Try a different path to drush
+New location for flot
+Core update
+Upgrade advagg module
+One more header fix
+Improve last commit
+Refinements to last drupalorg commit
+Drupal core update
+We have been using the DB for cache_field
+Fix documentation edit history https://t.co/W02C2tIrxA
+Add an HTTP accept header access rule
+Clean up breadcrumb on Git instructions page
+Connect projects to documentation guides https://t.co/t60goPSOqX, part 2
+Connect projects to documentation guides https://t.co/t60goPSOqX
+Features export
+Finish last commit
+Features export
+Use "composer install --no-dev" to create tagged core packages https://t.co/Z6XhoKowbO
+project_dependency patch committed upstream
+Patch was committed upstream
+Using element-hidden class confuses jQuery hide/show on table rows https://t.co/7WM8gNnCEv
+Update patch for Dependency processing should default to local components https://t.co/oNxXnD1tdf
+1st response metric can be skewed unexpectedly https://t.co/z6H2OMXDiX
+Update project_issue module
+Give Drush more memory for PIFT parsing
+Remove debugging code
+Field updates for MailChimp upgrade
+Fix a notice in PIFT
+Go back to MailChimp 3.x
+Upgrade MailChimp module
+This list is no longer coming soon
+Add per-issue branch testing https://t.co/IWkXJ8q4xb
+Update versioncontrol_project module
+Improve last commit
+Add language switcher to translated documentation guides
+Remove unnecessary query
+Get rid of duplicate titles in User Guide chapters when imported by Feeds https://t.co/UgiYvWOUqZ
+Fix notices and improve performance
+Re-request tests stuck for 12h https://t.co/xDTqkVTd1k
+Do not count sandbox project issue credits on organization pages https://t.co/6ZZl9IHRgn
+Stop stripping newlines and other formatting from comments on documentation pages https://t.co/ZscwtOWJ08
+Do not hard-code comment height
+Patch was committed upstream
+Let content admins use URL aliases
+Remove release table from project browsing pages https://t.co/y5QKb2beTE
+Drupal core ideas queue should have breadcrumbs https://t.co/UxRWBXRGd3
+Allow project-related breadcrumbs to be altered
+Fix notices
+Record comments marked as spam on deletion
+Fix last commit
+PIFT followups
+Configure PIFT contrib endpoint separately from files
+Add PIFT url_contrib configuration
+Another PIFT fix
+Fix PIFT commit
+Move bluecheese-specific style to bluecheese
+Increase PIFT HTTP timeout
+More-flexible, while reasonable, configured tests https://t.co/Qqg0XeR5NO
+Require tfa for content administrator role
+Add more permisions to admin content role
+Add content admin role
+Improve last commit
+Improve WYSIWYG/code interaction situation https://t.co/aH93Yc6KkI
+Fix last commit
+Fix notice in versioncontrol_project
+When deleting a guide, move its content to the parent.
+Fix notice in project_dependency_select_release() https://t.co/QUPWqUvpg8
+Update for theme tweaks and more OG menu enforcement
+Correct feeds version number
+Add User guide import https://t.co/H3i4CYayRv
+Add field to track AsciiDoc source file https://t.co/H3i4CYayRv
+Try adding extra images another way
+Revert last commit
+Move additional asciidoc_display images into place
+Update asciidoc_display module
+Work around notice
+Fix last commit
+Fix notices
+Reduce queries on the versioncontrol_project_projects table
+Display module dependencies on project pages https://t.co/dztJCypYrk
+Replace lime-green
+Provide no default project short name on full project promotion form https://t.co/AiyR46etOl
+Avoid exception when organization is deleted
+Avoid exceptions from clone link
+Add ability to put in a second CTA link and add issue clone link https://t.co/Kdx7EOxvfn
+Move (new) documentation footer to a block
+Don't try using deleted companies for customer default value https://t.co/5uZUVwTMpf
+Show case studies on organization pages
+Don’t let regular users re-open closed issues https://t.co/lrasqgKMJi
+New home page revisions
+Update case studies pane
+Panelizer permissions
+More Features.
+Update the rest of the Features
+Features cleanup
+Update related content view mode for book pages
+Update related content view mode for book listings
+Add documentation related content and tags
+Various updates including Panelizer permissions
+Update new news panes
+Export new permission
+Update to 7.50
+Remove unused module
+Remove apdqc
+Update nodechanges to fix notice on cron
+Keep documentation in English for now
+Enable Documentation translation for User guide
+Deconfigure APDQC
+Hide System message from documentation maintainers
+Add apdqc and related settings
+Remove dependency on block_class
+Change comments order for new documentation pages and guides https://t.co/qqN2Z8fngV
+Improves guessing when maintainers fail to namespace their dependencies
+Improve Community stats pane
+Use the correct path
+Switch to get so subtree can work
+Add another User guide dependency
+Add markitup for asciidoc
+New permissions for user guide-related modules
+Add community stats pane
+Prepping demo content for home page
+Organization page categorization
+Add requirements for user guide
+Spam content view cleanup
+Fix edge case in packaging
+Features export to go with last commit
+Landing page cleanups
+Various drupalorg updates, including security advisory clarification
+Add more editorial tools
+Update entity module
+Export new permissions
+Typo
+Add fieldable_panel_panes module
+Update flag module
+Section fields should be available to diff, Guide author should get maintainer role automatically
+Panels-related Features re-exports
+And not using this too
+No longer using this either
+No longer using this
+Update CTools
+Update Panels*
+When previously credited, add credit for a person’s new comment, in case there is new attribution
+Updates project_dependency to restrict dependencies to published releases
+Update project_issue module
+Add documentation-specific search
+Invalid dependencies will display errors for composer show/info
+Remove dead code
+Updating drupalorg module
+Fix last commit
+Download page refresh
+Improves selectivity of the turbo encabulator
+Missing commit from last makefile
+Updates project composer to work outside of drush context
+https://t.co/cTgsAra1wP now responds to release publishing/unpublishing
+Remove module categories listing
+Update PIFT for table styles
+Co-maintainer of a sandbox project can’t promote that project
+Improve user menu accessibility
+Update drupalorg module for Panels Features updates
+Update drupalorg module
+Update Panels/izer
+Update Panels
+More-accurate comment
+Let confirmed users create documentation pages and add title to shield icon
+Additional bugfix for email whitelist
+Adds email domain whitelisting for user registration restrictions
+Add information about releases covered by security advisories to project pages https://t.co/IYlGGzmYmY
+Add information about releases covered by security advisories to project pages https://t.co/IYlGGzmYmY
+Updates settings to remove d6 testing
+Permssions export
+Update google_analytics module
+Update PIFT for CSS cleanup
+Prep for project page changes, https://t.co/IYlGGzmYmY
+Fix last commit again
+Fix last commit
+Deconfigure PHPCS fields
+Also consider committer_date for dev packaging https://t.co/d312IlI0TW
+Retext 8.2.x patches, not 8.0.x
+Versioncontrol patch was committed upstream
+More-explicitly set cookie domain
+Change link in documentation message
+Tighhten up session cookie domain
+Removing MemCache remnants
+Remove codereview code
+Show a message about documentation migration
+CKEditor improvements
+Issue credit refactoring
+Be more strict about OG menu titles
+Add related content and tags to documentation
+Update redirect module
+Provide menu item for dashboard
+A user should be able to "follow" a Section of content https://t.co/jVGClicRjX
+Fixes a legacy facade issue with conflicting module names
+Move dashboard to /dashboard
+Preliminary changes for following sections
+Update flag_tracker module
+Update documentation Features
+Update message module
+Documentation migration improvements
+Correct maintainer check for node edit page https://t.co/lvnKXPkuhE
+Update pathauto module
+Avoid infinite loop in packaging
+Update block for Dublin
+Add node changes to comment notificiations
+ಠ_ಠ drupal camp colorado no longer breaks https://t.co/Y6cfGjSVrj dependencies
+Updates spam tool to calculate sparrow velocity
+Update RestWS module
+Update project module
+Panelizer patch reroll
+Update Panels
+Notify guide maintainership recipients
+Improve message to users for unpublished comments in issues https://t.co/nSEGvUBNsG
+Fix notice in facetapi
+Fix notice in project_composer
+Spam view links to wrong author for spammy doc edit https://t.co/OmSoOPmyWa
+CKEditor patch was committed upstream
+Avoid infinite loop when commits are synced out of order
+Update geolocation module
+Update views_field_view module
+Update honeypot module
+Update google_analytics module
+Feature export
+Add classes for improving issue styling https://t.co/2nGSBtNyEu
+Deprecate -unstable tag https://t.co/GeKCg2nscL
+Use commit hashes when packaging dev releases, and update Admin group local task
+Include project in all projects RSS feed title https://t.co/v8f36zJcs3
+Enables php7 for d7 projects
+Update drupalorg module
+Update restws module
+Improve help text for announcement block
+Cleans up watchdog exceptions
+Adds download callback defense
+The wheels on the bus go round and round
+Unconfuses composer Facade regarding new projects
+Fixes namespace data for new packages in facade
+Fixes another dev version bug
+One more bug in Composer Facade
+Composer Facade undergoes final reconstructive surgery
+Raise DB log limit
+Update drupalorg module
+Update release table immediately on packaging https://t.co/pBEkJHePrY
+Update PIFT module
+Fixes a bug that crept in
+Adds ip intelligence data to account creation process
+Removes stray file include
+arbitrary noop commit
+Updates spam tools
+Updates distil spam blocking module
+Update project module
+Update Views
+Drupal core update
+Fix last commit
+Add UI for feature branches https://t.co/W89ahSZGc3
+Files uploaded before maintainers granted credit should be enabled by default https://t.co/mW2t5qAzKE
+Replace https://t.co/bTQJt5ZH0L GitWeb links with cgit https://t.co/nG3Zjpw1C9
+Permissions updates
+Hide revisions for pages, posts and case studies, unless you have edit access
+Update project_git_instructions module
+Fixes composer facade issue with underscores in repos
+Remove now-unused module
+Composer Facade updated
+Remove stale configuration
+Update nodechanges module
+Update drupalorg module
+Update distil_registration module
+Not possible to credit people who didn’t comment in an issue https://t.co/LbgD9vb4O6
+Merge branch '7.x-prod' into 7.x-groups
+
+# Conflicts:
+#drupal.org.make
+Updates distil module and accompanying views features
+Update drupalorg
+CKEditor should not strip div
+Deploys distil_registration and fixes some flags
+Update queue_message_subscribe to be forkable
+Use runqueue.sh for versioncontrol_reposync
+Fork versioncontrol_repomgr queue processing
+Updates composer Facade to have a package namespace lookup table as well as refactors the database to use api-tid instead of a version st...
+Remove need to log in for search issues https://t.co/sN6VfLFS8s
+Update drupalorg module
+Use CKEditor on page, post, section, guide
+Merge branch '7.x-integration' into 7.x-prod
+Update list of TLDs https://t.co/kdIMQ6BUG4
+Update drupalorg module
+Update project_issue module
+Update https://t.co/Y6cfGjSVrj-sites-common for Prism
+Feature update
+Merge branch '7.x-prod' into 7.x-integration
+When using prism, the pre wrappers get infinitely wrapped on ckeditor https://t.co/bEYkmKLSrQ
+Update https://t.co/Y6cfGjSVrj-sites-common hashes
+Permissions for Create group content type (guide) for documentation https://t.co/WFMWIfCTav
+Create group content type (guide) for documentation https://t.co/WFMWIfCTav
+Merge branch '7.x-prod' into 7.x-integration
+Update patches
+Update drupalorg module
+Update ckeditor_codestyle for correcitng tooltip
+Merge branch '7.x-prod' into 7.x-docs
+Update nodechanges module
+Update project module
+Update drupalorg module for release listing URLs
+Updates project module for updates.xml hotfix
+Update project composer module
+Refactoring project_release_query_releases() arguments in project* modules
+Update drupalorg module
+Update drupalorg module
+Merged in bjeavons/drupal.org/tfa-stable (pull request #4)
+
+Specify TFA module version 2.0
+Specify TFA module version 2.0
+Hard-code versioncontrol_repository_git_base_url_drupalorg_gitweb_rewrite
+Update distil killswitch
+Merge branch '7.x-prod' into 7.x-integration
+Update prism library
+Merge branch '7.x-integration' into 7.x-groups
+
+Conflicts:
+https://t.co/Y6cfGkawiR.make
+Add bueditor plus
+Update drupalorg module
+Update codefilter and drupalorg
+update ckeditor drupalorg
+Latest druaplorg ckeditor changes
+Updates project_composer.module
+Add a block for New Orleans
+Update project_composer module
+Update Features module
+Merge branch '7.x-prod' into 7.x-docs
+Add bueditor plus
+Remove image for image2 ckeditor module
+Remove htmlpurifier, backbone, and underscore js
+Remove backbone and upload widget for ckeditor
+Update prism hash
+ckeditor codefilter makefile
+
+# Conflicts:
+#drupal.org.make
+Merge branch '7.x-prod' into 7.x-integration
+
+The filter_html_image_secure patch was committed upstream.
+Update filter_html_image_secure module
+setting JobType for D7 tests
+Update codefilter patch
+Also retest 8.2.x
+Update project_composer module
+Update to ckeditor branch of drupalorg and apply patch for filter_html_image_secure
+Update project_composer module
+Update prism hash
+ckeditor codefilter makefile
+
+# Conflicts:
+#drupal.org.make
+ckeditor code filters
+Merge branch '7.x-prod' into 7.x-groups
+
+# Conflicts:
+#drupal.org.make
+Update project_composer module
+Update drupalorg_themes repo
+Update project_composer
+Update Composer for project_composer
+Add project_composer module
+Improve fetching of multiple jobs with the same job id
+Tweak colours for contrast to improve accessibility https://t.co/WVwwdCjJaf
+Add a killswitch for empty UID blocking
+Merge branch '7.x-prod' into 7.x-docs
+Update search_api module
+Updating OG
+Update nodechanges module for a new comment
+Update last patch
+Store composer.json if present https://t.co/1V7PQAVCsu
+All commit authors disappear when you click anywhere on commit list https://t.co/OmJnqOC5yN
+No longer using talk module
+message_follow compatibility with talk module
+added design to the list of TLD's that are allowed in link fields.
+Set up branch for testing
+Update OG module
+Ckeditor 4.5.8 and add the additional ckeditor libraries we need
+Update Features module
+Merge branch '7.x-prod' into 7.x-groups
+
+# Conflicts:
+#drupal.org.make
+HTML Purifier library and module
+entity prepopulate patch no longer needed.
+Use 7.x-3.x-groups branch instead of a revision
+Do not Use MemCache via ConsistentCache instead of infra-wide defaults
+Update drupalorg module
+Extend session lifetime, https://t.co/9yOW9AU9jE
+More hard-coding of cache classes
+Update drupalorg module
+Update OG module
+Update advagg module https://t.co/AEGRUpPtxD
+Update drupalorg module
+Update message follow module
+Update drupalorg module
+Remove comment render cache code https://t.co/xSwBQPZrtF
+Update drupalorg module
+Light theme for code blocks https://t.co/2U7AkYgk1B
+Restore previous code wrapping
+Merge branch '7.x-prod' into 7.x-groups
+
+# Conflicts:
+#drupal.org.make
+Add cache to the makefile
+Update drupalorg module
+Update Prism styles
+Show MD5/SHA hashes of files on release pages https://t.co/wz0J4jCFig
+Update codefilter to dev branch, https://t.co/DLWcHNgHEb
+&lt;code&gt;&lt;em&gt;HTML in code&lt;/em&gt;&lt;/code&gt; is not properly escaped with Prism https://t.co/t8xRxO48AQ
+Update to codefilter 1.2
+Fix typo
+Add syntax highlighting https://t.co/DLWcHNgHEb
+SchemaCache is prone to persistent cache corruption, https://t.co/wzZfFxE56g
+Update D8 landing page theme
+Update project_issue module
+Update versioncontrol module to remove our patch
+Update drupalorg module for https://t.co/vlCRMQ7g7g
+Update drupalorg module
+Update project module - populate SHA hashes for releases
+Try another strategy for https://t.co/vlCRMPPEIG
+Update project module for https://t.co/ch5hlduAss
+Update versioncontrol_project module
+Update drupalorg module
+updating settings.php memcache settings
+Add a health check for apachesolr, which requires a full bootstrap.
+Add a banner to encourage voting
+Get ready for https://t.co/vlCRMQ7g7g
+Ignore healthchecks in NewRelic, they skew our APM quite heavily.
+status.php for health checking with Fastly
+Update PIFT module
+Add Mollom patches
+Do not treat entities as array in VersioncontrolEntityController::cacheGet() https://t.co/fePwKrrSw8
+Revert last commit
+More defensive $conditions check in VersioncontrolEntityController::cacheGet()
+Allow files to be assigned to branch(es)/version(s) and thus tested against it https://t.co/nEur1QhNhM
+Update drupalorg for https://t.co/ddSbr3igRL
+"Show in project’s download table" checkbox unavailable on node/add/project/release https://t.co/B8gMki0Xti
+Update drupalorg module
+Update project_dependency module
+Remove location rquirement https://t.co/SPqZdZmlet
+Fix last commit
+Update project module
+Drupal core update
+Updating Drupal 6 information
+Add a patch for debugging project_dependency
+https://t.co/0TY66UOyow forcing RTL when I am logged in https://t.co/dQp4OR9N4U
+membership status - changing 'Grace' to 'Grace Period' https://t.co/K31MPo1LsN
+Modify JSON parsing to detect CI errors and display inline https://t.co/jFO4TJcLY1
+Fix notice
+Update project module, code cleanup
+We are not using draggableviews at the moment
+Add a View of all Organizations, https://t.co/SPqZdZDW61
+Needed another Features export
+More-efficiently store *_allowed_types variables https://t.co/7p04cc3jY2
+Uupdate drupalorg module, Features updates
+Update project_dependency module
+If we are on a post page, add Blog to the breadcrumb
+Use a different workaround for OG Exceptions
+Revert last change, it makes node pages 50-100ms slower
+Work around EntityMetadataWrapperException from OG
+Completely remove subsite login
+Update entityreference_prepopulate module https://t.co/J9Rn4rCij5
+Let comments on posts be flagged as spam
+Use section path, instead of title, for post URLs
+Update drupalorg module
+runqueue.sh can find PHP when called via sh https://t.co/SEKN8pWf1w
+Apply patches to let IPE be used by section maintainers
+Update distil registration module
+Update message_follow module
+Update PIFT module
+Update drupalorg module
+Update PIFT module
+Update drupalorg module
+Update PIFT module
+Update PIFT module
+Update project_issue module
+Move versioncontrol_repository_event_processor queue to beanstalkd
+Update project_dependency module
+https://t.co/GKCq1IZk6S Render cache and Flot module
+https://t.co/vCBhFGzWlR Allow bypassing branch blocking
+https://t.co/aPZKVy96xh Email unverified user should not be able to accept Git access agreement
+Update advagg module
+After adding update hook, commit hash changed.
+Adds changes necessary to support the content model
+Update apachesolr_multisitesearch module
+https://t.co/WApIt1VTnj Add "Reported by" and "Created" date to the sidebar on issue pages
+Try og
+Reset to 7.x-prod.
+Merge branch '7.x-prod' into 7.x-integration
+Fix typo
+https://t.co/ABF1I9lggj Make result column smaller
+Let http://t.co/Y6cfGjSVrj-common.make take care of security_review module
+temporarily remove results display
+Add test results to test pages
+https://t.co/9dTCuR2KmO An administrator should have more helpful administer content and people views
+https://t.co/gTVYNOwTEw Copy attribution from the user’s last comment to automatic first comment
+Also simplify TFA login page
+https://t.co/EUsR94Ds9t Automatically generate comment when an issue is created
+https://t.co/vB2kQuq3U3 Disable DrupalCI D7 testing until it is available
+https://t.co/wNeAH0h83i Display volunteer attribution with the other types of attributions on issue comments
+https://t.co/nC2n8Fpv4d DCI_Fetch needs to have module subdirectory for contrib patch tests
+Update Google Analytics module
+Make PHP 7
+Update PIFT module
+Enable PHP 7
+Also use url_file for contrib tests
+https://t.co/RDXQ6fP3YK [DrupalCI Integration] Enable contrib testing
+https://t.co/Wgo4gEVuuw The link to add new change record should respect the project being viewed
+Remove entitycache from codebase
+https://t.co/8FHF9toBa2 Using entityreference_prepopulate module on http://t.co/0TY66UOyow
+Removing common module
+Update patch
+Update beanstalkd module
+https://t.co/irf2W1w9xq claimItem() "$lease_time" argument is incorrect
+https://t.co/AEGRUpPtxD Update advagg module
+Hard-code TFA settings
+https://t.co/xd5lkNoTrY Let all confirmed users use two factor authentication
+https://t.co/D3h7DIaowU
+PIFT module update
+https://t.co/ABF1I9lggj link to branch results on issue test pages
+Reapply 4233ba8
+Update PIFT module
+Revert last commit
+Remove availability of PHP 5.4 testing for D8
+Update jCarousel module
+https://t.co/k81FQOcd6K Fix odd behavior on not existing projects
+Add entiitycache module
+https://t.co/s6YjZcL1bE http://t.co/0TY66UOyow front page iteration 2 June 2015
+Finish QA PHP 5.4 to 5.5
+Add file-specific testing URLs
+https://t.co/tjbAmd5k4k [DrupalCI Integration] Enable patch testing
+Use separate build
+Bump version number
+Update pift_ci_environments urls
+https://t.co/O3FpWf8T0V Handle downstream results
+Revert rest of settings.php changes from e77b37c. triggered_projects_replacement will be removed.
+https://t.co/Ht5yks9tOs CSS added with type 'module' should be 'file'
+https://t.co/AEGRUpPtxD Update advagg module
+https://t.co/WjHznmPx62 Packaging should drop bender user
+Update Honeypot module
+Update VBO
+Site is upgraded, we aren't using migrate
+Revert URL change for now, PIFT assumes there is a single job with results.
+Ignore local settings in the make file
+https://t.co/O3FpWf8T0V Handle downstream results
+https://t.co/uMgXLziOjG Handle projects without releases
+Module Filter
+https://t.co/VjtHR9EyoV Expose recent issue credits data on user
+Include password reset with other user login pages
+Update PIFT module
+Update Mollom module
+https://t.co/ABF1I9lggj Create a page for each [DrupalCI] test
+Add PHP 5.5
+Build script to dynamically rebuild dev sites
+Bring in Panels, OG, Panelizer, Admin theme, and other common modules
+Merge branch 'refs/heads/7.x-prod' into 7.x-integration
+Revert "https://t.co/xuCp77brhY Users should get 'Community' role automatically when they reach required level of participati...
+Fix typo
+Enabling some DrupalCI environments
+Security update
+PIFT update
+Core update
+Update advagg module
+PIFT update
+6.x testing on DrupalCI has not been tested
+Add Postgres 9.1
+Fix mislabeling
+https://t.co/ccoGOfpCKk Update the Contributor Links dashboard block to account for the "Plan" category
+Add Signature Supporting Partners
+PIFT update
+https://t.co/wFGrIhEihr Signature Supporting Partner Badge Added to D.O
+https://t.co/tJd6XHr85U Adjust critical issue counter/link at /drupal-8.0/get-involved to account for "Plan" issue category
+Update project module
+Also match time
+PIFT update
+Update regex for Fastly
+Features re-export for permissions changes.
+https://t.co/5mEyrxtoTc PIFT 3.x on http://t.co/0TY66UOyow (DrupalCI integration)
+https://t.co/LEC9oCXapj Add "Plan" category to categorize what is called "meta issues" in core right now
+https://t.co/lvlKWCJCgX DrupalCI: Sitewide job configuration, commented out for initial deployment
+Upgrade drupalorg for DrupalCI
+https://t.co/1VdbgIihuM Remove fileicons from file upload views
+https://t.co/AEGRUpPtxD Update advagg module
+https://t.co/kyymEC50ET Do not show "Add 'confirmed' role" fasttoggle link
+Update drupalorg module
+https://t.co/DE4ij3Pbi9
+Update project module, including https://t.co/W7xbuUNnmS Remove edit link from download table
+https://t.co/qFCDnc7V90 Marketplace management view shows wrong 'posted by'
+https://t.co/uFhf4W7TLx Make orphan terms easily deletable
+Permissions updates
+https://t.co/hNGGX2dJeD Make "I'm a volunteer" an explicit choice in the credit UI - update improvements
+https://t.co/hNGGX2dJeD Make "I'm a volunteer" an explicit choice in the credit UI
+Copyediting
+https://t.co/I6wqQth5EI Proactively clear release history XML caches when they're rebuilt
+https://t.co/CMkpHsB5fF Add qrcodejs
+Features update
+Update drupalorg for two factor authentication
+Fix typo
+Add TFA modules
+Update drupalorg, Features export
+Update Views
+Update MailChimp
+https://t.co/ec2mS9C7Vo Don't automatically retest Drupal 7 core RTBC patches
+https://t.co/1GuW0PiUVi Canceling a user account, assigning content to Anonymous, should clear the comment name
+Remove renamed newsletter
+Another Features re-export
+Clean up another permission.
+https://t.co/DwCxGuuqMz Permissions cleanup
+fix last commit
+Features cleanups
+Features re-exports for 7.x-2.5
+Update Features module
+Update link
+https://t.co/xuCp77brhY Send an email to users when they get the community role
+Fix last commit for new comments
+https://t.co/BdzqWlfbMs Community user should see 'confirm' button on comments of some users
+Copyedit last commit
+https://t.co/MShIFy6ZkO Iterative change to the http://t.co/0TY66UOyow homepage to support the content strategy work
+Remove sticky header from Credit
+https://t.co/70oHjyNRf6 Fix unexpected error
+https://t.co/Jp3gb0yR7K Extend crediting UI to include organizations
+https://t.co/bWjc9QxnYj Remove now nonexistent permission
+https://t.co/bWjc9QxnYj Testing status checkbox should be visible to all users
+Update settings for last commit
+https://t.co/3VvVpwKPDk Remove Maintainer news mailing list
+https://t.co/svYuBxwXqC Improve global notice functionality
+https://t.co/A2KnuQPPsA Autocompletes on http://t.co/0TY66UOyow Profile aren't firing
+https://t.co/xuCp77brhY Users should get 'Community' role automatically when they reach required level of participation
+https://t.co/Fot8iLHFpV Confirm button refinements
+https://t.co/RgePojGvsV Filter on project nodes
+Fix issues with https://t.co/RgePojGvsV
+Fix typo
+https://t.co/RgePojGvsV Integrate code review tools
+https://t.co/Fot8iLHFpV
+Update advagg for https://t.co/A2KnuQPPsA
+Another core hack :(
+https://t.co/kPabgyHYDZ Sort autocomplete of issue tags descending by usage count *on advanced search page*
+Fix last commit
+https://t.co/1M0XI4C9sv Confusing/redundant newsletter options in profile
+https://t.co/CYNY9Ri2Yu Various one-time-login and validation links don't work with Drupal 6.35 and Drupal 7.35
+Core update
+Update ctools module
+https://t.co/jVq4t6ATa5 Move the issue metadata to the top in markup
+https://t.co/8lomIXbmhY Only consider comments posted after deployment for attribution defaults
+Update advagg module
+Update download stats parsing
+Update download stats parsing
+Make welcome page more simple
+Add $_SERVER[HTTPS] for advagg
+https://t.co/emimCVnfME Use Advanced CSS/JS Aggregation on http://t.co/0TY66UOyow
+https://t.co/MKXREgA2lr Followup
+Fix last commit
+https://t.co/MKXREgA2lr Add issue comment attribution
+https://t.co/WPM0mO8CRQ Work around logintoboggan not using user_save() for email validation
+https://t.co/sWSJDFLCNA Sort autocomplete of issue tags descending by usage count *in the issue metadata form*
+https://t.co/0XL2U2e8oj Users with 'Community' role should not see 'Administer comments' and 'Administer nodes' sub-tabs of u...
+https://t.co/svYuBxwXqC Provide UI for one-time system message display to all http://t.co/0TY66UOyow users
+https://t.co/TtknIoRify Display 'new' indicator next to user picture of new users
+Fix typo
+https://t.co/3SBzrNkZpU Add an admin-only user notes field
+Update nodehcanges for https://t.co/MKXREgA2lr
+https://t.co/kf28mIusa8 Separate patches from other files for automatic credit
+Entity module update
+Revert last drupalorg change
+https://t.co/k9hQbY40Vv Revert Allow email unverfied users to create forum posts
+https://t.co/n6BfSaSifH User registration improvements
+Security update
+Newsletter description update.
+Features export and clean up notices
+https://t.co/3hUrT3dqoA Do not rely on #states to set subscribed checkbox
+More list updates
+Newsletter updates
+Feature export to match production
+https://t.co/3hUrT3dqoA Send a welcome email
+Newsletter description updates
+Update to MailChimp dev version
+https://t.co/3hUrT3dqoA Offer to subscribe to Mailchimp lists on user page
+Security update
+Set logintoboggan_redirect_on_register
+Roll back https://t.co/sWSJDFLCNA
+https://t.co/3hUrT3dqoA Add dependencies for MailChimp
+Log purge requests on caching
+Update project_issue module:
+
+- https://t.co/gxqwDvzWCA Issue entityreference autocomplete doesn't work with a URL with an an...
+Update multiple_email module
+One more organization name matching fix
+https://t.co/7ARtFszON4 Trim organization name when matching
+https://t.co/7ARtFszON4 Lowercase organization name when matching
+Configuration for last commit
+Various changes:
+
+- https://t.co/ahvp0Ss4Nl Send PURGE requests on release node save
+- Audience extension, see https://www.dr...
+Update r4032login
+Added redirect path to welcome page on registration.
+https://t.co/fPq6rFpUgB Increase the number of nodes in the Security Advisory RSS feeds to 50 items
+Nodechanges edit/comment form refactoring followups
+https://t.co/tQG60l3Ka4
+Cache Consistent 1.2
+Allow Migrate UI to be disabled
+Update Features module
+Fix typo
+https://t.co/FaJfFKTjUj Also include full login path for "headless" pages
+Update project_dependency
+https://t.co/LaLKxfbvxb Preserve cross-site redirects between login
+CTools update
+Fix last commit.
+Set social link patterns.
+https://t.co/KnSCHlC4lm Set titles for social links on user profiles
+Update project_dependency
+- https://t.co/k9hQbYUOjH Allow email unverfied users to create forum posts
+- https://t.co/bNLKipsNeD Add Resourc...
+Fix last commit
+https://t.co/xM8OMy2pOd Friendlier 404/3 messages
+Small drupalorg fixes:
+
+- Also make field_social_links available for syncing
+- https://t.co/AYVwEMWvAF erroneous comma in ToS...
+Update project depenency module
+https://t.co/fZb2Khw5iS Clean up login
+User login
+https://t.co/fZb2Khw5iS Remove "Next step" help text on account create form
+Email users on email verification, and wording changes.
+
+- https://t.co/oDAoT5ic0B Email users on email verification
+- https:...
+User login improvements
+
+- https://t.co/lwndY3RG4c Add help text on right hand side of the user login form
+- https://www.drup...
+Homebox module update
+Hard-code project_usage_updates_regex
+Fix last commit
+https://t.co/9VAhJABU9o Drush components for drupalcodechecker
+https://t.co/xOZwrpXU0t Preliminary logintoboggan ...
+Fix notices
+https://t.co/AZnNGIAB1U Enable CORS for api-d7
+https://t.co/pAc2bAigML Sync user roles
+https://t.co/lYkJAPsFYy Update nodechanges module
+https://t.co/pAc2bAigML Sync user roles
+https://t.co/fgCP7JPmwJ Add admin-accessible tab for unpublished SAs like security/unpublished
+https://t.co/ATlGujpDbh Lock down role IDs and permissions
+https://t.co/xOZwrpXU0t Configure LoginToboggan.
+https://t.co/xOZwrpXU0t Added logintoboggan
+Added logintoboggan
+- https://t.co/FDj4Ot9iKb Show author in issue mail metadata
+- https://t.co/S1yFZErq61 Remove note about not send...
+https://t.co/EVEAyYszRS Add a block with a count of remaining critical issues to https://t.co/MWT5U4J8hd* sub-pages
+https://t.co/PHtIIre9SD Exclude a module from testing
+https://t.co/RqKwNze0yR Initial support for all screen sizes - drupalorg updates
+https://t.co/RqKwNze0yR Initial support for all screen sizes
+https://t.co/KLQaUD4mpg Test Mollom on http://t.co/0TY66VnKo8
+Move Optimizely code snippet from drupalorg, so all sites can use it.
+Features cleanup
+Added mollom
+https://t.co/Ry5UgQrBks Rename 'not a spammer' role to 'trusted' and 'spam fighter' to 'community'
+https://t.co/CvGv7fqPuZ Move user profile page elements to pseudo fields
+https://t.co/UKhfPP1lcC User profile improvement
+https://t.co/yzslfomFzn User profile syncing and cleanup
+https://t.co/2k0eocG3v1 Migrate First
+https://t.co/DI1GgoCpaG Re-migrate Drupal Contributions user field .. again
+Avoid an infinite loop in project_issue
+https://t.co/jwoAxChIem Remove "Search Documentation" block from /community
+Simplify user registration form
+Fix WSOD when you mentor yourself.
+Various changes including migrating the mentors field and:
+
+- https://t.co/kDoCijoG9q Do not use node_save() so node timestam...
+https://t.co/QA02i2y9NL Improve issue cockpit block caching
+Export to match production.
+Various fixes including:
+
+- https://t.co/wtPku8CJAC Restore "Report to Moderator" link on docs pages to target Documentation ...
+https://t.co/obG0QFtkrI Add project download count field
+Remove now unused fields.
+Features export
+Migrate I attended
+https://t.co/IbF5kjDZNt Fix "0 languages" on front page
+Features re-export
+https://t.co/yzslfomFzn Remigrate areas of expertise (formerly roles in working with Drupal) and migrate contribution checkbo...
+Codifying the exclusions of specific projects for http://t.co/NX1z4ilo94
+Core update.
+Followup from 7.33 core update.
+Core update.
+https://t.co/zBOgFfDCLu Improve JS for Credit
+https://t.co/zBOgFfDCLu Auto-generate Git attribution info / commit messages on http://t.co/0TY66VnKo8
+https://t.co/RqKwNze0yR Prep home page to be responsive
+https://t.co/aAlWKhKrry Correct spelling.
+Made sector relationship not required
+Fix ID.
+https://t.co/bJpLmVoc4z Migrate 'Drupal contributions'
+https://t.co/cR03C1jN3m Add user field for ToS agreement
+https://t.co/VzZYfyC53u Migrate user interests and languages spoken.
+Update to comment_fragment 1.1.
+https://t.co/ETyq05oUqi Do not show issue search to anonymous users on project pages.
+Features re-export.
+https://t.co/24FJCjUhau Update "insert/edit image" BUeditor button
+Updates to partners
+https://t.co/pQPiwcSjdJ Add a profile field for GitHub account
+Add browse hosting partners by type block
+Add URL in preparation for https://t.co/pQPiwcSjdJ
+https://t.co/CvstqX0Ber and other issues, allow new TLDs in Link fields.
+Move settings.php to new location.
+http://t.co/Y6cfGkawiR - https://t.co/qHDKk24yKb Comment render caching should happen per timezone
+http://t.co/Y6cfGkawiR - https://t.co/qTyw9EXTbd Make previewing comments in issue form block possible
+http://t.co/Y6cfGkawiR - https://t.co/crXvD50zC6 Restrict action into issues [commit comment] after versioncontrol_project_issue_git even...
+http://t.co/Y6cfGkawiR - Features re-export.

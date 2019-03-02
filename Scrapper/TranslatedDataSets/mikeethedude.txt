@@ -1,0 +1,596 @@
+I used to use a visual tool for Git in the past and there was always such a mystery to how Git actually worked. Now I am using command-line and it is still a mystery, but I look like I know what I'm doing at least. #webdev #versioncontrol 
+I haven't pulled the trigger on releasing the hard copy of Ember in the Darkness. It isn't that I don't think it is ready. I'm not sure what it is. I will definitely get it out there this year. I just have to let go a bit. #amwriting #selfpublishing 
+Yessssss. My shirts from @PopUpTee came and I'm so excited! #notanad #Idonthavethatmanyfollowers 
+xdebug when I don't need it: I must stop on everything! 
+Sleepy 2019 writing goals: 
+- Finish first draft of time loop drama 
+- Finish editing on book two of heart of fire 
+#amwriting #amediting 
+I really do like #reactjs better than some of the other options out there. The only thing is that I'm finding that I like most of the supporting tech a bit better than react itself. I couldn't even webpack before I started this. 
+Working in React for the first time: Wow, look how organized everything is! 
+Working in React for the 100th time: Why can't I find where this prop is coming from?? #webdev 
+@Sara_Flower I like to call it free therapy! There are many half-written stories and ideas that mostly serve to clear our my mind. xD 
+Finally unlocked all of the characters in Super Smash Bros Ultimate. It doesn't feel like there are that many but what a selection. 
+One on the way for the Goulding clan. https://t.co/EviIWZkiOm 
+A hand-picked mix of anime you can watch instantly on Crunchyroll. This is also pretty much what I'm watching lately. https://t.co/DBxPyOb2vV 
+RT @hdevalence: people say that linux doesnt have good games, and yet, git rebase exists 
+I am pretty quick at typing, (#humblebrag), but as a developer what that really means is that I can hit the delete key faster than some. #webdev 
+It's easy to forget just how easy it is to add custom blocks and block types to #drupal8. Now to get my head back into this stuff for the new year! 
+There are basic years, and then there are years with us. Welcome to #xboxyearinreview https://t.co/Tp1FKgExRr #xboxyearinreview 
+RT @lolamby: Symlinks. https://t.co/QNDuSA76yT 
+Everyone's year was different, but this is how 2018 sounded to me. Get yours.  #2018Wrapped @Spotify https://t.co/y06UgOwfA4 
+@amazingrando @FourKitchens https://t.co/AQfrv6aybc 
+@lukeherrington @FourKitchens https://t.co/1s9cdO5J7A 
+Hey, check it out. I'm a web chef! So excited to be working @fourkitchens! https://t.co/r7qX0bpzQX 
+Here is your reminder that #PHP 5.6 and 7.0 are coming up on EOL. You probably have already made the switch or are ready to, but if this is the first you are hearing of it... Good morning? #webdev https://t.co/4PMhD0bioR 
+Happy Halloween yo https://t.co/tVmZs8SfEX 
+Oh man, the new @ChevelleInc album 12 Bloody Spies is amazing! I am just going to have this on repeat for a while. 
+NoPurchNec.… 
+Looking for a place to start in getting deeper with caching in #drupal and #Drupal8? Well, this post is a good place to start. Be on the lookout for more in-depth discussions about #caching in the near future! https://t.co/cGh44WAJXO 
+Got a brief chance to play Assassin's Creed Odyssey on #ProjectStream by Google. Very impressive. Hoping to get more than 15 minutes to really dive in. 
+RT @AshdayInteract: Focus on building your business, not running your business. A robust software solution built upon a CMS may be the solu… 
+https://t.co/FvRQdl4G7x 
+@starwars Never available in AZ :/ 
+I know a storm trooper. Does that count? #MyCrewGiveaway #HanSolo 
+@DamienMcKenna @getpantheon We ended up using a hosted Solr solution for a similar reason. We needed some of the new Date indexing that was only available in Solr 5+. There are some decent Solr hosts out there that do the job. Not as convenient, or free, but works. 
+RT @AshdayInteract: If you run a site that is in need of new or dynamic forms on at least a monthly basis, then #Drupal 8 + Webform is a li… 
+#TMNT #RisePrize I'm excited to show my kids the new TMNT :) And definitely watch with them. 
+https://t.co/X3bvXyqMbK 
+I know I've already commented on this, but new Luigi's Mansion, new Animal Crossing, and Katamari Reroll just made me so happy to be a Switch owner. I didn't even get the whole picture about Nintendo online and I'm so on board. #NintendoDirect 
+New Animal Cross on Switch too? 2019 is going to be a good year to have a Switch it seems. #NintendoDirect 
+AHHH Katamari on Switch! #NintendoDirect https://t.co/YPt9D3GUpU 
+@GameSpot Pretty much all of the Nintendo home consoles, PS2, Xbox360, and Xbox One. Faves included Chrono Trigger, Kirby's Air Ride, Phantasy Star Online 1 &amp; 2 Plus, Perfect Dark, Time Splitters, and so many more. 
+RT @AshdayInteract: Think your #website may have been hacked? Here are few things to look when self-diagnosing your site. 
+https://t.co/E65y… 
+Do you remember when you joined Twitter? I do! #MyTwitterAnniversary Dang, I've been on this for 9 years? https://t.co/B1QUOQpkd4 
+RT @AshdayInteract: Upgrading to #Drupal8? Ask these questions first, to avoid headaches down the road. https://t.co/NDKaIhLtJB 
+@NintendoAmerica Going for #TeamPikachu to get the maximum Pokémon Yellow nostalgia going. 
+If you ever need to explain #drupal to someone who isn't familiar, send them to this article. My coworker, Brian, did a fantastic job laying it out in an easy to understand way. https://t.co/d835BHjYlF 
+ 
+Any snarky response (HAR HAR IS IT PRONOUNCED JRAPHICS) is complet… 
+Hey @becausescience, I was just rewatching the first episode of the new Voltron and I have a question for you. Wouldn't the whole team be dead/passed out in that first little trip inside the blue lion? That has to be a lot of g's https://t.co/1txlzS0bNa 
+@d20love As much as I love Dragon Ball and Smash, I definitely don't want this. It took me a while to be okay with Sonic and Snake in the roster as it was. Also, don't we have enough characters in ultimate? 
+@d20love This is going to be my night now. The nostalgia is strong. 
+@d20love Wait what!?! 
+Curious why your website says "not secure"? You should get an SSL. The people of the internet have spoken. https://t.co/90NmjnsafU 
+RT @drupalsecurity: The core release today will be closer to 5pm Eastern (9:00 PM UTC) 
+So you know #php 5.6 and 7.0 are EOL the end of this year right #webdev? Just saying you might want to make the move pretty soon here. 
+I haven't even put the game in yet. I'm so over the moon about the Sonic Mania Plus presentation. Excited to introduce the kids to @sonic_hedgehog https://t.co/onJHTLYHvU 
+RT @AshdayInteract: Taxonomies in #Drupal can be a pain. With Straw we are hoping to change that a bit. Tag content with the right terms wi… 
+@chipmunkofpower This is fun! Thanks :) 
+Explaining #reactjs to someone who isn't technical is a tough task sometimes. The same would go for any Javascript-based anything really. It wouldn't be worth the effort if it wasn't for how popular it has become as of late. 
+@KaiserNeko Holy cow yeah that looks good. I wasn't into this when they announced Broly, but I'm sold now. 
+@holly So you can netflix while you netflix obviously. https://t.co/slhnqMIBGu 
+@channelfred @NickAnimation Chuckie! 
+I've been really hitting the #marketing end of things hard lately and I can tell you that nothing feels as good as getting good quality content out there. I'm really proud of our blog collection. Does it have some good #SEO? Yes. Even more important though is content quality. 
+@WatchVRV  https://t.co/nKhrnRdsfb 
+Nothing like jumping into what was essentially a walk-in freezer to beat the summer heat! https://t.co/56hBUesHd3 
+RT @AshdayInteract: #Drupal 8 has been available now for more than two years, but if your site is up and running on Drupal 6 or 7, you may… 
+RT @AshdayInteract: It’s usually the subtle little things that makes a good web design a great design. It’s also those same little things t… 
+Also, @Crunchyroll retweeted me &lt;3 
+@KannaHayabusa @Crunchyroll This one is just a manga so far, but you can get it on @Crunchyroll's Manga app if you have premium. I'd recommend it for sure. 
+@Acsor_ @Crunchyroll Sometimes you just need some generic shounen fun. Fairy Tail was a good time. It didn't break any ground, but it was fun and that's all you need. 
+I don't know who to tell, but @Crunchyroll Eden's zero is so good! I know it's just the first chapter but it's so scratches that fairy tail itch. 
+I'm so bad at Fortnite. It isn't even funny. I'd like to think I'm pretty good at other similar games and just games in general, but I am flat terrible at this one. Maybe I'm just old now. 
+I want to be this cool someday. https://t.co/wprt78ZUVd 
+RT @AshdayInteract: Drupal’s admin is very friendly to developers, but unnecessarily verbose when it comes to editors. Clint unpacks how we… 
+We tried so hard to do a serious/thoughtful pose for this. I just couldn't do it. xD https://t.co/3F40eRdiCn 
+I'm so bad at fortnite. 
+RT @AshdayInteract: Do you need a content management system for your business? How do you choose? #WordPress and #Drupal are great options,… 
+@billingsley313  https://t.co/1FotHMdlMb 
+RT @AshdayInteract: Do you want to use @HelloSignAPI with #Drupal8? Check out our blog post about the module that can help you do just that… 
+Daft Punk in the #WreckitRalph2 trailer was everything for me. I'm in. Not like I wasn't going to watch it before, but it helps. 
+This is why I am still on twitter. @sonic_hedgehog @elonmusk @MoonPie https://t.co/I3YJcATKcp 
+@davatron5000 The joke is on them. I've been writing all of my code in Access for years. 
+@BenBSinger Megas XLR was a fun show, but Danny Phantom has a lot more material for the team to pull from. Would be awesome to see! 
+@FUNimation @BandaiNamcoUS The seismic boxer: Mike Tecton 
+RT @AshdayInteract: The @HelloSign Module for Drupal 8 leverages Drupal 8's great new features to make using HelloSign with your site even… 
+Alright, I'm kinda on board with the whole Pokémon Let's Go thing. It isn't exactly what I wanted, but I like the connection to the mobile game with a bit more substance. It starts to feel like they are building something bigger. 
+RT @AshdayInteract: #WebDev collaboration is crucial to the success of a project. One approach is to ensure that your team members have a s… 
+RT @AshdayInteract: Trying to determine if Drupal is a good fit for your business? Consider these four questions. https://t.co/JRAEsYbwC3 
+RT @AshdayInteract: Whether you are on Drupal 6 or 7 now is a better time than ever to upgrade to Drupal 8. Here's why. https://t.co/xmFLJ6… 
+RT @AshdayInteract: Upgrading to Drupal 8 is no small feat, but you should be able to convince your boss without having to resort to grovel… 
+#FrenchMontana + #ConcertAtTheCastle I could go for some pizza :) 
+What will probably my biggest tweet ever was about a show I liked from the mid/late 90s coming back. I feel like that sounds about right. 
+RT @shanselman: HTTPS & SSL doesn't mean "trust this." It means "this is private." You may be having a private conversation with Satan. 
+RT @nixcraft: Intern sysadmin : "I don't know anything!" 
+ 
+Junior Sysadmin: "I know everything!" 
+ 
+RT @AshdayInteract: These two key practices will allow you to drive home your #webdev projects in style, with greater levels of client sati… 
+Ever open the wrong app like 3 times in a row? Pretty sure my brain isn't on yet this morning. 
+RT @AshdayInteract: In the battle of Drupal vs Wordpress, which Content Management System reigns supreme? https://t.co/Iw4k9ASHVv 
+RT @AshdayInteract: Which of these current web design trends do you hope are here to stay? https://t.co/acOKDC9wYR 
+This is just amazing. Also hard to resist playing with the style settings in browser. https://t.co/FDSXKxOxDQ 
+Getting automated can be a bit daunting at first, but if you can make it work it will save you a lot of time. We love using @circleci for our #ContinuousIntegration and really as a vehicle for some automated testing. https://t.co/h4H9Y5BBAf 
+RT @AshdayInteract: Re-reviewing client priorities regularly, especially towards the end of an assignment, can help keep your project from… 
+Have I mentioned how happy I am that we use @getpantheon for a lot of our sites? We rolled out updates to a bunch of sites within an hour of release with zero headache. #notanad #justahappycustomer 
+function non_obvious_function_title(){ 
+@arhourigan It blew minds when I showed some fellow web developers two different color picker results on the same computer with two monitors. 
+@simplyjxn Absolutely. I had a very similar experience with it. It was just crowded enough that you never felt isolated. There was also something about the variety of jobs and such that I haven't found anywhere else. 
+@awildamanda Those are definitely four of my faves! Makes me want to shake up the four I posted. Almost. 
+I'm so tempted to swap out Skyrim for Kirby super star or resident evil 4 
+Wow I figured the new reboot of Reboot would be kinda bad, but that is painful to watch. The nostalgia goggles aren't getting me through that one. 
+I asked my coworker @brian_ashday to bring me a couple stickers from #DrupalCon. He definitely delivered! Now to resist covering the @AshdayInteract office with them... https://t.co/V5epceQKHq 
+Hey #drupal any room for another Drupal themed video series? Something a little free form and focused on #drupal8? Asking for a friend... 
+We know making the leap to #Drupal8 can be scary. In the end, it is a great investment in future stability and performance. We are glad we did it and we can help you get there too! https://t.co/SRJfDv0NPo 
+Oh hey it's Friday and it's the 13th. Neat. https://t.co/OOMPiP3ehh 
+RT @AshdayInteract: The next two locations for @drupalconna have been announced! Seattle for 2019 and Minneapolis for 2020. We are definite… 
+RT @drupalcon: And the next #DrupalCon in North America will be in ..... Seattle April 8-12 2019 https://t.co/cexFppjqrf 
+I'm really digging the new look that https://t.co/sC0jmhmudu is rocking now. It looks more inviting and I think it will be a great first impression for newcomers. Yay #drupal 
+@merlinofchaos @DamienMcKenna I do recall being able to do that exact thing as a kid. I want to see this crazy DropPress repo. https://t.co/uxWnJ3Hdi0 
+RT @AshdayInteract: Excited to be at #drupalcon2018! Where else can you find @dries in a cowboy hat? #driesnote https://t.co/HkF8qvYsXm 
+ 
+RT for peppermint. Like for spearmint. 
+@WatchVRV I only accept one chosen sword. https://t.co/Gh76uLziKD 
+@eojthebrave @lullabot Sounds good! 
+@eojthebrave I won't be out there personally, but I've tasked the rest of the Ashday team with obtaining at least one of those for me. 
+I like using my MacBook for development, but I'll never be able to easily parse the symbols for some of the keys. "Press ⌥⇧⌘I " means nothing to me still :p 
+I was coding on the couch yesterday with my 3 yr old and he asked if he could try to code. I saved my work, opened up a new file, and told him to take a crack at it. He proceeded to type a few characters and then facepalm frustratedly. #proudfather #webdev 
+@AshdayInteract is going to @DrupalConNA! Who else is going? #drupal 
+I'm digging #JesusChristSuperstar a bit more than I thought I would. Great talent and a far cry better produced than previous live musical type shows on TV. They just needed to figure out the mics a bit more 
+Cheat codes are now enabled for @AshdayInteract 's blog. See it you can find them all! https://t.co/DA4AaUDI6L #webdev #eastereggs 
+That moment when you edit the and chapter twice. I'm not sure it needed it, but it's super edited now. #amwriting #amediting 
+RT @sonic_hedgehog: Sonic Mania Adventures: Part 1! https://t.co/x5AzrEBnOB 
+@ryanaslett Maybe it got more people to pay attention but I feel like it also got the wrong kind of attention. 
+Critical security update for #Drupal gets announced and the community labels it #Drupalgeddon2 . I feel like that isn't the right way to promote the platform. The security team did great at getting notice out and getting patches ready. What more do you people want? 
+Going into the weekend ready to go full in on writing. Glad I have a three day weekend to get some work done on that sort of thing. #amwriting #amediting #amready 
+@hkrys_ Pretty accurate for me too! 
+@WatchVRV Boom https://t.co/xzLgMfXssI 
+Who loves installing security updates? https://t.co/RVrTopTPcK 
+In case you are wondering why d.o is down right now. https://t.co/m2FLvDrJye 
+RT @AshdayInteract: Accountability doesn't need to translate to a general culture of blame and shame. This week, Clint unpacks the culture… 
+Server side rendering with #reactjs is pretty cool. A huge mental shift from what I've been used to, but really fun to work with 
+Going to write a blog post on inline editing with #reactjs and #Drupal8. It makes for such a slick and seamless editing experience. 
+I always get caught up in personality tests and such. I don't know how accurate any of them can be, but I enjoy the thought experiment. I'm an #infp -t in case that matters. :) 
+RT @AshdayInteract: The roles of popular #CMS options are shifting. Eventually, Why Squarespace will Replace Wordpress, Wordpress will Repl… 
+RT @Rainmaker1973: The ultimate temperature conversion guide 
+https://t.co/jOccLCc5tE 
+#FridayFunDay https://t.co/OMEZHwMrh3 
+Whenever I can, I like to sneak little easter eggs into the @AshdayInteract blog. See if you can find the latest one. I think I've made sure it's somewhat tough to find by reading the code this time. https://t.co/DA4AaUDI6L #webdev #webdevfun 
+I think it's about time for me to get a Switch. I've been patient and didn't jump on it at launch, but seems like 2018 is a great time to own one. I mean for the kids, of course. 
+I'm so ready for Deadpool 2. https://t.co/TyowB1LcQE 
+Concerned about your #drupal 6 site with the upcoming security update? That site is only going to run into more security issues as it ages. Now is the time to consider making the jump to #drupal8. @AshdayInteract are your Drupal 8 experts! 
+@wizonesolutions Yeah, I get that. Extra pixels aren't worth injury! 
+Great place to work! https://t.co/0Fz9zJcqeL 
+I know it isn't required to learn to be a #webdev, but I am so glad I learned Bash and Pearl first. It comes in handy on so many occasions, especially since I play #devops every now and then. 
+Pure CSS flyouts are just so nice 
+This is part 5 of our awesome series on running a #webdev project the right way. Definitely check it out! https://t.co/fVFV1EyqPT 
+https://t.co/vlf26SVaBW 
+Doing some switching between #drupal 7 and #drupal8 has reminded me how much I like 8. There is just so much drupal in the way in 7 it feels like. A while back I wrote this blog about it. Still rings true. https://t.co/yxLwga4Iti 
+@WatchVRV RWBY 
+Talkin' Toons 
+Bravest Warriors 
+Fullmetal Alchemist (brotherhood or og) 
+Soul Eater 
+@Ridd1e "Oh, we're using our fake names? I'm Spider-man then" 
+That #AvengersInfinityWar trailer was pretty cool! I'm hoping they can get this right. 
+@greg_1_anderson @AshdayInteract That's the first I've seen that one. Looks interesting! I've been using betterSnapTool from the app store for a similar reason. I like my vertical screen to have the bottom 2/3 a snap area for my idea and such with the remaining third on top be for other things. 
+It's a little messy but this is what I call the battle station. Couldn't #webdev or #drupal without it anymore. Thought I'd share after @greg_1_anderson shared his yesterday. https://t.co/GnnPXdS5oK 
+Finally time to submit some patches I had set aside for a few #drupal contrib modules. Feels good to give back. #OpenSource 
+@arhourigan Water is an important ingredient in pizza? 
+@greg_1_anderson Nice! I have a similar setup except the middle one is horizontal. Couldn't dev without it some days 
+RT @AshdayInteract: This week, Clint unpacks communication tips that can help you avoid going over budget and over schedule on your next #W… 
+Looking for beta testers from #cms #wordpress #drupal #webdev. We put together a tool to help inform a decision between some popular platforms for a website. Hoping to get some feedback! https://t.co/AVZ2Ma5ty6 
+@VZWSupport I just did a power cycle and that had three automatic timezone detection work correctly. So will I have to remember to restart my phone every dst? We don't do daylight savings in AZ so that is pretty annoying 
+@VZWSupport Sure, I'll play. All location services are on and were prior to today. 
+@VZWSupport Yeah I corrected it manually. This is something that happens every couple of years. I've had Verizon for a long time and dst is something I have to override on every device. 
+@VZWSupport It doesn't seem to matter between cellular and wifi, but I was on cellular at the time. I have a Moto Z Play Droid. If I let the network decide my timezone it is always mountain daylight which is incorrect 
+Stupid dst. My phone constantly thinks it is in mountain time despite being in AZ. @verizon shouldn't your network know better? I can override it but I shouldn't have to 
+Expanding my skillset is one thing I love about being a #webdev. So many useful related technologies to get acquainted with. 
+RT @cvanduyn: https://t.co/mujhIXBEyR 
+YAY #smashbros 
+RT @AshdayInteract: Software concepts are complex and the key to solving complexity is to break the concept apart into components that can… 
+RT @AshdayInteract: Does the #drupal search module do enough for your site or do you need something more? Mike covers this and compares it… 
+RT @AshdayInteract: This week Clint delves deeper into best practices for #WebDevelopment. Learn the steps Ashday takes to dig deep into id… 
+There is a #drupal module for everything. Even in #drupal8 now, this is pretty much true. With that said, I still find myself having to roll my own integration for most things. 
+RT @DamienMcKenna: Note to all #Drupal contributors - we could use a load of quick help to get all contrib modules ready for PHP 7.2. The m… 
+When you write a great presentation on #solr and #Drupal search. https://t.co/DaKkyFRlzF 
+Something refreshing about starting a new #drupal8 site from the minimal profile. Really lets you make sure you understand all of the modules in play. 
+#devops/#sysadmin days are always fun. I mean like I writing code as much as the next guy, but it's nice to get back into setting up and maintaining servers. 
+RT @AshdayInteract: There are certain trends that pop up -- sometimes briefly but other times you’ll consistently see them for years to com… 
+@arhourigan @kitten_sighting We are on a two day streak in our house. Hoping the little girl forgets about the movie for a little bit so we don't hate it. 
+@GR8Juan Heck yeah it is! I don't know what to do with myself. :D 
+I also like that my 500th tweet was me receiving my paper book in the mail from @amazon . Just perfect 
+Got my proof for my paperback! Holy cow, it's real. #amwriting https://t.co/ikJDWyBneN 
+Hey @ToeiAnimation and @SquareEnix . I'm sure someone has suggested this before, but how about we have a Chrono Trigger anime/ova/something. I know I'd be down. I bet it would be something fun between Super and other projects. 
+Hey check out this article I wrote! #webdev's that have been around for a bit will remember flash how it was and not the disaster it has become today. https://t.co/52LPlD0TYS 
+@ElderScrolls You steal my briar heart valentine 
+RT @ElderScrolls: Speaking of red… wine your own custom #NintendoSwitch by replying with a Valentine written to your #Skyrim sweetheart. 
+ 
+O… 
+RT @CommitStrip: IT Project Estimates 
+https://t.co/RDfX4kzmzD https://t.co/mE7CO6rEGk 
+RT @iamdevloper: Elon Musk: I'm putting people on Mars! 
+Developers: Fantastic, more timezones to support. 
+Getting to do some more testing with @casperjs_org. If you want to get started, check out this blog I wrote on it: https://t.co/AsAc2hwOPo #testing #webdev 
+Formatting 22 chapters and 87,000 words for a paperback is not a small task. #amwriting #amformatting #amwritingfantasy 
+RT @jpsmythe: I’ve mocked up some parabolas for The Rock’s SKYSCRAPER jump. Red is assuming he jumped up a bit first; green assuming he ran… 
+I'm never surprised when something I just wrote doesn't work on the first try. What freaks me out is when it does work and seems to be bug free. #webdev #paranoid #whatbug 
+Who wants to be my #literaryagent? I'm a programmer so you know I write queries like mad. #webdev 
+@TMNT @Nickelodeon I'm excited to share this with my kids. Plus anything that @yakkopinky is part of is going to be great. #cowabunga https://t.co/S7GhGdHWkP 
+RT @AshdayInteract: Requirements gathering is an essential component in kicking off a #Drupal project right. This step can be a minefield o… 
+@WatchVRV Both! Watch it twice. Definitely worth it. I'm a little partial to the sub voices, because that was how I first experienced the show. 
+@brian_hanson Obviously, he is a robot and the three laws of robotics prevent him from doing so. 
+#devops because someone has to keep this stuff running. 
+RT @Dries: Ashday’s candid “Drupal 8 upgrade” analysis https://t.co/b37JeqRe89 
+RT @ahaywood: Upgrading to #Drupal 8. Lessons learned from making the move. https://t.co/4luIcrrezc #webdev https://t.co/cmkJ4dqz7L 
+Curious about upgrading to #drupal8? It can seem like an impossible task at first, but it can be done. Check out @AshdayInteract's take on this: https://t.co/dhV39T6QEA 
+@arhourigan Do eeeet 
+A quick take on what those rich search results mean for your website. Curious what you think! #webdev #seo https://t.co/crnqsG6xzL 
+Wait, why isn't #NationalPieDay on the same day as #NationalPiDay? 
+And typos ... 
+Writing an article on how to choose a #cms and it is a doozy. Doing all I can as a #drupal developer to not come across biased! Weird that I have picked up a new love for #joomla in the process though. 
+https://t.co/a3cq0ZKrZ6 #webdev #drupal #performance 
+Anxious to see if my session gets selected for @DrupalConNA ! I think there is still time to submit sessions if you haven't yet! If I'm brave enough to do this after nearly 4 years of #drupal then you can too. :) 
+@portlandia @IFC @gofoojihelp Where is the Phoenix love? 
+I can't remember the last time I had to sftp something for a website. Been using git for so long it feels weird. #webdev 
+RT @AshdayInteract: A closer look at a specialized tool that we use at Ashday to figure out the best ways to make our sites run lightning-f… 
+#Drupal is made for integrations. We use it because it can do whatever we want, what about you? https://t.co/diGrBKloX8 
+If at first, you don't succeed... FATAL ERROR. #PHP #webdev https://t.co/dfdrffjqF0 
+RT @AshdayInteract: This week, Jay begins taking a look at some of the site analysis tools that we've used at Ashday to bring our websites… 
+My favorite part of working with #drupal and more specifically #drupal8 is how easy it is to integrate it with so many things. https://t.co/diGrBKloX8 
+Upgrading to #Drupal8 can seem like an impossible task. We've done it before and it can be done.  https://t.co/dhV39Tos3a 
+RT @circleci: Copy-paste this email to convince your boss you need CI/CD: https://t.co/Jn0ip2lWsW 
+RT @Crunchyroll: ⭐️ Crunchyroll 2017 Holiday Entertainment Bundle Sweepstakes ⭐️ 
+RT for a chance to win this entertainment system &amp; anime… 
+@frionel26 I'm sure I'm not the first to put this, but why not both? :) https://t.co/3P2UJdl6r3 
+I'm loving our new blog avatars at @AshdayInteract. It's fun and a whole heck of a lot easier than getting developers to take a fancy headshot. Check it out at https://t.co/Rk5Ur1dZIo 
+I'm still on the fence about Hello Neighbor. I've played through quite a bit of it, but I'm not sure I would recommend it to anyone. It's somewhere between a fumblecore game and a stealthy platformer. The problem is that it isn't too great at any of those things. 
+It seems like anyone working on #drupal knows this, but your team should be developing in a virtualized environment if possible. It can really reduce oddities during the workflow. https://t.co/EhrqmUFud4 
+@KaiserNeko https://t.co/XWWIb1YVNh 
+@t_wolfing @arhourigan I'm willing to accept that. :) 
+I'm surprised I haven't installed a @letsencrypt cert until just now. 
+Whether it is #drupal or something else, you should be cautious before you go and buy a prepackaged solution for your web/software needs. In some cases, it can save you a ton of development time, but when something goes wrong it can be a lot of pain. https://t.co/BU3vqS33q9 
+Nothing like using Imagick to turn a PDF into an image. Just another fun adventure in #webdev land. 
+I'm a little biased, but I really think you can't beat hiring a specialized team to make your website/web application. https://t.co/BKBOmtY65B 
+The #NetNeutrality vote is TOMORROW. 
+The testing part of automated testing is tough to get into sometimes. I'm glad we've gotten into it now but it can be tough. https://t.co/AsAc2hwOPo #drupal #webdev 
+@JoshuaRystedt Sweet, I'm hoping to have this ready for beta testing later this week. I'll shoot you a DM 
+Posting this again to get more attention on a Monday. We are putting together a tool to help folks decide between different CMS. Primarily this will be #drupal vs #wordpress. If you want to beta test it and give feedback let me know. 
+RT @animalcrossing: I have a fun idea… Let's all retweet this tweet! If we can get to 100K retweets worldwide, we'll give everyone 20 Leaf… 
+@starwars I wasn't in the right area to take advantage of that. Cool promotion though. 
+The Turing test on Xbox one is a lot more fun than I thought it would be. The puzzles are clever and there is enough variety to keep me interested. 
+Check out this blog post I wrote on how #drupal8 makes it easier to do more with less Drupal. https://t.co/VZY2hEshsI 
+I don't know what the big deal is about 280 characters. I don't even use 140 most of the time. 
+@BlackClover_EN What is the longest amount of time Asta has gone without yelling? 
+@Crunchyroll I'm surprised, but my favorite so far has been Juni Taisen. I really thought I'd like Black Clover better too. 
+I feel like if the answer is to put a giant blob of JSON in a data attribute then you need a new answer. #webdev #drupal 
+@arhourigan Tale as old as time 
+@SamsungUS And I'm pretty sure it's because you have mixed content on that page. https and non https. 
+@WhiteHouse In America, we worship, or don't, in whatever manner we please, right? I'm pretty sure that's written down somewhere. 
+@G0ffThew Definitely enjoyed this one quite a bit. Very well done! 
+@arhourigan Yeah it's pretty cool. Also last week tonight is great right? 
+Aaand there's a fidget spinner in my house now. Well, I tried. #dadlife 
+@jakerawr That will probably keep you busy for a while. Snipperclips is a fun one. 
+RT @NintendoAmerica: Pick a 5★ Choose Your Legends Hero at 12am PT 8/31 and RT this tweet until 7:59pm on 9/3 for a reward of up to 5 Orbs… 
+@PeanutButterGmr @brentalfloss Do Chrono trigger and then classic Secret of Mana. Worth playing at least once. 
+Also your pets are smarter than you and won't be looking at the sun, so don't worry about them. #Eclipse2017 
+I was at a DJ gig and a kid asked why I DJ. I said I did it because it makes people happy. The kid smiled and called me a nerd. #dj #kids 
+I don't think I'd wear this, but it did make me laugh a bit. #webdeveloper #css #devhumor https://t.co/Ff6LnoSIPg 
+Explaining Things - https://t.co/b6mo6G8YfH 
+Idiot pundit: mah gawd th… 
+@technerdteitzel @getpantheon Wait wait. I want that one at the bottom right corner! Which con year is that from? 
+Sold. https://t.co/ak5h0joLXJ 
+@MatPatFT Now that you have pull with @DisneyXD ... How about a tailspin reboot too? 
+My game backlog is building, but the kids and I have crushed some older Lego games. Win? Yeah #dadlife 
+@FFDP @Spotify White Knuckles and Way of the Fist are fun to program to, so those are in rotation still for sure! 
+RT @jeannes_jargon: Facebook: Essential oils. 
+Snapchat: I'm a bunny! 
+Instagram: I ate a hamburger. 
+Twitter: THIS COUNTRY IS BURNING TO THE… 
+RT @NintendoAmerica: Feh was nervous, but she hopes you enjoyed all the #FEHeroes info! If you missed the broadcast, watch it here: https:/… 
+RT @NintendoAmerica: Starting 12am PT, Leo, Xander, Corrin &amp; Elise are putting on swimsuits + paralogue &amp; special quests added! #FEHeroes h… 
+RT @shenanigansen: This comic is posted as a reply thread. 
+Keep reading in the replies! :] https://t.co/K853Q5u3k4 
+Just when I think I got this composer stuff under control, it starts throwing git submodules at me. Killin' me. #webdev #git #composer 
+@SonosSupport Yeah we don't have one, but we got it figured out. Thanks! 
+@SonosSupport We got it working. We had to switch it to a different subnet. We have a funky setup! Thanks 
+@SonosSupport No dice! I think our network setup at the office may be the deal 
+@SonosSupport Hey I've tried everything to get our new office sonos connected and nothing is working. Halp! 
+$ apache2 -v 
+$ git -v 
+$ git --version 
+RT @OhNoSheTwitnt: Possible Spicer replacements 
+-Kellyanne 
+-Littlefinger 
+-An actual pair of pants on fire 
+@adamconover I guess having plenty of resources and no one to tell you no will cause that. Further proof that he is secretly a comic villain come to life 
+Definitely going to miss Chester Bennington... Linkin Park's music always gives me strength in hard times. 
+We're streaming the game now. Come watch: https://… 
+I haven't had to touch our vagrant implementation in nearly a year. It feels weird. I guess the switch to @ansible was the right choice. 
+We solved erroneous redirection by talking advantage of the event subscriber system to change the router and with dependency injection we... 
+By using terminus to start drush as outlined in yaml instructing the CI service to compile sass and vendor libraries we automate... 
+When you are talking #drupal8 and #devops with people unfamiliar. Might as well be the retro encabulator. https://t.co/FPfGapBNvC 
+@MasterWuggles I want to believe. I really do, but I gave up on kh a while ago now 
+@geoffkeighley 2018 in this universe or 2018 in like some alternate timeline where hl3 is out too? https://t.co/UTsPfScgHC 
+RT @nxthompson: What 
+if 
+the 
+Internet 
+was 
+so 
+slow 
+it 
+loaded 
+one 
+word 
+at 
+a 
+time 
+— 
+except 
+on 
+sites 
+that 
+paid 
+off 
+your 
+ISP? 
+# netneutral ... 
+@teamfourstar Definitely got me back into Dragonball after a long time. I don't know if I'd be following Super as closely otherwise. 
+Hot dang that June power bill. Living in AZ isn't usually expensive, but that one always sneaks up on you. #arizonaheat #desert #ouch 
+No matter how many times I run through this the logic checks out. Go figure. #dadlife #blessed 
+Getting sick sucks. 
+Kids make you sick. 
+Therefore 
+Having kids is a tough but worthwhile thing to do.  #sick #dadlife 
+This is me 100%. I think I've faked my way through most sports conversations I've ever had. 
+https://t.co/bMOAy6cRof 
+Having two year olds I'm the house leads to asking important questions like... What is that and where are your pants? #dadlife #twoyrolds 
+We also added notifications for our chat service in circleci so we are really digging into the fun of automated testing 
+It's amazing to have the whole team engaged in developing more automated testing for our apps. #drupal8 #webdev #automated 
+@nerdist @yakkopinky Love the Talkin Toons show! Can't wait for more! 
+@Kirbopher @AlanLeeHD The lineup seems pretty great! Not sure I neeeed Starfox 2, but I'll play it. It's gonna be tough to find though. Oye. 
+Casperjs is so great for running headless browser tests. I think we need to do more types of tests, but we got into testing. #webdev 
+I love the Super Nintendo. I may have to get this... For my kids. Definitely, for the kids. https://t.co/ngqrY2BUXQ 
+Feeling like I'm getting the hang of some deep #drupal8 stuff. Queue and batch API makes sense and I can use them well. #webdev 
+@XboxSupport I had to unplug the console for a bit before it would see any wireless network, but all seems good now. Thanks! 
+@XboxSupport Did an update roll out recently? My Xbox one s can't find the router that it's been wirelessly using for months 
+@BenBSinger Plastic Man! 
+RT @GrandAcademia: In 3D modelling theres different kinds of shading. Flat shading, Smooth shading, Gouraud shading and Perfect Cell shadin… 
+RT @E3: In case you were wondering... horses #confirmed for @assassinscreed origins! #E32017 https://t.co/kBdJryDZSd 
+I love Skyrim. I really do. I just find it odd that it was present in all of the big three's presentations at #e32017 
+That kirby game! I need that now @NintendoAmerica . #e3 #kirby 
+Well I said I wanted Skyrim on the switch before. That sure hasn't changed. Dang it @BethesdaStudios this is my fourth time buying the game. 
+So The Silver Guardian on @Crunchyroll is great right? Just ran through 5 episodes last night and I dig it. 
+Always fun going from working on one big app to another. The mind shift leads to fun things like mistyping the same word repeatedly. #webdev 
+Successfully implemented CI for multiple sites on a @getpantheon custom upstream. Gonna make our workflow even better! #drupal #DevOps 
+So who is the Xbox streaming service really for? Maybe the games aren't doing it for me this first round, but I don't get it. 
+RT @Fallout: Almost to 1 million followers! We're giving away another signed Pip-Box! Follow + RT to enter #Fallout4OneMillion https://t.co… 
+@CollegeHumor Russia had no involvement here. #5wordspeech 
+RT @KaiserNeko: I think The Oatmeal may be one of the most well written comics on the internet. Re: The Backfire Effect https://t.co/T69NQT… 
+#DrupalCon day 2 is always such a busy and useful day. Big thanks to all of the great speakers today for your hard work and time! 
+#goals I'm going to get my act together so I can present at #DrupalCon on playing #dev and #devops in a small team. Maybe a camp first. 
+Technical difficulties starting a session must be murder for nerves #DrupalCon These speakers are pretty great for rolling with it. 
+Great session on getting auto updates on Drupal with visual regression. I know what I'm working on next week. #DrupalCon @populist thanks! 
+I'm going to get into continuous integration this year. So powerful. #DrupalCon #devops 
+The drop looks a little sad for the start of the con. Maybe it needs coffee! #DrupalConNA https://t.co/Cbod1Tiqoj 
+Excited for another @DrupalConNA  #drupalcon2017 
+@KaiserNeko https://t.co/8cVyyWFdXI 
+Tell me this wasn't on purpose and I'll tell you this isn't why I bought this one. https://t.co/5AVMzRdLpX 
+@merlinofchaos @outlandishjosh I saw that article come up in my news feed an sighed out loud. I'm pretty sure the community wasn't looking to show up on that site. 
+Can't deny a man some nuggs. https://t.co/ha7upxWDhl 
+@mortendk I prefer drush, mostly out of habit, but the rest of our team enjoys drupal console quite a bit. 
+Just beat #BreathOfTheWild . Such a fun game. You know it's good when I immediately want to jump back in and explore more. 
+@mortendk Yeah I really don't think Dries will address it openly any time soon. Gonna be a little weird in Baltimore 
+@AppleSupport My wife just received the worst customer support and was told her issue could not be resolved. Might be time for a change. 
+My poor Xbox One. Freshly purchased and ignored thanks to #BreathoftheWild coming out. I don't know when I'll be coming back to it. 
+@MasakoX Hey I really liked your latest discussion on kami and piccolo. Totally the kind of thing I was hoping the XenoVerse series would do 
+I just entered the free wildflower seeds giveaway from @Cheerios. Join me to help https://t.co/hLnBAs2vF7 #BringBackTheBees! 
+The Zora's domain in #BreathoftheWild is so dang pretty. Even better is the fact that I was able to stumble upon it organically. 
+Big thanks to all the hard-working women in my life who have helped shape me into who I am today. #internationalwomensday #RespectWomen 
+Wait I have to catch my boomerang and no more auto jump. #BreathoftheWild is letting me take control and it feels great. @NintendoAmerica 
+Been a while since I went into a game this blind. Feels good. #BreathoftheWild 
+@therealcliffyb Software development in general amirite? 
+Downloading #breathofthewild on my #WiiU . So excited. Can't wait to play! @NintendoAmerica 
+@mmschocolate do you need any volunteers to try the new flavor coming out this summer? Because I'm so in. 
+Always nice as a dev to get to that point in a solution where you discover you don't need as much code as you thought. #webdev #drupal8 
+@DavidStrauss @getpantheon For sure. Pantheon is rocking as usual. This one's a bit out of your hands. 
+So #aws #s3 issues. No big. Just a big site we have with @getpantheon is pretty much down. 
+You forget just how powerful Majin Buu is and how lucky the Z-fighters got until you see him go all out in #DragonBallSuper 
+Is that Season 2 of #sevendeadlysins on @netflix? Woo♥  #kindnessbyfooji 
+Thanks for the awesome terminus stickers @getpantheon . I'll post some pics once we pick where to stick-em 
+@Crunchyroll Thanks! I'm so excited! :D 
+I forget sometimes that before things were plug and play, I used to have to install things to use new hardware. The future is okay ish 
+No matter how long I've been using #drupal8 I still seem to look up the same API pages every time. Maybe it's just muscle memory 
+RT @NintendoAmerica: All #FEHeroes players will receive 10,000 Hero Feathers if we reach 10,000 global RTs! Ends 6:59PM PT 2/7 (cc @FE_Hero… 
+Love the new #DragonBallSuper opening. Excited for the new arc too. Keep it up @ToeiAnimation 
+Starting a new video channel In Mike's Head. Check it out did tech, games, and science! First episode drops next Wednesday. 
+Nothing like that feeling near the end of a sprint where you see the bug list. #webdev #drupal #justdevthings 
+@MatPatGT Hey! Long time viewer (like 4 years!). I'm thinking about starting a youtube channel of my own. Any advice? 
+RT @NOAAClimate: ICYMI: Scientists link toxic algal blooms along U.S. West Coast to warm waters in the Pacific. https://t.co/oKmR0Dn82J htt… 
+*into not info. 
+Also great work on terminus @getpantheon ! I'm getting the latest info our local dev tools. I don't know what we would do without it. 
+That feeling when you find a bug in something you wrote while recording a demo for a client. #dev #webdev #drupal 
+Very excited about a new side project I have coming up. More info to come next week as this solidifies a bit more. #action 
+Beside myself and just don't know how to act. Many think all of these executive orders are great. I don't :| #resist #ScienceNotSilence 
+RT @GoldenGateNPS: 2016 was the hottest year on record for the 3rd year in a row. Check out this @NASA &amp; @NOAA report: https://t.co/rLJUC56… 
+RT @AltNatParkSer: America is a beautiful country. Please don't let it be ruined by corporate greed and science denial. #Resist #Climate ht… 
+#ScienceNotSilence https://t.co/fkEcFsWiyM 
+RT @AltNatParkSer: Mr Trump, you may have taken us down officially. But with scientific evidence &amp; the Internet our message will get out. 
+RT @keithboykin: If your faith allows you to believe that Donald Trump is a God-fearing Christian and Barack Obama wasn't, your faith is wh… 
+RT @AstroKatie: If someone's political stance requires preventing scientists from informing you about your own planet, that's not politics,… 
+RT @NASAClimate: Dec 2016's avg global temp was 3rd highest on record. Global avg atmospheric CO2 concentration was ~405 ppm. https://t.co/… 
+Keep the science alive. Climate change is a real problem #ScienceNotSilence  https://t.co/ipoWtuh2r2 
+Couple days late, but @azizansari did the best #SNL monologue in a while. Perfect timing and a great message. 
+Ah man. #DragonBallSuper has me with this Great Saiyaman stuff. So much fun and that preview for the next episode! I'm a teen again 
+@Lanipator @VoiceOfVegeta the line between the parody and the source material begins to blur! Also Vegeta is the best in super by far 
+#drupal8 is more platform than CMS and I think I'm a better developer for using it. I write less and do more. #drupal #webdev 
+@NewellGodwin as long as the backing stays for more than the launch window. The Wii and Wii u had a lot of devs hyped the first year too 
+@CraigSkitz Give them time. I smell a special edition 
+@Jeff_like_Feff @PeanutButterGmr I'll just keep playing twilight princess HD while this all gets sorted out. 
+Wait what's with all the political stuff in my feed again. More video game news please. #distractme #us #nintendoswitch 
+@PeanutButterGmr @YouTube this is like Mario 64 levels of exciting 
+@JKCompletesIt plus he broke the translator for a bit. 
+Wait @BandaiNamcoUS was that XenoVerse in the #NintendoSwitchPresentation ? Please? @NintendoAmerica 
+My wife had to endure my excitement when I saw #skyrim announced for the #nintendoswitch . Buying a 4th time... @bethesda @NintendoAmerica 
+#NintendoSwitchPresentation was awesome! Answered so many questions and introduced done things I wasn't expecting. Way to go Nintendo 
+RT @Sci_Phile: I'm sadder than I thought I'd be that we're losing a president that cites confirmation bias as a threat to our country. 
+Thanks President Obama! Gonna miss you and Vice-president Biden. I know you aren't done making change. #ObamaFarewell #stillhopeful 
+Excited to see the dub of #DragonBallSuper ! Watching the sub had been great. Very curious to see how this goes. :) 
+RT @joshgad: Just think about this. If Obama or any other President tweeted anything similar to Trump, we would think they were clinically… 
+@Lingotek I'd check that link 
+I'd be pretty happy with this https://t.co/SgbYCfcr32 
+RT @NintendoAmerica: Retweet for a chance to win a #SuperMarioRun drawing signed by Mr. Miyamoto! #NintendoSweepstakes https://t.co/icHzgS6… 
+okay @ipage where did you move the create ticket button? 
+Find out what I really want in my #XboxWishList Create yours for a chance to win it! #sweepstakes @Xbox https://t.co/1OhteCICtU 
+I just like a simple controller.  https://t.co/mg5Xnh3Cdj #XboxDesignLab #Sweepstakes 
+Can we all agree Baby it's cold outside is the creepiest song of the season? #Christmas #cringe #nomeansno #DayAfterThanksgiving 
+Huh. I guess America is still pretty big on racism and sexism after all this time. Time to step the fight. I need a better world for my kids 
+RT @blairherter: I will wake up tomorrow and proudly love and support and respect minorities and women and immigrants and no one can take t… 
+Hey @Moto_USA can we get some gaming #MotoMods ? Like a gamepad or something like that? Free idea if that wasn't in the hopper yet. #motoZ 
+That was a great game. Hard fought on both sides. Happy to see the Cubbies pull it off. #gocubsgo 
+If Hillary wins can Bill please use the @FLOTUS Twitter account. That's all I really want. He's cool enough I don't think he'd mind. Right? 
+Woohoo Dragonball super on @Crunchyroll . So happy! 
+Thank you to all the amazing voice talent that brings my favorite characters to life! #performancematters #gamesneedvoice 
+Running the new guy through #Drupal8 's routing a bit. "Wow that's really complicated!" I responded with, "Should have seen it before!" #web 
+Skyrim and Zelda and awesome portability. Okay I'm on board! #NintendoNX #nintendoswitch 
+@EA Hey thanks! 
+@EA Yeah! Action RPG. I've had an idea rolling around since then. It's matured as I've grown. Someday I'll make it! Hopefully soon. 
+@EA I've wanted to get into game development since I was 5. I may return to that dream someday. Glad I made the step to get into programming 
+Woohoo! https://t.co/JHxNgbL2iU 
+https://t.co/NYnkhXREB6 #drupal #opensource This is pretty awesome. Drupal has really grown up as a platform and getting notice! 
+Hey @therealcliffyb self-taught vs classic trained devs. Looking into some game dev tools to widen my skillset. Do self-taught dev make it? 
+I'm so glad we use @ansible as our provisioner for #vagrant. Making changes to our local development setup is a breeze. #webdev #devops 
+That was fast. Imagine if you guys teamed up! @engadget @arstechnica https://t.co/VIZzZLen7a 
+@DetectiveX As long as you avoid doctors. 
+Dear @GetFacer, Notifications that start with "omg omg omg" should be reserved for lame apps. Your buddy, Mike. #loveyourapptho #cmon 
+When you come back to a project from 6 months ago to make a minor change. At least it is in #drupal8 #drupal #devproblems #didievenwritethat https://t.co/L4QVtbvxIE 
+Dang it all! I want that Pixel #MadeByGoogle . Maybe my current phone will be able to hang in there a little longer. #Android #batterywoes 
+RT @ThePracticalDev: Maslow's hierarchy of dev needs https://t.co/pEXqRNn6zM 
+Nothing like when somebody first gets into #drupal. Big thanks to @buildamodule for helping us bring new Drupalers up to speed! #training 
+Alright Solr. Let's be friends. 
+And now to use #Drupal8 custom block types in a way they were probably never intended for. Should be awesome when done. #drupal #devteam 
+Great work @kalaboxme on Kalabox 2.0! It is going to save me so much work doing ongoing maintenance of our teams local vms. 
+Spent time researching a #drupal hook I thought I needed, only to discover I didn't. #developerproblems #drupal8 #yayobjectoriented 
+RT @CallMeElie: Being attacked by everyone in town because I killed a chicken #SkyrimMemories 
+That moment when you learned to leave a Giant alone. It was also the first time I saw the sheer size of the game. #SkyrimMemories 
+@iamdevloper Make it go away! 
+Do you know #drupal ? Ashday is looking for developers! https://t.co/fVZU89qku7 #webdev #JobSeekersWednesday 
+I can't stop watching Re:Zero. Way better than I expected! Thanks @Crunchyroll for making it easier! Now maybe just one more episode... 
+@LindseyStirling rocked it on the @ConanOBrien show tonight! Super cool performance as always! 
+I want to win the new Moto Z Droid with Moto Mods to transform my world #InASnap woot! 
+https://t.co/LiTsjQKETO 
+#7FaveGames 
+Skyrim 
+Red Dead Redemption 
+Fallout: New Vegas 
+PSO I&amp;II plus 
+Sonic Adventure 2 Battle 
+Super Mario RPG 
+Chrono Trigger 
+#first7jobs 
+sign installer, 
+science guy, 
+technical support, 
+technical support manager, 
+software engineer. 
+I guess I don't have seven yet :) 
+Dang it #DragonBallSuper I want to like you, but this Trunks arc is gonna kill me. Predictable so far plus nerfed Gohan. :/ 
+Always a good day when you can get an easter egg into a site. #drupal #webdevelopment 
+Just figured out that module weight is in the config as my_module: &lt;weight&gt; so all those zeros are weights! #drupal8 #whoknew 
+If you haven't already... Please do so! https://t.co/S0GGlqVhpm 
+Seeing this screen a bit too much, but I'm glad this is popular! #pokemongo @Pokemon https://t.co/g286GfuoPF 
+Oh no #PokemonGO is out! Must. Maintain. Productivity. #iwannabetheverybest 
+@chris_shattuck D.O. in general is always a great resource. User groups can be great for specific pain points. 
+Inline template might be my favorite render element in #Drupal8. I promise I won't use it too much. 
+After working on several #Drupal8 sites, I'm finally creating a custom service. Stoked. #drupal #ilovemyjob 
+Oh hey #php 5.5 is nearly EOL. #ICYMI #DevOps Don't forget to update soon if you already haven't done so. Looking at you #drupal devs! 
+#Skyrim may be the game I've played the longest and come back to the most. Even without mods! Picked it back up again and still hooked. 
+Words I've taught my son: dude, poopoo bottom, awesome sauce, Drupal. Pretty sure #BESTDADDYEVER . #drupal #newdad 
+RT @MarkRuffalo: NO WAY: After Orlando, Congress hasn't done anything and now they're going on vacation. I say #NoBillNoBreak https://t.co/… 
+A thousand times this -&gt; https://t.co/O7og9jMrzg 
+This will probably be followed by some sort of frustrating fail on my part. Still fun though! 
+I love connecting #drupal with external services. Getting some custom S3 functionality in there now for one of our current projects. #Devs 
+RT @StutteringCraig: Give your dad a hug and kiss today... &amp; tomorrow...&amp; every day after that. Whether you realize it or not he made you t… 
+I've used #Drupal8 so much that working with 7 again takes me a minute to switch back. Definitely a big fan of the new functionality.#drupal 
+@TheJWittz Top secret hangouts are allowed when you get them to give us specifics like that! July can't come soon enough! 
+@TheJWittz Dude! So cool to see you on stage there! We expect a full report afterwards! 
+@NintendoAmerica Oh man, I want the new #Zelda game today! That looks like a blast! Couldn't be more excited. #NintendoE3 
+@MatPatGT Wait is there another way to bring groceries in other than all at once? 
+This has quickly become my new favorite station. I have thumbed some interesting music. #Pandora https://t.co/iFpaa4K4N1 
+@NintendoAmerica I'm ready for some new Zelda. Keep the good stuff coming. #Miitomo_Zelda_RT 
+RT @NintendoAmerica: The Legend of Zelda Retweet event begins! #Miitomo in-app gifts for RTs! ⇒ https://t.co/UFrnvGjLth #Miitomo_Zelda_RT h… 
+A couple highlights from @DrupalConNA written by a colleague of mine. https://t.co/BzmY7WFxpT . Check it out! #DrupalCon #drupal #Drupal8 
+#DrupalCon2016 Always excited about testing. I think I'll actually get into Behat now. Just have to convince the rest of the team :D 
+#DriesNote #DrupalCon2016  Loving the proposed initiatives. We have spent a lot of time in house trying to solve these same problems. 
+#Drupalcon2016 Let's go! 
+Flying to #DrupalCon2016 ! Gonna be awesome. 
+.@CaptainAmerica I stand with #TeamCap. #TweetMe 
+https://t.co/5uS00hlAcT Sorry Mr. Stark! Heroes should be free to do their thing. 
+Switching to ansible from chef sure made these vagrant builds a lot easier to tweak. Now if only the team would go for hip-hop php #DevOps 
+Swaddling + swing is like an infant bedtime finishing move. :) #justdadthings 
+#Miitomo #Miifoto https://t.co/eqfAMBg9XD. How you feel when you figure out some new in #drupal8 https://t.co/I9YFOMThko 
+Download #Miitomo and come have fun. It is surprisingly fun! Need to get more people on here though. 
+https://t.co/UuQOTP4Pra 
+#Miitomo is a lot more fun than I thought. Now a few more people I know need to join up :) 
+Mike vs #Drupal8 - So far I think I'm winning. Gonna have to turn some of my sweet notes into some documentation to share. Yay #drupal 
+My wife loves watching Long Island Medium! Maybe I don't mind watching too. :p #limlive #contest 
+It must be Friday. @google just sent me a time to Home notification and it's only lunch time. #thanksgoogle #android 
+@teamfourstar Whoa, has @YouTube gotten this taken care of yet? This is nuts! You guys are the best. #WTFU #YouTube 
+RT @DubuqueDanny76: #TribecaBinge it's like a tv show of the movie "airplane" can't miss with me. Two "thumbs" up. #AngieTribeca 
+#AngieTribeca is probably my ideal show on TV. Wife can't handle 30 seconds of it. Too embarrassed. So funny 
+Turns out I was using Features wrong on #drupal 7. Now to manage changes in code without the headache. #ConfigManagement #devops 
+Woo just got our first site update to #Drupal8  on @getpantheon ! 
+https://t.co/sDM6Z2b9Q0 This cracked me up so much. Git is witchcraft to even those who use it some times. #DevOps #devproblems 
+Learning so much configuration management at @BADCamp #DevOps  summit. #drupal8 is a little less confusing already. 
+Having fun building a new Drupal module for the #HelloSignAPI . The docs made it super easy. 
+Super proud of this site we've been working on http://t.co/cA9TIYrKar . Check it out! #customtshirts #eSports 
+So sad. He will be missed. #ThankYouIwata  https://t.co/1XSpEeuJev 
+@Chilis Why doesn't your rewards registration form give a better error than "Whoops something went wrong. Try again" ? Not really helpful 
+Love the games in the rare collection but will my nostalgia filter save these n64 era games from showing their age too much? #E32015 #XboxE3 
+This is why I haven't upgraded to an Xbox one yet. Now I may have a reason with backwards compatibility and more fallout. #E32015 #XboxE3 
+True. DOSbox will have to do for now. Unless someone finds some spare time for a jazz hd re-release. Just sayin' https://t.co/CoegZQkMkK 
+@therealcliffyb Aw now I need to find a way to play jazz jackrabbit again. 
+Google calendar + drupal + fullcalendar .js + restful = Super awesome interactive calendar. Spent too much time on the one. 
+@DisneylandAP Our four yr old foster daughter is a frozen fanatic (duh). Are any of the frozen characters around the park during the day? 
+@DisneylandToday  We are so excited to be bringing our foster kids to @Disneyland for the first time! Should be amazing for us and them :) 
+Building a calendar app is not as fun as one would imagine. Yes, that means negative fun. 
+Definitely didn't ditch the last session of #DrupalConLA final session for an evening at the beach. :) http://t.co/M93nwnJrok 
+@RochenHost #RochenPenguin This penguin is unaffected by drupalgeddon. http://t.co/tISE8Oyjcw 
+#drupalradio How about some draft punk? Human after all or some thing. :) 
+Great session on automation and testing at #DrupalConLA . Giving TravisCI another shot to help us out. Thanks @outlandishjosh and @lz411! 
+Ready for the keynote/driesnote at #DrupalConLA http://t.co/9G6pWEqrDL 
+Heading to #DrupalConLA with the team! Super excited! 
+That moment when you are programming with headphones on and your coworkers catch you mumbling to yourself. #maybetoofocused :) 
+Excited for Drupal 8 module development. Let's see how much I already know :) @SANDcamp #SANDcamp 
+Making some connections and learning some cool stuff. Phpunit testing in d8 is a little less scary now. @SANDcamp  #drupal #SANDcamp 
+Excited to get some Drupal on at @SANDcamp 
+@pandora_radio @theglitchmob Actually I'm pretty sure Our Demons (Hive Remix) is my favorite on the album. Though I liked them all. 
+@pandora_radio @theglitchmob Hard to pick yet! I really liked I Need My Memory Back (Boom Bip Remix). Definitely a great album! 
+Listening to the new @theglitchmob album on @pandora_radio. Super cool to listen to the album before it comes out! Pre-ordering :) 
+Advised that singing or humming a tune at bed time helps baby fall asleep. So I chose Zelda's lullaby :) #gamerdad 
+Just got done with some prep for developing with Drupal 8. Super stoked! Thanks @buildamodule @chris_shattuck for making those videos! 
+Super excited to have Ember in the Darkness a kindle exclusive and now free to read with Amazon kindle unlimited! 
+RT @ChildCrisis: Looking for something scary to do this weekend? Head to the House On Camino Mesa's premier haunted garage attraction! http… 
+Day 3 at #drupalcon . Ready to learn how to plan for performance. Devops track has been fantastic this year. 
+Finished a great day 2 at #drupalcon . Got some awesome performance advice from @akucharski . Excited to ramp up performance when we return 
+#drupalcon  day 2. Really excited for viewception starting right now :) 
+Learning how to improve user experience on WordPress. Great stuff! #wcphx 
+Raspberry Ketone is all the new craze!! http://t.co/VTHJh2Uj 
+Ever wonder where video game characters keep all the stuff they pick up? My theory is wormholes in their pockets. 
+More than 25 episodes of Technically Able are online! Technically-able.com #webcomics #technicallyable 
+Technically Able is cruising along well. Tuesday will be episode 21 and I'm getting in a good groove of making them. :D 
+Gotta check out the website inspirationalquotes-terriblepeople.com Its a good site @iqftpblog 
+Have you sampled #emberinthedarkness ? It's available on smashwords and kindle. Gouldingcreations.com 
+www.gouldingcreations.com Check out my new site! Follow the links to find updates on Ember in the Darkness 
+All your base are belong to us. 
+Also I just discovered the wonders of iGoogle 
+Come on... End of the day and I get my first frustrating issue at work. Not cool. :P 
+RT @kpereira: Excellent speech by President Obama. I hope we as a nation find that sense of unity he spoke about, and that it isn't squa ... 
+The system is down. The system is down :p Yay? 
+The book is almost formatted for ebook consumption. Cover looks good too. I'm ready smashwords.com! 
+I'm an e-published author! Check out Ember in the Darkness on Amazon Kindle 
+I just entered the Cheap Ass Gamer $10,000 GameStop gift cards giveaway! @videogamedeals http://ow.ly/1JPrB 
+Two new articles. Look for Phoenix classic video game examiner! 
+Nothing like a paw to the face to start the morning. :/ 
+Just got home from work at the #arizonasciencecenter Long day but fun as always 
+Could have benefitted from knowing assembly language today. Whoever thought that would happen :P 
+I wish I would have learned assembly language :/ 
+Dogs woke me up early... Guess they decided I didn't need sleep. 
+Metroid: Other M 7/10 A good addition to the series, but hurt by controls 
+Gonna check the game stats post PAX. I'll tweet the latest 
+Tried my hand at tearing down a traveling exhibit today. Exhibit tech stuff is fun. 
+The AMA's don't impress me... Why does rock get ignored? Green day sucks 
+I'm so bored at work..  No one is coming to the science center today! Why? 
